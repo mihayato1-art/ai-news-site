@@ -1,0 +1,206 @@
+     1	# 🤖 AI情報サイト 毎日自動更新システム
+     2	name: Daily AI News Auto Update
+     3	
+     4	on:
+     5	  # スケジュール実行（JST時間）
+     6	  schedule:
+     7	    - cron: '0 0 * * *'    # 毎日 09:00 JST (00:00 UTC)
+     8	    - cron: '0 9 * * *'    # 毎日 18:00 JST (09:00 UTC)
+     9	  
+    10	  # 手動実行も可能
+    11	  workflow_dispatch:
+    12	    inputs:
+    13	      force_update:
+    14	        description: '強制更新モード'
+    15	        required: false
+    16	        default: 'false'
+    17	        type: boolean
+    18	
+    19	env:
+    20	  NODE_VERSION: '18'
+    21	  TZ: 'Asia/Tokyo'
+    22	
+    23	jobs:
+    24	  collect-and-update:
+    25	    runs-on: ubuntu-latest
+    26	    
+    27	    steps:
+    28	    # 📁 リポジトリチェックアウト
+    29	    - name: 📁 Checkout Repository
+    30	      uses: actions/checkout@v4
+    31	      with:
+    32	        token: ${{ secrets.GITHUB_TOKEN }}
+    33	        fetch-depth: 0
+    34	
+    35	    # 🔧 Node.js環境セットアップ
+    36	    - name: 🔧 Setup Node.js ${{ env.NODE_VERSION }}
+    37	      uses: actions/setup-node@v4
+    38	      with:
+    39	        node-version: ${{ env.NODE_VERSION }}
+    40	        cache: 'npm'
+    41	
+    42	    # 📦 依存関係インストール
+    43	    - name: 📦 Install Dependencies
+    44	      run: |
+    45	        npm install --production
+    46	        npm list --depth=0
+    47	
+    48	    # 🔍 システム情報表示
+    49	    - name: 🔍 System Information
+    50	      run: |
+    51	        echo "🕐 実行時刻: $(date '+%Y-%m-%d %H:%M:%S %Z')"
+    52	        echo "🤖 Node.js: $(node --version)"
+    53	        echo "📦 npm: $(npm --version)"
+    54	        echo "💾 ディスク使用量: $(df -h . | tail -1 | awk '{print $5}')"
+    55	
+    56	    # 📰 AI最新ニュース収集
+    57	    - name: 📰 Collect Latest AI News
+    58	      env:
+    59	        NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+    60	        GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+    61	        FORCE_UPDATE: ${{ inputs.force_update }}
+    62	      run: |
+    63	        echo "🔍 AI最新ニュース収集を開始..."
+    64	        node scripts/collect-news.js
+    65	        echo "✅ ニュース収集完了"
+    66	        
+    67	        # 収集結果の確認
+    68	        if [ -f "data/latest-news.json" ]; then
+    69	          echo "📊 収集されたニュース件数: $(cat data/latest-news.json | jq '.news | length')"
+    70	        fi
+    71	
+    72	    # 🛠️ AIツール情報更新
+    73	    - name: 🛠️ Update AI Tools Information  
+    74	      run: |
+    75	        echo "🔧 AIツール情報を更新中..."
+    76	        node scripts/update-tools.js
+    77	        echo "✅ ツール情報更新完了"
+    78	
+    79	    # 🎨 Webサイトコンテンツ更新
+    80	    - name: 🎨 Update Website Content
+    81	      run: |
+    82	        echo "🎨 Webサイトコンテンツを更新中..."
+    83	        node scripts/update-site.js
+    84	        echo "✅ サイトコンテンツ更新完了"
+    85	
+    86	    # 📊 更新統計生成
+    87	    - name: 📊 Generate Update Statistics
+    88	      run: |
+    89	        echo "📊 更新統計を生成中..."
+    90	        node scripts/generate-stats.js
+    91	        echo "✅ 統計生成完了"
+    92	
+    93	    # 🔍 変更検出
+    94	    - name: 🔍 Check for Content Changes
+    95	      id: changes
+    96	      run: |
+    97	        git add .
+    98	        if [[ -n $(git diff --cached --name-only) ]]; then
+    99	          echo "changes=true" >> $GITHUB_OUTPUT
+   100	          echo "📝 コンテンツ変更を検出しました"
+   101	          echo "変更されたファイル:"
+   102	          git diff --cached --name-only | sed 's/^/  - /'
+   103	        else
+   104	          echo "changes=false" >> $GITHUB_OUTPUT
+   105	          echo "ℹ️ コンテンツに変更はありませんでした"
+   106	        fi
+   107	
+   108	    # 💾 変更をコミット
+   109	    - name: 💾 Commit Content Changes
+   110	      if: steps.changes.outputs.changes == 'true'
+   111	      run: |
+   112	        git config --local user.email "ai-bot@github-actions.com"
+   113	        git config --local user.name "AI News Bot 🤖"
+   114	        
+   115	        # コミットメッセージの生成
+   116	        COMMIT_MSG="🤖 AI情報自動更新 $(date '+%Y-%m-%d %H:%M JST')"
+   117	        
+   118	        if [ -f "data/latest-news.json" ]; then
+   119	          NEWS_COUNT=$(cat data/latest-news.json | jq -r '.totalCount // 0')
+   120	          COMMIT_MSG="$COMMIT_MSG - ${NEWS_COUNT}件のニュース"
+   121	        fi
+   122	        
+   123	        git commit -m "$COMMIT_MSG"
+   124	        echo "✅ 変更をコミットしました: $COMMIT_MSG"
+   125	
+   126	    # 🚀 GitHub Pagesにデプロイ
+   127	    - name: 🚀 Deploy to GitHub Pages
+   128	      if: steps.changes.outputs.changes == 'true'
+   129	      uses: peaceiris/actions-gh-pages@v3
+   130	      with:
+   131	        github_token: ${{ secrets.GITHUB_TOKEN }}
+   132	        publish_dir: ./dist
+   133	        publish_branch: gh-pages
+   134	        commit_message: "🚀 Deploy AI site update ${{ github.sha }}"
+   135	        user_name: 'AI Deploy Bot'
+   136	        user_email: 'ai-deploy@github-actions.com'
+   137	
+   138	    # 📤 変更をメインブランチにプッシュ
+   139	    - name: 📤 Push Changes to Main
+   140	      if: steps.changes.outputs.changes == 'true'
+   141	      run: |
+   142	        git push origin main
+   143	        echo "✅ 変更をメインブランチにプッシュしました"
+   144	
+   145	    # 📊 実行サマリー
+   146	    - name: 📊 Execution Summary
+   147	      if: always()
+   148	      run: |
+   149	        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+   150	        echo "🤖 AI情報サイト自動更新 実行結果"
+   151	        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+   152	        echo "🕐 実行時刻: $(date '+%Y-%m-%d %H:%M:%S %Z')"
+   153	        echo "📝 変更検出: ${{ steps.changes.outputs.changes }}"
+   154	        
+   155	        if [ -f "data/latest-news.json" ]; then
+   156	          echo "📰 ニュース件数: $(cat data/latest-news.json | jq -r '.totalCount // 0')件"
+   157	          echo "⭐ 重要ニュース: $(cat data/latest-news.json | jq -r '.news | map(select(.importance >= 7)) | length')件"
+   158	        fi
+   159	        
+   160	        echo "💾 使用ストレージ: $(du -sh . | cut -f1)"
+   161	        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+   162	
+   163	  # 📧 失敗時の通知
+   164	  notify-on-failure:
+   165	    runs-on: ubuntu-latest
+   166	    needs: collect-and-update
+   167	    if: failure()
+   168	    
+   169	    steps:
+   170	    - name: 🚨 Send Failure Notification
+   171	      run: |
+   172	        echo "🚨 AI情報サイトの自動更新でエラーが発生しました"
+   173	        echo "📅 実行時刻: $(date '+%Y-%m-%d %H:%M:%S %Z')"
+   174	        echo "🔗 詳細: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+   175	        
+   176	        # 必要に応じてSlack/Discord通知も追加可能
+   177	        # curl -X POST -H 'Content-type: application/json' \
+   178	        #   --data '{"text":"🚨 AI情報サイトの自動更新でエラーが発生しました"}' \
+   179	        #   ${{ secrets.SLACK_WEBHOOK_URL }}
+   180	
+   181	  # 🧹 週次クリーンアップ（日曜日のみ）
+   182	  weekly-cleanup:
+   183	    runs-on: ubuntu-latest
+   184	    if: github.event.schedule == '0 0 * * 0'  # 日曜日のみ
+   185	    
+   186	    steps:
+   187	    - name: 📁 Checkout Repository
+   188	      uses: actions/checkout@v4
+   189	
+   190	    - name: 🧹 Weekly Cleanup
+   191	      run: |
+   192	        echo "🧹 週次クリーンアップを実行中..."
+   193	        
+   194	        # 古いログファイルの削除
+   195	        find logs/ -name "*.log" -mtime +7 -delete 2>/dev/null || true
+   196	        
+   197	        # 古いバックアップファイルの削除  
+   198	        find data/archive/ -name "*.json" -mtime +30 -delete 2>/dev/null || true
+   199	        
+   200	        echo "✅ クリーンアップ完了"
+   201	
+   202	    - name: 📊 Generate Weekly Report
+   203	      run: |
+   204	        echo "📊 週次レポート生成中..."
+   205	        node scripts/generate-weekly-report.js
+   206	        echo "✅ 週次レポート生成完了"
