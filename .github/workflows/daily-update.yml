@@ -33,11 +33,11 @@ jobs:
         fetch-depth: 0
 
     # 🔧 Node.js環境セットアップ
-    - name: 🔧 Setup Node.js ${{ env.NODE_VERSION }}
-      uses: actions/setup-node@v4
-      with:
-        node-version: ${{ env.NODE_VERSION }}
-        cache: 'npm'
+- name: 🔧 Setup Node.js ${{ env.NODE_VERSION }}
+  uses: actions/setup-node@v4
+  with:
+    node-version: ${{ env.NODE_VERSION }}
+
 
     # 📦 依存関係インストール
     - name: 📦 Install Dependencies
