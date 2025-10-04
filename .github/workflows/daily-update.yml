@@ -1,0 +1,45 @@
+name: Daily AI News Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # 毎日9時 (UTC 0時 = JST 9時)
+    - cron: '0 9 * * *'    # 毎日18時 (UTC 9時 = JST 18時)
+  workflow_dispatch:       # 手動実行も可能
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies
+      run: |
+        npm install
+        
+    - name: Collect AI News
+      env:
+        NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+      run: node scripts/collect-news.js
+      
+    - name: Update AI Tools Info
+      run: node scripts/update-tools.js
+      
+    - name: Generate Statistics
+      run: node scripts/generate-stats.js
+      
+    - name: Update Site
+      run: node scripts/update-site.js
+      
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
+        publish_branch: gh-pages
