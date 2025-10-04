@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIツール比較表 - AI初心者ガイド</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #333; background: #f8f9fa; }
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+        header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem 0; margin-bottom: 2rem; border-radius: 10px; }
+        h1 { text-align: center; font-size: 2.5rem; }
+        .comparison-table { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        table { width: 100%; border-collapse: collapse; }
+        th { background: #2c3e50; color: white; padding: 1rem; text-align: left; font-weight: 600; }
+        td { padding: 1rem; border-bottom: 1px solid #ecf0f1; vertical-align: top; }
+        .tool-name { font-weight: bold; color: #2c3e50; font-size: 1.1rem; }
+        .company { color: #7f8c8d; font-size: 0.9rem; }
+        .rating { background: #e74c3c; color: white; padding: 0.3rem 0.6rem; border-radius: 15px; font-size: 0.8rem; display: inline-block; }
+        .category { background: #3498db; color: white; padding: 0.2rem 0.5rem; border-radius: 10px; font-size: 0.7rem; }
+        .features { font-size: 0.9rem; }
+        .pros { color: #27ae60; }
+        .cons { color: #e74c3c; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #667eea; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .update-time { text-align: center; color: #7f8c8d; margin-top: 2rem; }
+        
+        @media (max-width: 768px) {
+            .comparison-table { overflow-x: auto; }
+            th, td { min-width: 150px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">← メインページに戻る</a>
+        
+        <header>
+            <h1>🛠️ AIツール詳細比較</h1>
+        </header>
+
+        <div class="comparison-table">
+            <table>
+                <thead>
+                    <tr>
+                        <th>ツール名</th>
+                        <th>説明</th>
+                        <th>主な機能</th>
+                        <th>料金</th>
+                        <th>メリット</th>
+                        <th>デメリット</th>
+                        <th>評価</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                        <tr>
+                            <td>
+                                <div class="tool-name">ChatGPT</div>
+                                <div class="company">OpenAI</div>
+                                <div class="category">汎用AI</div>
+                            </td>
+                            <td>対話型AI、質問応答・文章生成に最適</td>
+                            <td class="features">対話形式、文章生成、コード生成、翻訳</td>
+                            <td>無料版あり、Plus版$20/月</td>
+                            <td class="pros">使いやすいUI、高品質な回答、豊富な知識</td>
+                            <td class="cons">最新情報に制限、リアルタイム検索不可</td>
+                            <td><span class="rating">9.2/10</span></td>
+                        </tr>
+                    
+                        <tr>
+                            <td>
+                                <div class="tool-name">Claude</div>
+                                <div class="company">Anthropic</div>
+                                <div class="category">汎用AI</div>
+                            </td>
+                            <td>安全性重視、長文解析に強いAIアシスタント</td>
+                            <td class="features">長文処理、安全性重視、コード解析、文書要約</td>
+                            <td>無料版あり、Pro版$20/月</td>
+                            <td class="pros">長文対応、安全性高い、詳細な分析</td>
+                            <td class="cons">応答速度やや遅い、日本語やや弱い</td>
+                            <td><span class="rating">8.8/10</span></td>
+                        </tr>
+                    
+                        <tr>
+                            <td>
+                                <div class="tool-name">Gemini</div>
+                                <div class="company">Google</div>
+                                <div class="category">汎用AI</div>
+                            </td>
+                            <td>Google製多機能AIアシスタント、検索連携が強み</td>
+                            <td class="features">リアルタイム検索、多言語対応、画像認識、Google連携</td>
+                            <td>無料版あり、Advanced版￥2,900/月</td>
+                            <td class="pros">最新情報アクセス、Google連携、多機能</td>
+                            <td class="cons">回答の一貫性にばらつき、プライバシー懸念</td>
+                            <td><span class="rating">8.5/10</span></td>
+                        </tr>
+                    
+                        <tr>
+                            <td>
+                                <div class="tool-name">Midjourney</div>
+                                <div class="company">Midjourney Inc.</div>
+                                <div class="category">画像生成AI</div>
+                            </td>
+                            <td>高品質AI画像生成ツール、アート性の高い画像作成</td>
+                            <td class="features">画像生成、アート性重視、スタイル多様、コミュニティ</td>
+                            <td>Basic $10/月、Standard $30/月</td>
+                            <td class="pros">画像品質高い、アート性抜群、スタイル豊富</td>
+                            <td class="cons">Discord必須、学習コスト高い、有料のみ</td>
+                            <td><span class="rating">9/10</span></td>
+                        </tr>
+                    
+                        <tr>
+                            <td>
+                                <div class="tool-name">DALL-E 3</div>
+                                <div class="company">OpenAI</div>
+                                <div class="category">画像生成AI</div>
+                            </td>
+                            <td>OpenAI製画像生成AI、自然な指示で高品質画像作成</td>
+                            <td class="features">画像生成、自然言語指示、ChatGPT連携、高解像度</td>
+                            <td>ChatGPT Plus経由 $20/月</td>
+                            <td class="pros">指示が簡単、ChatGPT連携、高品質</td>
+                            <td class="cons">単体利用不可、生成数制限、商用利用制限</td>
+                            <td><span class="rating">8.7/10</span></td>
+                        </tr>
+                    
+                        <tr>
+                            <td>
+                                <div class="tool-name">Stable Diffusion</div>
+                                <div class="company">Stability AI</div>
+                                <div class="category">画像生成AI</div>
+                            </td>
+                            <td>オープンソース画像生成AI、カスタマイズ性が高い</td>
+                            <td class="features">オープンソース、カスタマイズ可能、無料利用可能、拡張性</td>
+                            <td>基本無料、クラウド版有料オプション</td>
+                            <td class="pros">完全無料、カスタマイズ自由、コミュニティ活発</td>
+                            <td class="cons">技術知識必要、設定複雑、PC性能要求</td>
+                            <td><span class="rating">8.3/10</span></td>
+                        </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+
+        <div class="update-time">
+            <p>最終更新: 2025/10/4 9:47:22</p>
+        </div>
+    </div>
+</body>
+</html>

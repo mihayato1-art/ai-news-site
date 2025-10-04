@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIを使う初心者のためのまとめサイト</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #333; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem 0; }
+        h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
+        .subtitle { font-size: 1.2rem; opacity: 0.9; }
+        .main-content { padding: 2rem 0; }
+        .section { margin-bottom: 3rem; }
+        .section h2 { color: #2c3e50; border-bottom: 3px solid #667eea; padding-bottom: 0.5rem; margin-bottom: 1.5rem; }
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem; }
+        .news-card { background: white; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); padding: 1.5rem; transition: transform 0.3s ease; }
+        .news-card:hover { transform: translateY(-5px); }
+        .news-title { color: #2c3e50; font-size: 1.1rem; font-weight: bold; margin-bottom: 0.5rem; }
+        .news-summary { color: #7f8c8d; font-size: 0.9rem; line-height: 1.5; }
+        .news-meta { display: flex; justify-content: space-between; align-items: center; margin-top: 1rem; font-size: 0.8rem; color: #95a5a6; }
+        .importance-badge { background: #e74c3c; color: white; padding: 0.2rem 0.6rem; border-radius: 15px; font-size: 0.7rem; }
+        .tools-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; }
+        .tool-card { background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); padding: 1rem; text-align: center; }
+        .tool-name { font-weight: bold; color: #2c3e50; margin-bottom: 0.5rem; }
+        .stats-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
+        .stat-card { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 1.5rem; border-radius: 10px; text-align: center; }
+        .stat-number { font-size: 2rem; font-weight: bold; }
+        .stat-label { font-size: 0.9rem; opacity: 0.9; }
+        footer { background: #2c3e50; color: white; text-align: center; padding: 2rem 0; margin-top: 3rem; }
+        .update-time { background: #ecf0f1; padding: 1rem; border-radius: 5px; margin-bottom: 2rem; text-align: center; color: #7f8c8d; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🤖 AI初心者ガイド</h1>
+            <p class="subtitle">最新のAI情報と使いやすいツールをまとめてお届け</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="main-content">
+            <div class="update-time">
+                <p>最終更新: 2025/10/4 9:47:23 | 自動更新システムにより毎日9時・18時に更新</p>
+            </div>
+
+            <!-- 統計情報 -->
+            <section class="section">
+                <h2>📊 サイト統計</h2>
+                <div class="stats-container">
+                    <div class="stat-card">
+                        <div class="stat-number">20</div>
+                        <div class="stat-label">総記事数</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">0</div>
+                        <div class="stat-label">今日の新着</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">2</div>
+                        <div class="stat-label">重要記事</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 最新AI記事 -->
+            <section class="section">
+                <h2>📰 最新AI記事</h2>
+                <div class="news-grid">
+                    
+        <div class="news-card">
+            <div class="news-title">OpenAI announces strategic collaboration with Japan’s Digital Agency</div>
+            <div class="news-summary">OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.</div>
+            <div class="news-meta">
+                <span>OpenAI News</span>
+                <span class="importance-badge">8/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure</div>
+            <div class="news-summary">Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.</div>
+            <div class="news-meta">
+                <span>OpenAI News</span>
+                <span class="importance-badge">8/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks</div>
+            <div class="news-summary">Posted by Urs Köster, Software Engineer, Google Research
+
+
+
+
+Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new time series data), and continuously updating that assumption to form a posterior probability distribution. Traditional Bayesian approaches like Gaussian processes (GPs) and Structural Time Series are extensively used for modeling time series data, e.g., the commonly used Mauna Loa CO2 dataset. However, they often rely on domain experts to painstakingly select appropriate model components and may be computationally expensive. Alternatives such as neural networks lack interpretability, making it difficult to understand how they generate forecasts, and don't produce reliable confidence intervals. 
+
+
+
+To that end, we introduce AutoBNN, a new open-source package written in JAX. AutoBNN automates the discovery of interpretable time series forecasting models, provides high-quality uncertainty estimates, and scales effectively for use on large datasets. We describe how AutoBNN combines the interpretability of traditional probabilistic approaches with the scalability and flexibility of neural networks.
+
+
+
+    
+AutoBNN
+line of research that over the past decade has yielded improved predictive accuracy by modeling time series using GPs with learned kernel structures. The kernel function of a GP encodes assumptions about the function being modeled, such as the presence of trends, periodicity or noise.  With learned GP kernels, the kernel function is defined compositionally: it is either a base kernel (such as Linear, Quadratic, Periodic, Matérn or ExponentiatedQuadratic) or a composite that combines two or more kernel functions using operators such as Addition, Multiplication, or ChangePoint. This compositional kernel structure serves two related purposes. First, it is simple enough that a user who is an expert about their data, but not necessarily about GPs, can construct a reasonable prior for their time series. Second, techniques like Sequential Monte Carlo can be used for discrete searches over small structures and can output interpretable results.
+Bayesian neural networks (BNNs) while retaining the compositional kernel structure. A BNN is a neural network with a probability distribution over weights rather than a fixed set of weights. This induces a distribution over outputs, capturing uncertainty in the predictions. BNNs bring the following advantages over GPs: First, training large GPs is computationally expensive, and traditional training algorithms scale as the cube of the number of data points in the time series. In contrast, for a fixed width, training a BNN will often be approximately linear in the number of data points. Second, BNNs lend themselves better to GPU and TPU hardware acceleration than GP training operations. Third, compositional BNNs can be easily combined with traditional deep BNNs, which have the ability to do feature discovery. One could imagine "hybrid" architectures, in which users specify a top-level structure of Add(Linear, Periodic, Deep), and the deep BNN is left to learn the contributions from potentially high-dimensional covariate information.
+
+
+
+How might one translate a GP with compositional kernels into a BNN then? A single layer neural network will typically converge to a GP as the number of neurons (or "width") goes to infinity. More recently, researchers have discovered a correspondence in the other direction — many popular GP kernels (such as Matern, ExponentiatedQuadratic, Polynomial or Periodic) can be obtained as infinite-width BNNs with appropriately chosen activation functions and weight distributions. Furthermore, these BNNs remain close to the corresponding GP even when the width is very much less than infinite. For example, the figures below show the difference in the covariance between pairs of observations, and regression results of the true GPs and their corresponding width-10 neural network versions.
+
+
+
+
+Comparison of Gram matrices between true GP kernels (top row) and their width 10 neural network approximations (bottom row).
+
+
+
+Comparison of regression results between true GP kernels (top row) and their width 10 neural network approximations (bottom row).
+
+BNN analogues of the Addition and Multiplication operators over GPs, and input warping to produce periodic kernels. BNN addition is straightforwardly given by adding the outputs of the component BNNs. BNN multiplication is achieved by multiplying the activations of the hidden layers of the BNNs and then applying a shared dense layer. We are therefore limited to only multiplying BNNs with the same hidden width.
+
+
+
+    
+Using AutoBNN
+package is available within Tensorflow Probability. It is implemented in JAX and uses the flax.linen neural network library. It implements all of the base kernels and operators discussed so far (Linear, Quadratic, Matern, ExponentiatedQuadratic, Periodic, Addition, Multiplication) plus one new kernel and three new operators:  
+
+
+
+
+a OneLayer kernel, a single hidden layer ReLU BNN,
+
+
+a ChangePoint operator that allows smoothly switching between two kernels,
+
+
+a LearnableChangePoint operator which is the same as ChangePoint except position and slope are given prior distributions and can be learnt from the data, and
+
+
+a WeightedSum operator.
+
+
+
+
+
+WeightedSum combines two or more BNNs with learnable mixing weights, where the learnable weights follow a Dirichlet prior. By default, a flat Dirichlet distribution with concentration 1.0 is used.
+
+
+
+WeightedSums allow a "soft" version of structure discovery, i.e., training a linear combination of many possible models at once. In contrast to structure discovery with discrete structures, such as in AutoGP, this allows us to use standard gradient methods to learn structures, rather than using expensive discrete optimization. Instead of evaluating potential combinatorial structures in series, WeightedSum allows us to evaluate them in parallel. 
+
+
+
+To easily enable exploration, AutoBNN defines a number of model structures that contain either top-level or internal WeightedSums. The names of these models can be used as the first parameter in any of the estimator constructors, and include things like sum_of_stumps (the WeightedSum over all the base kernels) and sum_of_shallow (which adds all possible combinations of base kernels with all operators).
+
+
+Illustration of the sum_of_stumps model. The bars in the top row show the amount by which each base kernel contributes, and the bottom row shows the function represented by the base kernel. The resulting weighted sum is shown on the right.
+
+M3 dataset. The six base structures were ExponentiatedQuadratic (which is the same as the Radial Basis Function kernel, or RBF for short), Matern, Linear, Quadratic, OneLayer and Periodic kernels. The figure shows the MAP estimates of their weights over an ensemble of 32 particles. All of the high likelihood particles gave a large weight to the Periodic component, low weights to Linear, Quadratic and OneLayer, and a large weight to either RBF or Matern.
+
+
+
+
+
+
+Parallel coordinates plot of the MAP estimates of the base kernel weights over 32 particles. The sum_of_stumps model was trained on the N374 series from the M3 dataset (insert in blue). Darker lines correspond to particles with higher likelihoods.
+
+WeightedSums as the inputs to other operators, it is possible to express rich combinatorial structures, while keeping models compact and the number of learnable weights small. As an example, we include the sum_of_products model (illustrated in the figure below) which first creates a pairwise product of two WeightedSums, and then a sum of the two products. By setting some of the weights to zero, we can create many different discrete structures. The total number of possible structures in this model is 216, since there are 16 base kernels that can be turned on or off. All these structures are explored implicitly by training just this one model.
+
+
+
+
+
+Illustration of the "sum_of_products" model. Each of the four WeightedSums have the same structure as the "sum_of_stumps" model.
+
+Periodic and either the Matern or ExponentiatedQuadratic) lead to overfitting on many datasets. To prevent this, we have defined model classes like sum_of_safe_shallow that exclude such products when performing structure discovery with WeightedSums.
+
+
+
+For training, AutoBNN provides AutoBnnMapEstimator and AutoBnnMCMCEstimator to perform MAP and MCMC inference, respectively. Either estimator can be combined with any of the six likelihood functions, including four based on normal distributions with different noise characteristics for continuous data and two based on the negative binomial distribution for count data.  
+
+
+
+
+
+
+Result from running AutoBNN on the Mauna Loa CO2 dataset in our example colab. The model captures the trend and seasonal component in the data. Extrapolating into the future, the mean prediction slightly underestimates the actual trend, while the 95% confidence interval gradually increases.
+
+scikit-learn–inspired estimator interface:
+import autobnn as ab
+
+model = ab.operators.Add(
+    bnns=(ab.kernels.PeriodicBNN(width=50),
+          ab.kernels.LinearBNN(width=50),
+          ab.kernels.MaternBNN(width=50)))
+
+estimator = ab.estimators.AutoBnnMapEstimator(
+    model, 'normal_likelihood_logistic_noise', jax.random.PRNGKey(42),
+    periods=[12])
+
+estimator.fit(my_training_data_xs, my_training_data_ys)
+low, mid, high = estimator.predict_quantiles(my_training_data_xs)
+
+
+
+
+
+    
+Conclusion
+AutoBNN provides a powerful and flexible framework for building sophisticated time series prediction models. By combining the strengths of BNNs and GPs with compositional kernels, AutoBNN opens a world of possibilities for understanding and forecasting complex data. We invite the community to try the colab, and leverage this library to innovate and solve real-world challenges. 
+
+
+
+    
+Acknowledgements
+AutoBNN was written by Colin Carroll, Thomas Colthurst, Urs Köster and Srinivas Vasudevan. We would like to thank Kevin Murphy, Brian Patton and Feras Saad for their advice and feedback.</div>
+            <div class="news-meta">
+                <span>Google Research Blog</span>
+                <span class="importance-badge">7/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">Using AI to expand global access to reliable flood forecasts</div>
+            <div class="news-summary">Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research
+
+
+
+
+Floods are the most common natural disaster, and are responsible for roughly $50 billion in annual financial damages worldwide. The rate of flood-related disasters has more than doubled since the year 2000 partly due to climate change. Nearly 1.5 billion people, making up 19% of the world’s population, are exposed to substantial risks from severe flood events. Upgrading early warning systems to make accurate and timely information accessible to these populations can save thousands of lives per year. 
+
+
+
+Driven by the potential impact of reliable flood forecasting on people’s lives globally, we started our flood forecasting effort in 2017. Through this multi-year journey, we advanced research over the years hand-in-hand with building a real-time operational flood forecasting system that provides alerts on Google Search, Maps, Android notifications and through the Flood Hub. However, in order to scale globally, especially in places where accurate local data is not available, more research advances were required.
+
+
+
+In “Global prediction of extreme floods in ungauged watersheds”, published in Nature, we demonstrate how machine learning (ML) technologies can significantly improve global-scale flood forecasting relative to the current state-of-the-art for countries where flood-related data is scarce. With these AI-based technologies we extended the reliability of currently-available global nowcasts, on average, from zero to five days, and improved forecasts across regions in Africa and Asia to be similar to what are currently available in Europe. The evaluation of the models was conducted in collaboration with the European Center for Medium Range Weather Forecasting (ECMWF).
+
+
+
+These technologies also enable Flood Hub to provide real-time river forecasts up to seven days in advance, covering river reaches across over 80 countries. This information can be used by people, communities, governments and international organizations to take anticipatory action to help protect vulnerable populations.
+
+
+
+
+Flood forecasting at Google 
+launched a pilot early warning system in the Ganges-Brahmaputra river basin in India, with the hypothesis that ML could help address the challenging problem of reliable flood forecasting at scale. The pilot was further expanded the following year via the combination of an inundation model, real-time water level measurements, the creation of an elevation map and hydrologic modeling.
+
+
+
+In collaboration with academics, and, in particular, with the JKU Institute for Machine Learning we explored ML-based hydrologic models, showing that LSTM-based models could produce more accurate simulations than traditional conceptual and physics-based hydrology models. This research led to flood forecasting improvements that enabled the expansion of our forecasting coverage to include all of India and Bangladesh. We also worked with researchers at Yale University to test technological interventions that increase the reach and impact of flood warnings.
+
+
+
+Our hydrological models predict river floods by processing publicly available weather data like precipitation and physical watershed information. Such models must be calibrated to long data records from streamflow gauging stations in individual rivers. A low percentage of global river watersheds (basins) have streamflow gauges, which are expensive but necessary to supply relevant data, and it’s challenging for hydrological simulation and forecasting to provide predictions in basins that lack this infrastructure. Lower gross domestic product (GDP) is correlated with increased vulnerability to flood risks, and there is an inverse correlation between national GDP and the amount of publicly available data in a country. ML helps to address this problem by allowing a single model to be trained on all available river data and to be applied to ungauged basins where no data are available. In this way, models can be trained globally, and can make predictions for any river location.
+
+
+
+
+
+There is an inverse (log-log) correlation between the amount of publicly available streamflow data in a country and national GDP. Streamflow data from the Global Runoff Data Center.
+
+estimate uncertainty in river forecasts and showed how ML river forecast models synthesize information from multiple data sources. They demonstrated that these models can simulate extreme events reliably, even when those events are not part of the training data. In an effort to contribute to open science, in 2023 we open-sourced a community-driven dataset for large-sample hydrology in Nature Scientific Data. 
+
+
+
+
+    
+The river forecast model
+LSTMs perform well on the task of river forecasting.
+
+
+
+
+
+A diagram of the LSTM, which is a neural network that operates sequentially in time. An accessible primer can be found here.
+
+mixture density networks to produce a probabilistic forecast (i.e., predicted parameters of a probability distribution over streamflow). Specifically, the model predicts the parameters of a mixture of heavy-tailed probability density functions, called asymmetric Laplacian distributions, at each forecast time step. The result is a mixture density function, called a Countable Mixture of Asymmetric Laplacians (CMAL) distribution, which represents a probabilistic prediction of the volumetric flow rate in a particular river at a particular time. 
+
+
+
+
+
+LSTM-based river forecast model architecture. Two LSTMs are applied in sequence, one ingesting historical weather data and one ingesting forecasted weather data. The model outputs are the parameters of a probability distribution over streamflow at each forecasted timestep.
+
+Input and training data
+Static watershed attributes representing geographical and geophysical variables: From the HydroATLAS project, including data like long-term climate indexes (precipitation, temperature, snow fractions), land cover, and anthropogenic attributes (e.g., a nighttime lights index as a proxy for human development). 
+
+
+Historical meteorological time-series data: Used to spin up the model for one year prior to the issue time of a forecast. The data comes from NASA IMERG, NOAA  CPC  Global Unified Gauge-Based Analysis of Daily Precipitation, and the ECMWF ERA5-land reanalysis. Variables include daily total precipitation, air temperature, solar and thermal radiation, snowfall, and surface pressure. 
+
+
+Forecasted meteorological time series over a seven-day forecast horizon: Used as input for the forecast LSTM. These data are the same meteorological variables listed above, and come from the ECMWF HRES atmospheric model.
+
+
+
+
+Training data are daily streamflow values from the Global Runoff Data Center over the time period 1980 - 2023. A single streamflow forecast model is trained using data from 5,680 diverse watershed streamflow gauges (shown below) to improve accuracy.
+
+
+
+
+
+Location of 5,680 streamflow gauges that supply training data for the river forecast model from the Global Runoff Data Center.
+
+  
+Improving on the current state-of-the-art
+GloFAS version 4, the current state-of-the-art global flood forecasting system. These experiments showed that ML can provide accurate warnings earlier and over larger and more impactful events. 
+
+
+
+The figure below shows the distribution of F1 scores when predicting different severity events at river locations around the world, with plus or minus 1 day accuracy. F1 scores are an average of precision and recall and event severity is measured by return period. For example, a 2-year return period event is a volume of streamflow that is expected to be exceeded on average once every two years. Our model achieves reliability scores at up to 4-day or 5-day lead times that are similar to or better, on average, than the reliability of GloFAS nowcasts (0-day lead time). 
+
+
+
+
+
+Distributions of F1 scores over 2-year return period events in 2,092 watersheds globally during the time period 2014-2023 from GloFAS (blue) and our model (orange) at different lead times. On average, our model is statistically as accurate as GloFAS nowcasts (0–day lead time) up to 5 days in advance over 2-year (shown) and 1-year, 5-year, and 10-year events (not shown).
+
+paper for more information.
+
+
+
+    
+Looking into the future
+Adaptation and Resilience efforts and reflects Google's commitment to address climate change while helping global communities become more resilient. We believe that AI and ML will continue to play a critical role in helping advance science and research towards climate action.
+
+
+
+We actively collaborate with several international aid organizations (e.g., the Centre for Humanitarian Data and the Red Cross) to provide actionable flood forecasts. Additionally, in an ongoing collaboration with the World Meteorological Organization (WMO) to support early warning systems for climate hazards, we are conducting a study to help understand how AI can help address real-world challenges faced by national flood forecasting agencies. 
+
+
+
+While the work presented here demonstrates a significant step forward in flood forecasting, future work  is needed to further expand flood forecasting coverage to more locations globally and other types of flood-related events and disasters, including flash floods and urban floods. We are looking forward to continuing collaborations with our partners in the academic and expert communities, local governments and the industry to reach these goals.</div>
+            <div class="news-meta">
+                <span>Google Research Blog</span>
+                <span class="importance-badge">7/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">MELON: Reconstructing 3D objects from images with unknown poses</div>
+            <div class="news-summary">Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research
+
+
+
+
+
+A person's prior experience and understanding of the world generally enables them to easily infer what an object looks like in whole, even if only looking at a few 2D pictures of it. Yet the capacity for a computer to reconstruct the shape of an object in 3D given only a few images has remained a difficult algorithmic problem for years. This fundamental computer vision task has applications ranging from the creation of e-commerce 3D models to autonomous vehicle navigation. 
+
+
+
+A key part of the problem is how to determine the exact positions from which images were taken, known as pose inference. If camera poses are known, a range of successful techniques — such as neural radiance fields (NeRF) or 3D Gaussian Splatting — can reconstruct an object in 3D. But if these poses are not available, then we face a difficult “chicken and egg” problem where we could determine the poses if we knew the 3D object, but we can’t reconstruct the 3D object until we know the camera poses. The problem is made harder by pseudo-symmetries — i.e., many objects look similar when viewed from different angles. For example, square objects like a chair tend to look similar every 90° rotation. Pseudo-symmetries of an object can be revealed by rendering it on a turntable from various angles and plotting its photometric self-similarity map. 
+
+
+
+
+Self-Similarity map of a toy truck model. Left: The model is rendered on a turntable from various azimuthal angles, θ. Right: The average L2 RGB similarity of a rendering from θ with that of θ*. The pseudo-similarities are indicated by the dashed red lines.
+
+ill-posed, with naïve approaches often converging to local minima. In practice, such an approach might mistake the back view as the front view of an object, because they share a similar silhouette. Previous techniques (such as BARF or SAMURAI) side-step this problem by relying on an initial pose estimate that starts close to the global minima. But how can we approach this if those aren’t available?
+
+
+
+Methods, such as GNeRF and VMRF leverage generative adversarial networks (GANs) to overcome the problem. These techniques have the ability to artificially “amplify” a limited number of training views, aiding reconstruction. GAN techniques, however, often have complex, sometimes unstable, training processes, making robust and reliable convergence difficult to achieve in practice. A range of other successful methods, such as SparsePose or RUST, can infer poses from a limited number views, but require pre-training on a large dataset of posed images, which aren’t always available, and can suffer from “domain-gap” issues when inferring poses for different types of images.
+
+
+
+In “MELON: NeRF with Unposed Images in SO(3)”, spotlighted at 3DV 2024, we present a technique that can determine object-centric camera poses entirely from scratch while reconstructing the object in 3D. MELON (Modulo Equivalent Latent Optimization of NeRF) is one of the first techniques that can do this without initial pose camera estimates, complex training schemes or pre-training on labeled data. MELON is a relatively simple technique that can easily be integrated into existing NeRF methods. We demonstrate that MELON can reconstruct a NeRF from unposed images with state-of-the-art accuracy while requiring as few as 4–6 images of an object. 
+
+
+
+
+    
+MELON
+convolutional neural network (CNN) encoder that regresses camera poses from training images. We pass a downscaled training image to a four layer CNN that infers the camera pose. This CNN is initialized from noise and requires no pre-training. Its capacity is so small that it forces similar looking images to similar poses, providing an implicit regularization greatly aiding convergence.
+
+
+
+The second technique is a modulo loss that simultaneously considers pseudo symmetries of an object. We render the object from a fixed set of viewpoints for each training image, backpropagating the loss only through the view that best fits the training image. This effectively considers the plausibility of multiple views for each image. In practice, we find N=2 views (viewing an object from the other side) is all that’s required in most cases, but sometimes get better results with N=4 for square objects.
+
+
+
+These two techniques are integrated into standard NeRF training, except that instead of fixed camera poses, poses are inferred by the CNN and duplicated by the modulo loss. Photometric gradients back-propagate through the best-fitting cameras into the CNN. We observe that cameras generally converge quickly to globally optimal poses (see animation below). After training of the neural field, MELON can synthesize novel views using standard NeRF rendering methods.
+
+
+
+We simplify the problem by using the NeRF-Synthetic dataset, a popular benchmark for NeRF research and common in the pose-inference literature. This synthetic dataset has cameras at precisely fixed distances and a consistent “up” orientation, requiring us to infer only the polar coordinates of the camera. This is the same as an object at the center of a globe with a camera always pointing at it, moving along the surface. We then only need the latitude and longitude (2 degrees of freedom) to specify the camera pose.
+
+
+
+
+
+MELON uses a dynamically trained lightweight CNN encoder that predicts a pose for each image. Predicted poses are replicated by the modulo loss, which only penalizes the smallest L2 distance from the ground truth color. At evaluation time, the neural field can be used to generate novel views.
+
+Results
+peak signal-to-noise ratio (PSNR) against held out test views. We see that MELON quickly converges to the approximate poses of most cameras within the first 1,000 steps of training, and achieves a competitive PSNR of 27.5 dB after 50k steps. 
+
+
+
+
+
+Convergence of MELON on a toy truck model during optimization. Left: Rendering of the NeRF. Right: Polar plot of predicted (blue x), and ground truth (red dot) cameras.
+
+
+
+Reconstruction quality comparison between ground-truth (GT) and MELON on NeRF-Synthetic scenes after 100k training steps.
+
+Noisy images
+novel view synthesis from extremely noisy, unposed images. We add varying amounts, σ, of white Gaussian noise to the training images. For example, the object in σ=1.0 below is impossible to make out, yet MELON can determine the pose and generate novel views of the object. 
+
+
+
+
+
+
+Novel view synthesis from noisy unposed 128×128 images. Top: Example of noise level present in training views. Bottom: Reconstructed model from noisy training views and mean angular pose error.
+
+RawNeRF have demonstrated NeRF’s excellent de-noising capabilities with known camera poses. The fact that MELON works for noisy images of unknown camera poses so robustly was unexpected. 
+
+
+
+    
+Conclusion
+paper and MELON site to learn more.
+
+
+
+
+    
+Acknowledgements
+We would like to thank our paper co-authors Axel Levy, Matan Sela, and Gordon Wetzstein, as well as Florian Schroff and Hartwig Adam for continuous help in building this technology. We also thank Matthew Brown, Ricardo Martin-Brualla and Frederic Poitevin for their helpful feedback on the paper draft. We also acknowledge the use of the computational resources at the SLAC Shared Scientific Data Facility (SDF).</div>
+            <div class="news-meta">
+                <span>Google Research Blog</span>
+                <span class="importance-badge">7/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">With GPT-5, Wrtn builds lifestyle AI for millions in Korea</div>
+            <div class="news-summary">Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.</div>
+            <div class="news-meta">
+                <span>OpenAI News</span>
+                <span class="importance-badge">6/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">The Sora feed philosophy</div>
+            <div class="news-summary">Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.</div>
+            <div class="news-meta">
+                <span>OpenAI News</span>
+                <span class="importance-badge">6/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">A conversation with Kevin Scott: What’s next in AI</div>
+            <div class="news-summary">The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.</div>
+            <div class="news-meta">
+                <span>The AI Blog</span>
+                <span class="importance-badge">6/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative</div>
+            <div class="news-summary">The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.</div>
+            <div class="news-meta">
+                <span>The AI Blog</span>
+                <span class="importance-badge">6/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">Microsoft open sources its ‘farm of the future’ toolkit</div>
+            <div class="news-summary">The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.</div>
+            <div class="news-meta">
+                <span>The AI Blog</span>
+                <span class="importance-badge">6/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">How data and AI will transform contact centres for financial services</div>
+            <div class="news-summary">The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.</div>
+            <div class="news-meta">
+                <span>The AI Blog</span>
+                <span class="importance-badge">6/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">AI-equipped drones study dolphins on the edge of extinction</div>
+            <div class="news-summary">The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.</div>
+            <div class="news-meta">
+                <span>The AI Blog</span>
+                <span class="importance-badge">6/10</span>
+            </div>
+        </div>
+    
+                </div>
+            </section>
+
+            <!-- AIツール比較 -->
+            <section class="section">
+                <h2>🛠️ 人気AIツール</h2>
+                <div class="tools-grid">
+                    
+        <div class="tool-card">
+            <div class="tool-name">ChatGPT</div>
+            <div>対話型AI、質問応答・文章生成に最適</div>
+        </div>
+    
+        <div class="tool-card">
+            <div class="tool-name">Claude</div>
+            <div>安全性重視、長文解析に強いAIアシスタント</div>
+        </div>
+    
+        <div class="tool-card">
+            <div class="tool-name">Gemini</div>
+            <div>Google製多機能AIアシスタント、検索連携が強み</div>
+        </div>
+    
+        <div class="tool-card">
+            <div class="tool-name">Midjourney</div>
+            <div>高品質AI画像生成ツール、アート性の高い画像作成</div>
+        </div>
+    
+        <div class="tool-card">
+            <div class="tool-name">DALL-E 3</div>
+            <div>OpenAI製画像生成AI、自然な指示で高品質画像作成</div>
+        </div>
+    
+        <div class="tool-card">
+            <div class="tool-name">Stable Diffusion</div>
+            <div>オープンソース画像生成AI、カスタマイズ性が高い</div>
+        </div>
+    
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 AI初心者ガイド | GitHub Actionsにより自動生成・更新</p>
+        </div>
+    </footer>
+</body>
+</html>

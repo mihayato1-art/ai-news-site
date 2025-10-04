@@ -1,0 +1,155 @@
+[
+  {
+    "name": "ChatGPT",
+    "company": "OpenAI",
+    "description": "対話型AI、質問応答・文章生成に最適",
+    "features": [
+      "対話形式",
+      "文章生成",
+      "コード生成",
+      "翻訳"
+    ],
+    "pricing": "無料版あり、Plus版$20/月",
+    "pros": [
+      "使いやすいUI",
+      "高品質な回答",
+      "豊富な知識"
+    ],
+    "cons": [
+      "最新情報に制限",
+      "リアルタイム検索不可"
+    ],
+    "rating": 9.2,
+    "category": "汎用AI",
+    "url": "https://chat.openai.com/",
+    "lastUpdated": "2025-10-04T09:47:22.834Z"
+  },
+  {
+    "name": "Claude",
+    "company": "Anthropic",
+    "description": "安全性重視、長文解析に強いAIアシスタント",
+    "features": [
+      "長文処理",
+      "安全性重視",
+      "コード解析",
+      "文書要約"
+    ],
+    "pricing": "無料版あり、Pro版$20/月",
+    "pros": [
+      "長文対応",
+      "安全性高い",
+      "詳細な分析"
+    ],
+    "cons": [
+      "応答速度やや遅い",
+      "日本語やや弱い"
+    ],
+    "rating": 8.8,
+    "category": "汎用AI",
+    "url": "https://claude.ai/",
+    "lastUpdated": "2025-10-04T09:47:22.834Z"
+  },
+  {
+    "name": "Gemini",
+    "company": "Google",
+    "description": "Google製多機能AIアシスタント、検索連携が強み",
+    "features": [
+      "リアルタイム検索",
+      "多言語対応",
+      "画像認識",
+      "Google連携"
+    ],
+    "pricing": "無料版あり、Advanced版￥2,900/月",
+    "pros": [
+      "最新情報アクセス",
+      "Google連携",
+      "多機能"
+    ],
+    "cons": [
+      "回答の一貫性にばらつき",
+      "プライバシー懸念"
+    ],
+    "rating": 8.5,
+    "category": "汎用AI",
+    "url": "https://gemini.google.com/",
+    "lastUpdated": "2025-10-04T09:47:22.834Z"
+  },
+  {
+    "name": "Midjourney",
+    "company": "Midjourney Inc.",
+    "description": "高品質AI画像生成ツール、アート性の高い画像作成",
+    "features": [
+      "画像生成",
+      "アート性重視",
+      "スタイル多様",
+      "コミュニティ"
+    ],
+    "pricing": "Basic $10/月、Standard $30/月",
+    "pros": [
+      "画像品質高い",
+      "アート性抜群",
+      "スタイル豊富"
+    ],
+    "cons": [
+      "Discord必須",
+      "学習コスト高い",
+      "有料のみ"
+    ],
+    "rating": 9,
+    "category": "画像生成AI",
+    "url": "https://www.midjourney.com/",
+    "lastUpdated": "2025-10-04T09:47:22.834Z"
+  },
+  {
+    "name": "DALL-E 3",
+    "company": "OpenAI",
+    "description": "OpenAI製画像生成AI、自然な指示で高品質画像作成",
+    "features": [
+      "画像生成",
+      "自然言語指示",
+      "ChatGPT連携",
+      "高解像度"
+    ],
+    "pricing": "ChatGPT Plus経由 $20/月",
+    "pros": [
+      "指示が簡単",
+      "ChatGPT連携",
+      "高品質"
+    ],
+    "cons": [
+      "単体利用不可",
+      "生成数制限",
+      "商用利用制限"
+    ],
+    "rating": 8.7,
+    "category": "画像生成AI",
+    "url": "https://openai.com/dall-e-3",
+    "lastUpdated": "2025-10-04T09:47:22.834Z"
+  },
+  {
+    "name": "Stable Diffusion",
+    "company": "Stability AI",
+    "description": "オープンソース画像生成AI、カスタマイズ性が高い",
+    "features": [
+      "オープンソース",
+      "カスタマイズ可能",
+      "無料利用可能",
+      "拡張性"
+    ],
+    "pricing": "基本無料、クラウド版有料オプション",
+    "pros": [
+      "完全無料",
+      "カスタマイズ自由",
+      "コミュニティ活発"
+    ],
+    "cons": [
+      "技術知識必要",
+      "設定複雑",
+      "PC性能要求"
+    ],
+    "rating": 8.3,
+    "category": "画像生成AI",
+    "url": "https://stability.ai/",
+    "lastUpdated": "2025-10-04T09:47:22.834Z"
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "totalArticles": 20,
+  "todayArticles": 0,
+  "highImportanceCount": 2,
+  "mediumImportanceCount": 15,
+  "lowImportanceCount": 3,
+  "averageImportance": "6.2",
+  "sourceStats": [
+    {
+      "source": "OpenAI News",
+      "count": 5
+    },
+    {
+      "source": "Google Research Blog",
+      "count": 5
+    },
+    {
+      "source": "The AI Blog",
+      "count": 5
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "count": 5
+    }
+  ],
+  "categoryStats": [
+    {
+      "category": "AI News",
+      "count": 20
+    }
+  ],
+  "totalTools": 6,
+  "averageToolRating": "8.8",
+  "weeklyStats": [
+    {
+      "date": "2025/9/28",
+      "articleCount": 0,
+      "highImportanceCount": 0
+    },
+    {
+      "date": "2025/9/29",
+      "articleCount": 0,
+      "highImportanceCount": 0
+    },
+    {
+      "date": "2025/9/30",
+      "articleCount": 2,
+      "highImportanceCount": 0
+    },
+    {
+      "date": "2025/10/1",
+      "articleCount": 1,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2025/10/2",
+      "articleCount": 2,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2025/10/3",
+      "articleCount": 0,
+      "highImportanceCount": 0
+    },
+    {
+      "date": "2025/10/4",
+      "articleCount": 0,
+      "highImportanceCount": 0
+    }
+  ],
+  "lastUpdated": "2025-10-04T09:47:23.244Z",
+  "updateTime": "2025/10/4 9:47:23",
+  "systemInfo": {
+    "version": "1.0.0",
+    "autoUpdate": true,
+    "updateFrequency": "毎日9時・18時",
+    "dataSourcesCount": 8
+  },
+  "detailed": {
+    "articlesPerDay": {
+      "2025/10/2": 2,
+      "2025/10/1": 1,
+      "2024/3/28": 1,
+      "2024/3/20": 2,
+      "2024/3/18": 1,
+      "2025/9/30": 2,
+      "2022/12/6": 1,
+      "2022/10/12": 1,
+      "2022/10/6": 1,
+      "2022/7/25": 1,
+      "2022/7/21": 1,
+      "2024/3/29": 1,
+      "2025/9/25": 1,
+      "2025/9/22": 1,
+      "2025/9/12": 1,
+      "2025/9/18": 1,
+      "2025/9/17": 1
+    },
+    "topKeywords": [
+      {
+        "keyword": "AI",
+        "count": 17
+      },
+      {
+        "keyword": "Google",
+        "count": 5
+      },
+      {
+        "keyword": "OpenAI",
+        "count": 2
+      },
+      {
+        "keyword": "Microsoft",
+        "count": 2
+      }
+    ],
+    "trendingTopics": [],
+    "qualityMetrics": {
+      "articlesWithSummary": 0,
+      "averageTitleLength": 62.45,
+      "sourceDiversity": 4
+    }
+  }
+}
