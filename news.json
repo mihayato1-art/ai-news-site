@@ -1,5 +1,15 @@
 [
   {
+    "title": "Disrupting malicious uses of AI: October 2025",
+    "description": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
+    "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
+    "publishedAt": "Tue, 07 Oct 2025 03:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Codex is now generally available",
     "description": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
     "url": "https://openai.com/index/codex-now-generally-available",
@@ -167,16 +177,6 @@
     "source": "Google DeepMind Blog",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing AgentKit, new Evals, and RFT for agents",
-    "description": "Today, we’re releasing  new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
-    "url": "https://openai.com/index/introducing-agentkit",
-    "publishedAt": "Mon, 06 Oct 2025 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
