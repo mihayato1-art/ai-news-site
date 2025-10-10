@@ -1,5 +1,15 @@
 [
   {
+    "title": "Defining and evaluating political bias in LLMs",
+    "description": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
+    "url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
+    "publishedAt": "Thu, 09 Oct 2025 13:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Growing impact and scale with ChatGPT",
     "description": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
     "url": "https://openai.com/index/hibob",
@@ -34,16 +44,6 @@
     "description": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
     "url": "https://openai.com/index/introducing-apps-in-chatgpt",
     "publishedAt": "Mon, 06 Oct 2025 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
-    "description": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
-    "url": "https://openai.com/index/openai-amd-strategic-partnership",
-    "publishedAt": "Mon, 06 Oct 2025 06:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
