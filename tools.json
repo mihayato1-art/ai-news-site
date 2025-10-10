@@ -22,7 +22,7 @@
     "rating": 9.2,
     "category": "汎用AI",
     "url": "https://chat.openai.com/",
-    "lastUpdated": "2025-10-10T03:12:03.818Z"
+    "lastUpdated": "2025-10-10T09:33:17.058Z"
   },
   {
     "name": "Claude",
@@ -47,7 +47,7 @@
     "rating": 8.8,
     "category": "汎用AI",
     "url": "https://claude.ai/",
-    "lastUpdated": "2025-10-10T03:12:03.818Z"
+    "lastUpdated": "2025-10-10T09:33:17.058Z"
   },
   {
     "name": "Gemini",
@@ -72,7 +72,7 @@
     "rating": 8.5,
     "category": "汎用AI",
     "url": "https://gemini.google.com/",
-    "lastUpdated": "2025-10-10T03:12:03.818Z"
+    "lastUpdated": "2025-10-10T09:33:17.058Z"
   },
   {
     "name": "Midjourney",
@@ -98,7 +98,7 @@
     "rating": 9,
     "category": "画像生成AI",
     "url": "https://www.midjourney.com/",
-    "lastUpdated": "2025-10-10T03:12:03.818Z"
+    "lastUpdated": "2025-10-10T09:33:17.058Z"
   },
   {
     "name": "DALL-E 3",
@@ -124,7 +124,7 @@
     "rating": 8.7,
     "category": "画像生成AI",
     "url": "https://openai.com/dall-e-3",
-    "lastUpdated": "2025-10-10T03:12:03.818Z"
+    "lastUpdated": "2025-10-10T09:33:17.058Z"
   },
   {
     "name": "Stable Diffusion",
@@ -150,6 +150,6 @@
     "rating": 8.3,
     "category": "画像生成AI",
     "url": "https://stability.ai/",
-    "lastUpdated": "2025-10-10T03:12:03.818Z"
+    "lastUpdated": "2025-10-10T09:33:17.058Z"
   }
 ]
