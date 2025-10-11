@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "HYGH powers next-gen digital ads with ChatGPT Business",
+    "description": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
+    "url": "https://openai.com/index/hygh",
+    "publishedAt": "Fri, 10 Oct 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Growing impact and scale with ChatGPT",
     "description": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
     "url": "https://openai.com/index/hibob",
@@ -34,16 +44,6 @@
     "description": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
     "url": "https://openai.com/index/codex-now-generally-available",
     "publishedAt": "Mon, 06 Oct 2025 10:50:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing apps in ChatGPT and the new Apps SDK",
-    "description": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
-    "url": "https://openai.com/index/introducing-apps-in-chatgpt",
-    "publishedAt": "Mon, 06 Oct 2025 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
