@@ -150,6 +150,16 @@
     "type": "rss"
   },
   {
+    "title": "Bringing AI to the next generation of fusion energy",
+    "description": "We’re partnering with Commonwealth Fusion Systems (CFS) to bring clean, safe, limitless fusion energy closer to reality.",
+    "url": "https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/",
+    "publishedAt": "Thu, 16 Oct 2025 13:00:00 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Introducing the Gemini 2.5 Computer Use model",
     "description": "Available in preview via the API, our Computer Use model is a specialized model built on Gemini 2.5 Pro’s capabilities to power agents that can interact with user interfaces.",
     "url": "https://deepmind.google/discover/blog/introducing-the-gemini-2-5-computer-use-model/",
@@ -170,23 +180,13 @@
     "type": "rss"
   },
   {
-    "title": "Gemini Robotics 1.5 brings AI agents into the physical world",
-    "description": "New era of physical agents will help robots perceive, plan, think, use tools and act to solve complex tasks.",
-    "url": "https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/",
-    "publishedAt": "Thu, 25 Sep 2025 15:59:00 +0000",
+    "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
+    "description": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models.",
+    "url": "https://deepmind.google/discover/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/",
+    "publishedAt": "Thu, 16 Oct 2025 12:00:00 +0000",
     "source": "Google DeepMind Blog",
     "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Strengthening our Frontier Safety Framework",
-    "description": "We’re strengthening the Frontier Safety Framework (FSF) to help identify and mitigate severe risks from advanced AI models.",
-    "url": "https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/",
-    "publishedAt": "Mon, 22 Sep 2025 13:09:37 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "AI News",
-    "importance": 6,
+    "importance": 5,
     "type": "rss"
   },
   {
