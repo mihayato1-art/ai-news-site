@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "AI in South Korea—OpenAI’s Economic Blueprint",
+    "description": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
+    "url": "https://openai.com/index/south-korea-economic-blueprint",
+    "publishedAt": "Thu, 23 Oct 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
     "description": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
     "url": "https://openai.com/index/japan-economic-blueprint",
@@ -34,16 +44,6 @@
     "description": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
     "url": "https://openai.com/index/introducing-chatgpt-atlas",
     "publishedAt": "Tue, 21 Oct 2025 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Plex Coffee delivers fast service and personal connections with ChatGPT Business",
-    "description": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
-    "url": "https://openai.com/index/plex-coffee",
-    "publishedAt": "Wed, 15 Oct 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
