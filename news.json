@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI acquires Software Applications Incorporated, maker of Sky",
+    "description": "OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.",
+    "url": "https://openai.com/index/openai-acquires-software-applications-incorporated",
+    "publishedAt": "Thu, 23 Oct 2025 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "The next chapter for UK sovereign AI",
     "description": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.",
     "url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
@@ -7,6 +17,16 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "Consensus accelerates research with GPT-5 and Responses API",
+    "description": "Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate scientific discovery.",
+    "url": "https://openai.com/index/consensus",
+    "publishedAt": "Thu, 23 Oct 2025 09:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -20,30 +40,10 @@
     "type": "rss"
   },
   {
-    "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
-    "description": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
-    "url": "https://openai.com/index/japan-economic-blueprint",
-    "publishedAt": "Wed, 22 Oct 2025 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Continue your ChatGPT experience beyond WhatsApp",
-    "description": "ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices.",
-    "url": "https://openai.com/index/chatgpt-whatsapp-transition",
-    "publishedAt": "Tue, 21 Oct 2025 17:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
-    "description": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
-    "url": "https://openai.com/index/introducing-chatgpt-atlas",
-    "publishedAt": "Tue, 21 Oct 2025 00:00:00 GMT",
+    "title": "Work smarter with your company knowledge in ChatGPT",
+    "description": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.",
+    "url": "https://openai.com/index/introducing-company-knowledge",
+    "publishedAt": "Thu, 23 Oct 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
