@@ -1,5 +1,15 @@
 [
   {
+    "title": "Introducing gpt-oss-safeguard",
+    "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+    "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+    "publishedAt": "Wed, 29 Oct 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Knowledge preservation powered by ChatGPT",
     "description": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
     "url": "https://openai.com/index/dai-nippon-printing",
@@ -24,26 +34,6 @@
     "description": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
     "url": "https://openai.com/index/built-to-benefit-everyone",
     "publishedAt": "Tue, 28 Oct 2025 06:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "The next chapter of the Microsoft–OpenAI partnership",
-    "description": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
-    "url": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership",
-    "publishedAt": "Tue, 28 Oct 2025 06:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Seizing the AI opportunity",
-    "description": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.",
-    "url": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
-    "publishedAt": "Mon, 27 Oct 2025 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -77,6 +67,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b and gpt-oss-safeguard-20b",
+    "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
+    "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
+    "publishedAt": "Wed, 29 Oct 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
@@ -150,6 +150,16 @@
     "type": "rss"
   },
   {
+    "title": "Accelerating discovery with the AI for Math Initiative",
+    "description": "The initiative brings together some of the world's most prestigious research institutions to pioneer the use of AI in mathematical research.",
+    "url": "https://deepmind.google/discover/blog/accelerating-discovery-with-the-ai-for-math-initiative/",
+    "publishedAt": "Wed, 29 Oct 2025 14:17:00 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Bringing AI to the next generation of fusion energy",
     "description": "We’re partnering with Commonwealth Fusion Systems (CFS) to bring clean, safe, limitless fusion energy closer to reality.",
     "url": "https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/",
@@ -164,16 +174,6 @@
     "description": "Available in preview via the API, our Computer Use model is a specialized model built on Gemini 2.5 Pro’s capabilities to power agents that can interact with user interfaces.",
     "url": "https://deepmind.google/discover/blog/introducing-the-gemini-2-5-computer-use-model/",
     "publishedAt": "Wed, 08 Oct 2025 10:55:26 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing CodeMender: an AI agent for code security",
-    "description": "CodeMender helps patch critical software vulnerabilities, and rewrites and secures existing code.",
-    "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
-    "publishedAt": "Mon, 06 Oct 2025 12:59:18 +0000",
     "source": "Google DeepMind Blog",
     "category": "AI News",
     "importance": 6,
