@@ -1,10 +1,10 @@
 {
-  "totalArticles": 20,
+  "totalArticles": 15,
   "todayArticles": 0,
   "highImportanceCount": 3,
-  "mediumImportanceCount": 15,
-  "lowImportanceCount": 2,
-  "averageImportance": "6.4",
+  "mediumImportanceCount": 12,
+  "lowImportanceCount": 0,
+  "averageImportance": "6.7",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -17,30 +17,21 @@
     {
       "source": "The AI Blog",
       "count": 5
-    },
-    {
-      "source": "Google DeepMind Blog",
-      "count": 5
     }
   ],
   "categoryStats": [
     {
       "category": "AI News",
-      "count": 20
+      "count": 15
     }
   ],
   "totalTools": 6,
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2025/10/28",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2025/10/29",
-      "articleCount": 3,
-      "highImportanceCount": 1
+      "articleCount": 1,
+      "highImportanceCount": 0
     },
     {
       "date": "2025/10/30",
@@ -64,12 +55,17 @@
     },
     {
       "date": "2025/11/3",
+      "articleCount": 1,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2025/11/4",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-11-03T09:42:04.479Z",
-  "updateTime": "2025/11/3 9:42:04",
+  "lastUpdated": "2025-11-04T03:31:48.504Z",
+  "updateTime": "2025/11/4 3:31:48",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,25 +74,23 @@
   },
   "detailed": {
     "articlesPerDay": {
+      "2025/11/3": 1,
       "2025/10/30": 3,
-      "2025/10/29": 3,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
+      "2025/10/29": 1,
       "2022/12/6": 1,
       "2022/10/12": 1,
       "2022/10/6": 1,
       "2022/7/25": 1,
       "2022/7/21": 1,
-      "2024/3/29": 1,
-      "2025/10/16": 2,
-      "2025/10/8": 1,
-      "2025/10/15": 1
+      "2024/3/29": 1
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 17
+        "count": 14
       },
       {
         "keyword": "Google",
@@ -118,8 +112,8 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 62.05,
-      "sourceDiversity": 4
+      "averageTitleLength": 66.13333333333334,
+      "sourceDiversity": 3
     }
   }
 }

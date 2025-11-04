@@ -1,5 +1,15 @@
 [
   {
+    "title": "AWS and OpenAI announce multi-year strategic partnership",
+    "description": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.",
+    "url": "https://openai.com/index/aws-and-openai-partnership",
+    "publishedAt": "Mon, 03 Nov 2025 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Expanding Stargate to Michigan",
     "description": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
     "url": "https://openai.com/index/expanding-stargate-to-michigan",
@@ -14,16 +24,6 @@
     "description": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
     "url": "https://openai.com/index/introducing-aardvark",
     "publishedAt": "Thu, 30 Oct 2025 11:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing gpt-oss-safeguard",
-    "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-    "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
-    "publishedAt": "Wed, 29 Oct 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -147,56 +147,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Accelerating discovery with the AI for Math Initiative",
-    "description": "The initiative brings together some of the world's most prestigious research institutions to pioneer the use of AI in mathematical research.",
-    "url": "https://deepmind.google/discover/blog/accelerating-discovery-with-the-ai-for-math-initiative/",
-    "publishedAt": "Wed, 29 Oct 2025 14:17:00 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Bringing AI to the next generation of fusion energy",
-    "description": "We’re partnering with Commonwealth Fusion Systems (CFS) to bring clean, safe, limitless fusion energy closer to reality.",
-    "url": "https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/",
-    "publishedAt": "Thu, 16 Oct 2025 13:00:00 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing the Gemini 2.5 Computer Use model",
-    "description": "Available in preview via the API, our Computer Use model is a specialized model built on Gemini 2.5 Pro’s capabilities to power agents that can interact with user interfaces.",
-    "url": "https://deepmind.google/discover/blog/introducing-the-gemini-2-5-computer-use-model/",
-    "publishedAt": "Wed, 08 Oct 2025 10:55:26 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
-    "description": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models.",
-    "url": "https://deepmind.google/discover/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/",
-    "publishedAt": "Thu, 16 Oct 2025 12:00:00 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Veo 3.1 and advanced creative capabilities",
-    "description": "We’re rolling out significant updates to Veo that give people even more creative control.",
-    "url": "https://deepmind.google/discover/blog/introducing-veo-3-1-and-advanced-creative-capabilities/",
-    "publishedAt": "Wed, 15 Oct 2025 16:01:08 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   }
 ]
