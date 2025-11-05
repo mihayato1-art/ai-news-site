@@ -1,5 +1,15 @@
 [
   {
+    "title": "Brazil’s AI moment is here",
+    "description": "Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.",
+    "url": "https://openai.com/global-affairs/brazil-ai-moment-is-here",
+    "publishedAt": "Tue, 04 Nov 2025 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Introducing IndQA",
     "description": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
     "url": "https://openai.com/index/introducing-indqa",
@@ -37,16 +47,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
-    "description": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
-    "url": "https://openai.com/index/building-chatgpt-atlas",
-    "publishedAt": "Thu, 30 Oct 2025 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
