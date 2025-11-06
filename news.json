@@ -1,5 +1,25 @@
 [
   {
+    "title": "1 million business customers putting AI to work",
+    "description": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work.",
+    "url": "https://openai.com/index/1-million-businesses-putting-ai-to-work",
+    "publishedAt": "Wed, 05 Nov 2025 05:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "How CRED is tapping AI to deliver premium customer experiences",
+    "description": "CRED is transforming premium customer experiences in India with OpenAI. Using GPT-powered tools, the company is improving support accuracy, reducing response times, and boosting customer satisfaction.",
+    "url": "https://openai.com/index/cred-swamy-seetharaman",
+    "publishedAt": "Wed, 05 Nov 2025 21:30:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Brazil’s AI moment is here",
     "description": "Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.",
     "url": "https://openai.com/global-affairs/brazil-ai-moment-is-here",
@@ -14,36 +34,6 @@
     "description": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
     "url": "https://openai.com/index/introducing-indqa",
     "publishedAt": "Mon, 03 Nov 2025 22:30:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "AWS and OpenAI announce multi-year strategic partnership",
-    "description": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.",
-    "url": "https://openai.com/index/aws-and-openai-partnership",
-    "publishedAt": "Mon, 03 Nov 2025 06:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Expanding Stargate to Michigan",
-    "description": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
-    "url": "https://openai.com/index/expanding-stargate-to-michigan",
-    "publishedAt": "Thu, 30 Oct 2025 13:30:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
-    "description": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
-    "url": "https://openai.com/index/introducing-aardvark",
-    "publishedAt": "Thu, 30 Oct 2025 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -77,6 +67,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "How Chime is redefining marketing through AI",
+    "description": "Vineet Mehra, Chief Marketing Officer at Chime, shares how AI is reshaping marketing into an agent-driven discipline. He explains why CMOs who champion AI literacy and thoughtful adoption will lead in the new era of growth.",
+    "url": "https://openai.com/index/chime-vineet-mehra",
+    "publishedAt": "Wed, 05 Nov 2025 15:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
