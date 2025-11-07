@@ -1,12 +1,22 @@
 [
   {
-    "title": "1 million business customers putting AI to work",
-    "description": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work.",
-    "url": "https://openai.com/index/1-million-businesses-putting-ai-to-work",
-    "publishedAt": "Wed, 05 Nov 2025 05:00:00 GMT",
+    "title": "From Pilot to Practice: How BBVA Is Scaling AI Across the Organization",
+    "description": "BBVA is reimagining how employees work with ChatGPT Enterprise, embedding AI into everyday operations. The bank has saved hours per week per employee, created 20,000+ Custom GPTs, and achieved up to 80% efficiency gains.",
+    "url": "https://openai.com/index/bbva-2025",
+    "publishedAt": "Thu, 06 Nov 2025 09:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Introducing the Teen Safety Blueprint",
+    "description": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+    "url": "https://openai.com/index/introducing-the-teen-safety-blueprint",
+    "publishedAt": "Thu, 06 Nov 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -14,26 +24,6 @@
     "description": "CRED is transforming premium customer experiences in India with OpenAI. Using GPT-powered tools, the company is improving support accuracy, reducing response times, and boosting customer satisfaction.",
     "url": "https://openai.com/index/cred-swamy-seetharaman",
     "publishedAt": "Wed, 05 Nov 2025 21:30:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Brazil’s AI moment is here",
-    "description": "Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.",
-    "url": "https://openai.com/global-affairs/brazil-ai-moment-is-here",
-    "publishedAt": "Tue, 04 Nov 2025 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing IndQA",
-    "description": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
-    "url": "https://openai.com/index/introducing-indqa",
-    "publishedAt": "Mon, 03 Nov 2025 22:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -67,6 +57,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "AI progress and recommendations",
+    "description": "AI is advancing fast. We have the chance to shape its progress—toward discovery, safety, and a better future for everyone.",
+    "url": "https://openai.com/index/ai-progress-and-recommendations",
+    "publishedAt": "Thu, 06 Nov 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
