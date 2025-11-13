@@ -1,5 +1,15 @@
 [
   {
+    "title": "Fighting the New York Times’ invasion of user privacy",
+    "description": "OpenAI is fighting the New York Times’ demand for 20 million private ChatGPT conversations and accelerating new security and privacy protections to protect your data.",
+    "url": "https://openai.com/index/fighting-nyt-user-privacy-invasion",
+    "publishedAt": "Wed, 12 Nov 2025 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
     "description": "OpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transition to civilian life. The tools can help with resumes, interviews, education, and planning for what’s next.",
     "url": "https://openai.com/index/chatgpt-for-veterans",
@@ -10,20 +20,20 @@
     "type": "rss"
   },
   {
-    "title": "Understanding prompt injections: a frontier security challenge ",
-    "description": "Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.",
-    "url": "https://openai.com/index/prompt-injections",
-    "publishedAt": "Fri, 07 Nov 2025 11:30:00 GMT",
+    "title": "Neuro drives national retail wins with ChatGPT Business",
+    "description": "Neuro uses ChatGPT Business to scale nationwide with fewer than seventy employees. From drafting contracts to uncovering insights in customer data, the team saves time, cuts costs, and turns ideas into growth.",
+    "url": "https://openai.com/index/neurogum",
+    "publishedAt": "Wed, 12 Nov 2025 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "From Pilot to Practice: How BBVA Is Scaling AI Across the Organization",
-    "description": "BBVA is reimagining how employees work with ChatGPT Enterprise, embedding AI into everyday operations. The bank has saved hours per week per employee, created 20,000+ Custom GPTs, and achieved up to 80% efficiency gains.",
-    "url": "https://openai.com/index/bbva-2025",
-    "publishedAt": "Thu, 06 Nov 2025 09:30:00 GMT",
+    "title": "GPT-5.1: A smarter, more conversational ChatGPT",
+    "description": "We’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today to paid users.",
+    "url": "https://openai.com/index/gpt-5-1",
+    "publishedAt": "Wed, 12 Nov 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -57,26 +67,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
-    "description": "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion 3.0.",
-    "url": "https://openai.com/index/notion",
-    "publishedAt": "Fri, 07 Nov 2025 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "AI progress and recommendations",
-    "description": "AI is advancing fast. We have the chance to shape its progress—toward discovery, safety, and a better future for everyone.",
-    "url": "https://openai.com/index/ai-progress-and-recommendations",
-    "publishedAt": "Thu, 06 Nov 2025 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
     "type": "rss"
   },
   {
@@ -147,6 +137,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
+    "description": "This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.",
+    "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
+    "publishedAt": "Wed, 12 Nov 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   }
 ]
