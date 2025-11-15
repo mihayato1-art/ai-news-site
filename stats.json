@@ -29,11 +29,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2025/11/8",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2025/11/9",
       "articleCount": 0,
       "highImportanceCount": 0
@@ -50,8 +45,8 @@
     },
     {
       "date": "2025/11/12",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2025/11/13",
@@ -60,12 +55,17 @@
     },
     {
       "date": "2025/11/14",
+      "articleCount": 1,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2025/11/15",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-11-14T09:15:58.036Z",
-  "updateTime": "2025/11/14 9:15:58",
+  "lastUpdated": "2025-11-15T01:59:00.643Z",
+  "updateTime": "2025/11/15 1:59:00",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -75,7 +75,7 @@
   "detailed": {
     "articlesPerDay": {
       "2025/11/13": 4,
-      "2025/11/12": 1,
+      "2025/11/14": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -96,22 +96,22 @@
         "count": 5
       },
       {
+        "keyword": "OpenAI",
+        "count": 2
+      },
+      {
         "keyword": "ChatGPT",
-        "count": 3
+        "count": 2
       },
       {
         "keyword": "Microsoft",
         "count": 2
-      },
-      {
-        "keyword": "OpenAI",
-        "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 59.666666666666664,
+      "averageTitleLength": 58,
       "sourceDiversity": 3
     }
   }
