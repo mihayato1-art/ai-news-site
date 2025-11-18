@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI named Emerging Leader in Generative AI",
+    "description": "OpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies building with ChatGPT.",
+    "url": "https://openai.com/index/gartner-2025-emerging-leader",
+    "publishedAt": "Mon, 17 Nov 2025 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Understanding neural networks through sparse circuits",
     "description": "OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.",
     "url": "https://openai.com/index/understanding-neural-networks-through-sparse-circuits",
@@ -67,16 +77,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing GPT-5.1 for developers",
-    "description": "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools.",
-    "url": "https://openai.com/index/gpt-5-1-for-developers",
-    "publishedAt": "Thu, 13 Nov 2025 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
     "type": "rss"
   },
   {
