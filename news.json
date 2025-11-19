@@ -1,5 +1,15 @@
 [
   {
+    "title": "Intuit and OpenAI join forces on new AI-powered experiences",
+    "description": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools.",
+    "url": "https://openai.com/index/intuit-partnership",
+    "publishedAt": "Tue, 18 Nov 2025 05:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "OpenAI named Emerging Leader in Generative AI",
     "description": "OpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies building with ChatGPT.",
     "url": "https://openai.com/index/gartner-2025-emerging-leader",
@@ -24,16 +34,6 @@
     "description": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
     "url": "https://openai.com/index/openai-for-ireland",
     "publishedAt": "Fri, 14 Nov 2025 04:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "How Philips Is scaling AI literacy across 70,000 employees",
-    "description": "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide.",
-    "url": "https://openai.com/index/philips",
-    "publishedAt": "Thu, 13 Nov 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
