@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
   "todayArticles": 0,
-  "highImportanceCount": 4,
-  "mediumImportanceCount": 11,
+  "highImportanceCount": 2,
+  "mediumImportanceCount": 13,
   "lowImportanceCount": 0,
-  "averageImportance": "7.1",
+  "averageImportance": "6.7",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -29,14 +29,9 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2025/11/13",
-      "articleCount": 2,
-      "highImportanceCount": 1
-    },
-    {
       "date": "2025/11/14",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2025/11/15",
@@ -50,22 +45,27 @@
     },
     {
       "date": "2025/11/17",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2025/11/18",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2025/11/19",
+      "articleCount": 5,
+      "highImportanceCount": 2
+    },
+    {
+      "date": "2025/11/20",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-11-19T09:17:31.257Z",
-  "updateTime": "2025/11/19 9:17:31",
+  "lastUpdated": "2025-11-20T02:00:55.336Z",
+  "updateTime": "2025/11/20 2:00:55",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,10 +74,7 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2025/11/18": 1,
-      "2025/11/17": 1,
-      "2025/11/13": 2,
-      "2025/11/14": 1,
+      "2025/11/19": 5,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -91,18 +88,18 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 15
+        "count": 14
       },
       {
         "keyword": "Google",
         "count": 5
       },
       {
-        "keyword": "OpenAI",
-        "count": 4
+        "keyword": "ChatGPT",
+        "count": 2
       },
       {
-        "keyword": "ChatGPT",
+        "keyword": "OpenAI",
         "count": 2
       },
       {
@@ -113,7 +110,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 59,
+      "averageTitleLength": 60.06666666666667,
       "sourceDiversity": 3
     }
   }
