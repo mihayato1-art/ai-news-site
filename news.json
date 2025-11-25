@@ -30,13 +30,13 @@
     "type": "rss"
   },
   {
-    "title": "Strengthening our safety ecosystem with external testing",
-    "description": "OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks.",
-    "url": "https://openai.com/index/strengthening-safety-with-external-testing",
-    "publishedAt": "Wed, 19 Nov 2025 12:00:00 GMT",
+    "title": "Introducing shopping research in ChatGPT",
+    "description": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
+    "url": "https://openai.com/index/chatgpt-shopping-research",
+    "publishedAt": "Mon, 24 Nov 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -70,10 +70,10 @@
     "type": "rss"
   },
   {
-    "title": "How evals drive the next chapter in AI for businesses",
-    "description": "Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.",
-    "url": "https://openai.com/index/evals-drive-next-chapter-of-ai",
-    "publishedAt": "Wed, 19 Nov 2025 11:00:00 GMT",
+    "title": "GPT-5 and the future of mathematical discovery",
+    "description": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
+    "url": "https://openai.com/index/gpt-5-mathematical-discovery",
+    "publishedAt": "Mon, 24 Nov 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
