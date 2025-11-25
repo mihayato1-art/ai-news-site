@@ -1,29 +1,19 @@
 [
   {
+    "title": "Expanding data residency access to business customers worldwide",
+    "description": "OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.",
+    "url": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
+    "publishedAt": "Tue, 25 Nov 2025 22:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
     "description": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key components domestically to accelerate advanced AI infrastructure.",
     "url": "https://openai.com/index/openai-and-foxconn-collaborate",
     "publishedAt": "Thu, 20 Nov 2025 14:50:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Helping 1,000 small businesses build with AI",
-    "description": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.",
-    "url": "https://openai.com/index/small-business-ai-jam",
-    "publishedAt": "Thu, 20 Nov 2025 06:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Early experiments in accelerating science with GPT-5",
-    "description": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover new insights, and reshape the pace of discovery.",
-    "url": "https://openai.com/index/accelerating-science-gpt-5",
-    "publishedAt": "Thu, 20 Nov 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -67,6 +57,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "Inside JetBrains—the company reshaping how the world writes code",
+    "description": "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.",
+    "url": "https://openai.com/index/jetbrains-2025",
+    "publishedAt": "Tue, 25 Nov 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
