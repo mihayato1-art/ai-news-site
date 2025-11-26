@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
-  "todayArticles": 2,
-  "highImportanceCount": 2,
-  "mediumImportanceCount": 13,
+  "todayArticles": 0,
+  "highImportanceCount": 1,
+  "mediumImportanceCount": 14,
   "lowImportanceCount": 0,
-  "averageImportance": "6.7",
+  "averageImportance": "6.6",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -29,14 +29,9 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2025/11/19",
+      "date": "2025/11/20",
       "articleCount": 0,
       "highImportanceCount": 0
-    },
-    {
-      "date": "2025/11/20",
-      "articleCount": 1,
-      "highImportanceCount": 1
     },
     {
       "date": "2025/11/21",
@@ -60,12 +55,17 @@
     },
     {
       "date": "2025/11/25",
-      "articleCount": 2,
+      "articleCount": 3,
       "highImportanceCount": 1
+    },
+    {
+      "date": "2025/11/26",
+      "articleCount": 0,
+      "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-11-25T09:18:27.601Z",
-  "updateTime": "2025/11/25 9:18:27",
+  "lastUpdated": "2025-11-26T02:04:22.080Z",
+  "updateTime": "2025/11/26 2:04:22",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,8 +74,7 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2025/11/25": 2,
-      "2025/11/20": 1,
+      "2025/11/25": 3,
       "2025/11/24": 2,
       "2024/3/28": 1,
       "2024/3/20": 2,
@@ -90,7 +89,7 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 14
+        "count": 13
       },
       {
         "keyword": "Google",
@@ -98,21 +97,21 @@
       },
       {
         "keyword": "ChatGPT",
-        "count": 2
-      },
-      {
-        "keyword": "OpenAI",
-        "count": 2
+        "count": 3
       },
       {
         "keyword": "Microsoft",
         "count": 2
+      },
+      {
+        "keyword": "OpenAI",
+        "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 64.46666666666667,
+      "averageTitleLength": 61.666666666666664,
       "sourceDiversity": 3
     }
   }
