@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
   "todayArticles": 0,
-  "highImportanceCount": 1,
-  "mediumImportanceCount": 14,
+  "highImportanceCount": 2,
+  "mediumImportanceCount": 13,
   "lowImportanceCount": 0,
-  "averageImportance": "6.6",
+  "averageImportance": "6.7",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -45,7 +45,7 @@
     },
     {
       "date": "2025/11/24",
-      "articleCount": 2,
+      "articleCount": 1,
       "highImportanceCount": 0
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "date": "2025/11/26",
-      "articleCount": 0,
-      "highImportanceCount": 0
+      "articleCount": 1,
+      "highImportanceCount": 1
     },
     {
       "date": "2025/11/27",
@@ -64,8 +64,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-11-27T02:01:36.370Z",
-  "updateTime": "2025/11/27 2:01:36",
+  "lastUpdated": "2025-11-27T09:17:20.683Z",
+  "updateTime": "2025/11/27 9:17:20",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -75,7 +75,8 @@
   "detailed": {
     "articlesPerDay": {
       "2025/11/25": 3,
-      "2025/11/24": 2,
+      "2025/11/26": 1,
+      "2025/11/24": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -100,18 +101,18 @@
         "count": 3
       },
       {
-        "keyword": "Microsoft",
+        "keyword": "OpenAI",
         "count": 2
       },
       {
-        "keyword": "OpenAI",
-        "count": 1
+        "keyword": "Microsoft",
+        "count": 2
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 61.666666666666664,
+      "averageTitleLength": 62.46666666666667,
       "sourceDiversity": 3
     }
   }

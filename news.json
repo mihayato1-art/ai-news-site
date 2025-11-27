@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Mixpanel security incident: what OpenAI users need to know",
+    "description": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+    "url": "https://openai.com/index/mixpanel-incident",
+    "publishedAt": "Wed, 26 Nov 2025 19:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Our approach to mental health-related litigation",
     "description": "We’re sharing our approach to mental health-related litigation. O handle sensitive cases with care, transparency, and respect while continuing to strengthen safety and support in ChatGPT.",
     "url": "https://openai.com/index/mental-health-litigation-approach",
@@ -64,16 +74,6 @@
     "description": "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.",
     "url": "https://openai.com/index/jetbrains-2025",
     "publishedAt": "Tue, 25 Nov 2025 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "GPT-5 and the future of mathematical discovery",
-    "description": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
-    "url": "https://openai.com/index/gpt-5-mathematical-discovery",
-    "publishedAt": "Mon, 24 Nov 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
