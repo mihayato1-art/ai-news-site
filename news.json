@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Inside Mirakl’s Agent Commerce Vision",
+    "description": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
+    "url": "https://openai.com/index/mirakl",
+    "publishedAt": "Mon, 01 Dec 2025 22:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Funding grants for new research into AI and mental health",
     "description": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
     "url": "https://openai.com/index/ai-mental-health-research-grants",
@@ -34,16 +44,6 @@
     "description": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, and efficiency while creating a scalable model for industry-wide transformation.",
     "url": "https://openai.com/index/thrive-holdings",
     "publishedAt": "Mon, 01 Dec 2025 05:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Mixpanel security incident: what OpenAI users need to know",
-    "description": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
-    "url": "https://openai.com/index/mixpanel-incident",
-    "publishedAt": "Wed, 26 Nov 2025 19:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
