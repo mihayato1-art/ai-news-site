@@ -1,12 +1,42 @@
 [
   {
-    "title": "Expanding data residency access to business customers worldwide",
-    "description": "OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.",
-    "url": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
-    "publishedAt": "Tue, 25 Nov 2025 22:00:00 GMT",
+    "title": "OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”",
+    "description": "OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories.",
+    "url": "https://openai.com/index/norad-holiday-collaboration",
+    "publishedAt": "Mon, 01 Dec 2025 06:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "Funding grants for new research into AI and mental health",
+    "description": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
+    "url": "https://openai.com/index/ai-mental-health-research-grants",
+    "publishedAt": "Mon, 01 Dec 2025 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Accenture and OpenAI accelerate enterprise AI success",
+    "description": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+    "url": "https://openai.com/index/accenture-partnership",
+    "publishedAt": "Mon, 01 Dec 2025 05:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
+    "description": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, and efficiency while creating a scalable model for industry-wide transformation.",
+    "url": "https://openai.com/index/thrive-holdings",
+    "publishedAt": "Mon, 01 Dec 2025 05:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -17,26 +47,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Our approach to mental health-related litigation",
-    "description": "We’re sharing our approach to mental health-related litigation. O handle sensitive cases with care, transparency, and respect while continuing to strengthen safety and support in ChatGPT.",
-    "url": "https://openai.com/index/mental-health-litigation-approach",
-    "publishedAt": "Tue, 25 Nov 2025 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing shopping research in ChatGPT",
-    "description": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
-    "url": "https://openai.com/index/chatgpt-shopping-research",
-    "publishedAt": "Mon, 24 Nov 2025 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
@@ -67,16 +77,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "Inside JetBrains—the company reshaping how the world writes code",
-    "description": "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.",
-    "url": "https://openai.com/index/jetbrains-2025",
-    "publishedAt": "Tue, 25 Nov 2025 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
     "type": "rss"
   },
   {

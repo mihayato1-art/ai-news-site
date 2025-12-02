@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
   "todayArticles": 0,
-  "highImportanceCount": 2,
-  "mediumImportanceCount": 13,
+  "highImportanceCount": 5,
+  "mediumImportanceCount": 10,
   "lowImportanceCount": 0,
-  "averageImportance": "6.7",
+  "averageImportance": "7.0",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -28,11 +28,6 @@
   "totalTools": 6,
   "averageToolRating": "8.8",
   "weeklyStats": [
-    {
-      "date": "2025/11/25",
-      "articleCount": 3,
-      "highImportanceCount": 1
-    },
     {
       "date": "2025/11/26",
       "articleCount": 1,
@@ -60,12 +55,17 @@
     },
     {
       "date": "2025/12/1",
+      "articleCount": 4,
+      "highImportanceCount": 4
+    },
+    {
+      "date": "2025/12/2",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-12-01T09:22:24.104Z",
-  "updateTime": "2025/12/1 9:22:24",
+  "lastUpdated": "2025-12-02T02:06:22.767Z",
+  "updateTime": "2025/12/2 2:06:22",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,9 +74,8 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2025/11/25": 3,
+      "2025/12/1": 4,
       "2025/11/26": 1,
-      "2025/11/24": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -90,29 +89,29 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 13
+        "count": 15
+      },
+      {
+        "keyword": "OpenAI",
+        "count": 5
       },
       {
         "keyword": "Google",
         "count": 5
       },
       {
-        "keyword": "ChatGPT",
-        "count": 3
-      },
-      {
-        "keyword": "OpenAI",
-        "count": 2
-      },
-      {
         "keyword": "Microsoft",
         "count": 2
+      },
+      {
+        "keyword": "ChatGPT",
+        "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 62.46666666666667,
+      "averageTitleLength": 65.73333333333333,
       "sourceDiversity": 3
     }
   }
