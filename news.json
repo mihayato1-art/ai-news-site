@@ -10,7 +10,7 @@
     "type": "rss"
   },
   {
-    "title": "Inside Mirakl’s Agent Commerce Vision",
+    "title": "Inside Mirakl's agentic commerce vision",
     "description": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
     "url": "https://openai.com/index/mirakl",
     "publishedAt": "Mon, 01 Dec 2025 22:00:00 GMT",
@@ -30,9 +30,9 @@
     "type": "rss"
   },
   {
-    "title": "Accenture and OpenAI accelerate enterprise AI success",
-    "description": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
-    "url": "https://openai.com/index/accenture-partnership",
+    "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
+    "description": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, and efficiency while creating a scalable model for industry-wide transformation.",
+    "url": "https://openai.com/index/thrive-holdings",
     "publishedAt": "Mon, 01 Dec 2025 05:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -40,9 +40,9 @@
     "type": "rss"
   },
   {
-    "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
-    "description": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, and efficiency while creating a scalable model for industry-wide transformation.",
-    "url": "https://openai.com/index/thrive-holdings",
+    "title": "Accenture and OpenAI accelerate enterprise AI success",
+    "description": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+    "url": "https://openai.com/index/accenture-partnership",
     "publishedAt": "Mon, 01 Dec 2025 05:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -147,6 +147,56 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "How we’re bringing AI image verification to the Gemini app",
+    "description": "",
+    "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
+    "publishedAt": "Thu, 20 Nov 2025 15:13:19 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "AlphaFold: Five years of impact",
+    "description": "Explore how AlphaFold has accelerated science and fueled a global wave of biological discovery.",
+    "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+    "publishedAt": "Tue, 25 Nov 2025 16:00:12 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Revealing a key protein behind heart disease",
+    "description": "AlphaFold has revealed the structure of a key protein behind heart disease",
+    "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
+    "publishedAt": "Tue, 25 Nov 2025 15:52:51 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+    "description": "",
+    "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
+    "publishedAt": "Thu, 20 Nov 2025 15:11:14 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Introducing Nano Banana Pro",
+    "description": "",
+    "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+    "publishedAt": "Thu, 20 Nov 2025 15:05:02 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   }
 ]
