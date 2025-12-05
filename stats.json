@@ -44,8 +44,8 @@
     },
     {
       "date": "2025/12/1",
-      "articleCount": 2,
-      "highImportanceCount": 2
+      "articleCount": 1,
+      "highImportanceCount": 1
     },
     {
       "date": "2025/12/2",
@@ -59,8 +59,8 @@
     },
     {
       "date": "2025/12/4",
-      "articleCount": 1,
-      "highImportanceCount": 0
+      "articleCount": 2,
+      "highImportanceCount": 1
     },
     {
       "date": "2025/12/5",
@@ -68,8 +68,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-12-05T02:07:02.327Z",
-  "updateTime": "2025/12/5 2:07:02",
+  "lastUpdated": "2025-12-05T09:16:58.708Z",
+  "updateTime": "2025/12/5 9:16:58",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,8 +78,9 @@
   },
   "detailed": {
     "articlesPerDay": {
+      "2025/12/4": 2,
       "2025/12/3": 3,
-      "2025/12/1": 2,
+      "2025/12/1": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -90,7 +91,6 @@
       "2022/7/21": 1,
       "2024/3/29": 1,
       "2025/11/20": 2,
-      "2025/12/4": 1,
       "2025/11/25": 2
     },
     "topKeywords": [
@@ -118,7 +118,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 56.35,
+      "averageTitleLength": 55.1,
       "sourceDiversity": 4
     }
   }

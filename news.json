@@ -1,5 +1,15 @@
 [
   {
+    "title": "Introducing OpenAI for Australia",
+    "description": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
+    "url": "https://openai.com/global-affairs/openai-for-australia",
+    "publishedAt": "Thu, 04 Dec 2025 19:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "OpenAI to acquire Neptune",
     "description": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
     "url": "https://openai.com/index/openai-to-acquire-neptune",
@@ -34,16 +44,6 @@
     "description": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
     "url": "https://openai.com/index/mirakl",
     "publishedAt": "Mon, 01 Dec 2025 22:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Funding grants for new research into AI and mental health",
-    "description": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
-    "url": "https://openai.com/index/ai-mental-health-research-grants",
-    "publishedAt": "Mon, 01 Dec 2025 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
