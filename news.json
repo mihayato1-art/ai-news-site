@@ -1,8 +1,8 @@
 [
   {
-    "title": "How confessions can keep language models honest",
-    "description": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
-    "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+    "title": "OpenAI to acquire Neptune",
+    "description": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+    "url": "https://openai.com/index/openai-to-acquire-neptune",
     "publishedAt": "Wed, 03 Dec 2025 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -10,9 +10,9 @@
     "type": "rss"
   },
   {
-    "title": "OpenAI to acquire Neptune",
-    "description": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
-    "url": "https://openai.com/index/openai-to-acquire-neptune",
+    "title": "How confessions can keep language models honest",
+    "description": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+    "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
     "publishedAt": "Wed, 03 Dec 2025 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -160,6 +160,16 @@
     "type": "rss"
   },
   {
+    "title": "Engineering more resilient crops for a warming climate",
+    "description": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+    "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+    "publishedAt": "Thu, 04 Dec 2025 16:23:24 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "AlphaFold: Five years of impact",
     "description": "Explore how AlphaFold has accelerated science and fueled a global wave of biological discovery.",
     "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
@@ -184,16 +194,6 @@
     "description": "",
     "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
     "publishedAt": "Thu, 20 Nov 2025 15:11:14 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Nano Banana Pro",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-    "publishedAt": "Thu, 20 Nov 2025 15:05:02 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
