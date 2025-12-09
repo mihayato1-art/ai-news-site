@@ -1,5 +1,25 @@
 [
   {
+    "title": "Instacart and OpenAI partner on AI shopping experiences",
+    "description": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
+    "url": "https://openai.com/index/instacart-partnership",
+    "publishedAt": "Mon, 08 Dec 2025 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "The state of enterprise AI",
+    "description": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
+    "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
+    "publishedAt": "Mon, 08 Dec 2025 04:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Introducing OpenAI for Australia",
     "description": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
     "url": "https://openai.com/global-affairs/openai-for-australia",
@@ -14,36 +34,6 @@
     "description": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
     "url": "https://openai.com/index/openai-to-acquire-neptune",
     "publishedAt": "Wed, 03 Dec 2025 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "How confessions can keep language models honest",
-    "description": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
-    "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
-    "publishedAt": "Wed, 03 Dec 2025 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Announcing the initial People-First AI Fund grantees",
-    "description": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
-    "url": "https://openai.com/index/people-first-ai-fund-grantees",
-    "publishedAt": "Wed, 03 Dec 2025 08:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Inside Mirakl's agentic commerce vision",
-    "description": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
-    "url": "https://openai.com/index/mirakl",
-    "publishedAt": "Mon, 01 Dec 2025 22:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -77,6 +67,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "How Virgin Atlantic uses AI to enhance every step of travel",
+    "description": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
+    "url": "https://openai.com/index/virgin-atlantic-oliver-byers",
+    "publishedAt": "Mon, 08 Dec 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {

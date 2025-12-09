@@ -1,8 +1,8 @@
 {
   "totalArticles": 20,
   "todayArticles": 0,
-  "highImportanceCount": 5,
-  "mediumImportanceCount": 11,
+  "highImportanceCount": 4,
+  "mediumImportanceCount": 12,
   "lowImportanceCount": 4,
   "averageImportance": "6.5",
   "sourceStats": [
@@ -33,14 +33,9 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2025/12/2",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2025/12/3",
-      "articleCount": 3,
-      "highImportanceCount": 3
+      "articleCount": 1,
+      "highImportanceCount": 1
     },
     {
       "date": "2025/12/4",
@@ -64,12 +59,17 @@
     },
     {
       "date": "2025/12/8",
+      "articleCount": 3,
+      "highImportanceCount": 2
+    },
+    {
+      "date": "2025/12/9",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-12-08T09:22:58.766Z",
-  "updateTime": "2025/12/8 9:22:58",
+  "lastUpdated": "2025-12-09T02:06:40.050Z",
+  "updateTime": "2025/12/9 2:06:40",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,9 +78,9 @@
   },
   "detailed": {
     "articlesPerDay": {
+      "2025/12/8": 3,
       "2025/12/4": 2,
-      "2025/12/3": 3,
-      "2025/12/1": 1,
+      "2025/12/3": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -118,7 +118,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 55.1,
+      "averageTitleLength": 55.2,
       "sourceDiversity": 4
     }
   }
