@@ -1,5 +1,15 @@
 [
   {
+    "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+    "description": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
+    "url": "https://openai.com/index/deutsche-telekom-collaboration",
+    "publishedAt": "Tue, 09 Dec 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Instacart and OpenAI partner on AI shopping experiences",
     "description": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
     "url": "https://openai.com/index/instacart-partnership",
@@ -24,16 +34,6 @@
     "description": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
     "url": "https://openai.com/global-affairs/openai-for-australia",
     "publishedAt": "Thu, 04 Dec 2025 19:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI to acquire Neptune",
-    "description": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
-    "url": "https://openai.com/index/openai-to-acquire-neptune",
-    "publishedAt": "Wed, 03 Dec 2025 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,

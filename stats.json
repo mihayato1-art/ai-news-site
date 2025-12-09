@@ -1,6 +1,6 @@
 {
   "totalArticles": 20,
-  "todayArticles": 0,
+  "todayArticles": 1,
   "highImportanceCount": 4,
   "mediumImportanceCount": 12,
   "lowImportanceCount": 4,
@@ -34,8 +34,8 @@
   "weeklyStats": [
     {
       "date": "2025/12/3",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2025/12/4",
@@ -64,12 +64,12 @@
     },
     {
       "date": "2025/12/9",
-      "articleCount": 0,
-      "highImportanceCount": 0
+      "articleCount": 1,
+      "highImportanceCount": 1
     }
   ],
-  "lastUpdated": "2025-12-09T02:06:40.050Z",
-  "updateTime": "2025/12/9 2:06:40",
+  "lastUpdated": "2025-12-09T09:19:07.553Z",
+  "updateTime": "2025/12/9 9:19:07",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,9 +78,9 @@
   },
   "detailed": {
     "articlesPerDay": {
+      "2025/12/9": 1,
       "2025/12/8": 3,
       "2025/12/4": 2,
-      "2025/12/3": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -107,18 +107,18 @@
         "count": 4
       },
       {
-        "keyword": "Microsoft",
+        "keyword": "ChatGPT",
         "count": 2
       },
       {
-        "keyword": "ChatGPT",
-        "count": 1
+        "keyword": "Microsoft",
+        "count": 2
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 55.2,
+      "averageTitleLength": 57.35,
       "sourceDiversity": 4
     }
   }
