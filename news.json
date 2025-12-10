@@ -10,30 +10,30 @@
     "type": "rss"
   },
   {
-    "title": "Instacart and OpenAI partner on AI shopping experiences",
-    "description": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
-    "url": "https://openai.com/index/instacart-partnership",
-    "publishedAt": "Mon, 08 Dec 2025 06:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
-    "title": "The state of enterprise AI",
-    "description": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
-    "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
-    "publishedAt": "Mon, 08 Dec 2025 04:00:00 GMT",
+    "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+    "description": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+    "url": "https://openai.com/index/agentic-ai-foundation",
+    "publishedAt": "Tue, 09 Dec 2025 09:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "Introducing OpenAI for Australia",
-    "description": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
-    "url": "https://openai.com/global-affairs/openai-for-australia",
-    "publishedAt": "Thu, 04 Dec 2025 19:00:00 GMT",
+    "title": "Launching our first OpenAI Certifications courses",
+    "description": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+    "url": "https://openai.com/index/openai-certificate-courses",
+    "publishedAt": "Tue, 09 Dec 2025 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+    "description": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
+    "url": "https://openai.com/index/openai-appoints-denise-dresser",
+    "publishedAt": "Tue, 09 Dec 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -70,10 +70,10 @@
     "type": "rss"
   },
   {
-    "title": "How Virgin Atlantic uses AI to enhance every step of travel",
-    "description": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
-    "url": "https://openai.com/index/virgin-atlantic-oliver-byers",
-    "publishedAt": "Mon, 08 Dec 2025 00:00:00 GMT",
+    "title": "How Scout24 is building the next generation of real-estate search with AI",
+    "description": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
+    "url": "https://openai.com/index/scout24",
+    "publishedAt": "Tue, 09 Dec 2025 16:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,

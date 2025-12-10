@@ -1,6 +1,6 @@
 {
   "totalArticles": 20,
-  "todayArticles": 1,
+  "todayArticles": 0,
   "highImportanceCount": 4,
   "mediumImportanceCount": 12,
   "lowImportanceCount": 4,
@@ -33,14 +33,9 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2025/12/3",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2025/12/4",
-      "articleCount": 2,
-      "highImportanceCount": 1
+      "articleCount": 1,
+      "highImportanceCount": 0
     },
     {
       "date": "2025/12/5",
@@ -59,17 +54,22 @@
     },
     {
       "date": "2025/12/8",
-      "articleCount": 3,
-      "highImportanceCount": 2
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2025/12/9",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 5,
+      "highImportanceCount": 4
+    },
+    {
+      "date": "2025/12/10",
+      "articleCount": 0,
+      "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-12-09T09:19:07.553Z",
-  "updateTime": "2025/12/9 9:19:07",
+  "lastUpdated": "2025-12-10T02:08:56.414Z",
+  "updateTime": "2025/12/10 2:08:56",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,9 +78,7 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2025/12/9": 1,
-      "2025/12/8": 3,
-      "2025/12/4": 2,
+      "2025/12/9": 5,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -91,6 +89,7 @@
       "2022/7/21": 1,
       "2024/3/29": 1,
       "2025/11/20": 2,
+      "2025/12/4": 1,
       "2025/11/25": 2
     },
     "topKeywords": [
@@ -107,18 +106,18 @@
         "count": 4
       },
       {
-        "keyword": "ChatGPT",
+        "keyword": "Microsoft",
         "count": 2
       },
       {
-        "keyword": "Microsoft",
-        "count": 2
+        "keyword": "ChatGPT",
+        "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 57.35,
+      "averageTitleLength": 60.45,
       "sourceDiversity": 4
     }
   }
