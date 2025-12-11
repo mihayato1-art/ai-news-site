@@ -1,12 +1,22 @@
 [
   {
-    "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
-    "description": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
-    "url": "https://openai.com/index/deutsche-telekom-collaboration",
+    "title": "Building AI fluency at scale with ChatGPT Enterprise",
+    "description": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
+    "url": "https://openai.com/index/commonwealth-bank-of-australia",
     "publishedAt": "Tue, 09 Dec 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "Strengthening cyber resilience as AI capabilities advance",
+    "description": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security community to strengthen cyber resilience.",
+    "url": "https://openai.com/index/strengthening-cyber-resilience",
+    "publishedAt": "Wed, 10 Dec 2025 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -24,16 +34,6 @@
     "description": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
     "url": "https://openai.com/index/openai-certificate-courses",
     "publishedAt": "Tue, 09 Dec 2025 06:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
-    "description": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
-    "url": "https://openai.com/index/openai-appoints-denise-dresser",
-    "publishedAt": "Tue, 09 Dec 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -150,13 +150,33 @@
     "type": "rss"
   },
   {
-    "title": "How we’re bringing AI image verification to the Gemini app",
-    "description": "",
-    "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
-    "publishedAt": "Thu, 20 Nov 2025 15:13:19 +0000",
+    "title": "Deepening our partnership with the UK AI Security Institute",
+    "description": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
+    "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+    "publishedAt": "Thu, 11 Dec 2025 00:06:40 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
+    "description": "Deepening our partnership with the UK government to support prosperity and security in the AI era",
+    "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+    "publishedAt": "Wed, 10 Dec 2025 14:59:21 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+    "description": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
+    "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+    "publishedAt": "Tue, 09 Dec 2025 11:29:03 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   },
   {
@@ -174,26 +194,6 @@
     "description": "Explore how AlphaFold has accelerated science and fueled a global wave of biological discovery.",
     "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
     "publishedAt": "Tue, 25 Nov 2025 16:00:12 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Revealing a key protein behind heart disease",
-    "description": "AlphaFold has revealed the structure of a key protein behind heart disease",
-    "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
-    "publishedAt": "Tue, 25 Nov 2025 15:52:51 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
-    "description": "",
-    "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
-    "publishedAt": "Thu, 20 Nov 2025 15:11:14 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
