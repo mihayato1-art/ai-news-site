@@ -10,16 +10,6 @@
     "type": "rss"
   },
   {
-    "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
-    "description": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.",
-    "url": "https://openai.com/index/disney-sora-agreement",
-    "publishedAt": "Thu, 11 Dec 2025 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
     "title": "Introducing GPT-5.2",
     "description": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
     "url": "https://openai.com/index/introducing-gpt-5-2",
@@ -30,20 +20,30 @@
     "type": "rss"
   },
   {
-    "title": "Advancing science and math with GPT-5.2",
-    "description": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
-    "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
-    "publishedAt": "Thu, 11 Dec 2025 10:00:00 GMT",
+    "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+    "description": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
+    "url": "https://openai.com/index/bny",
+    "publishedAt": "Fri, 12 Dec 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "Increasing revenue 300% by bringing AI to SMBs",
-    "description": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
-    "url": "https://openai.com/index/podium",
-    "publishedAt": "Thu, 11 Dec 2025 00:00:00 GMT",
+    "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+    "description": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+    "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+    "publishedAt": "Fri, 12 Dec 2025 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Advancing science and math with GPT-5.2",
+    "description": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
+    "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
+    "publishedAt": "Thu, 11 Dec 2025 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -170,6 +170,16 @@
     "type": "rss"
   },
   {
+    "title": "Improved Gemini audio models for powerful voice experiences",
+    "description": "",
+    "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+    "publishedAt": "Fri, 12 Dec 2025 17:50:50 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
     "description": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
     "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
@@ -184,16 +194,6 @@
     "description": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
     "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
     "publishedAt": "Thu, 04 Dec 2025 16:23:24 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "AlphaFold: Five years of impact",
-    "description": "Explore how AlphaFold has accelerated science and fueled a global wave of biological discovery.",
-    "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
-    "publishedAt": "Tue, 25 Nov 2025 16:00:12 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
