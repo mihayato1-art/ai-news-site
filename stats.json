@@ -4,7 +4,7 @@
   "highImportanceCount": 5,
   "mediumImportanceCount": 12,
   "lowImportanceCount": 3,
-  "averageImportance": "6.7",
+  "averageImportance": "6.6",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -32,11 +32,6 @@
   "totalTools": 6,
   "averageToolRating": "8.8",
   "weeklyStats": [
-    {
-      "date": "2025/12/9",
-      "articleCount": 1,
-      "highImportanceCount": 0
-    },
     {
       "date": "2025/12/10",
       "articleCount": 1,
@@ -66,10 +61,15 @@
       "date": "2025/12/15",
       "articleCount": 0,
       "highImportanceCount": 0
+    },
+    {
+      "date": "2025/12/16",
+      "articleCount": 0,
+      "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-12-15T09:26:43.767Z",
-  "updateTime": "2025/12/15 9:26:43",
+  "lastUpdated": "2025-12-16T02:11:00.643Z",
+  "updateTime": "2025/12/16 2:11:00",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -107,18 +107,18 @@
         "count": 5
       },
       {
-        "keyword": "ChatGPT",
+        "keyword": "Microsoft",
         "count": 2
       },
       {
-        "keyword": "Microsoft",
-        "count": 2
+        "keyword": "ChatGPT",
+        "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 65.95,
+      "averageTitleLength": 63,
       "sourceDiversity": 4
     }
   }
