@@ -1,12 +1,12 @@
 [
   {
-    "title": "BBVA and OpenAI collaborate to transform global banking",
-    "description": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
-    "url": "https://openai.com/index/bbva-collaboration-expansion",
-    "publishedAt": "Fri, 12 Dec 2025 00:00:00 GMT",
+    "title": "Introducing OpenAI Academy for News Organizations",
+    "description": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.",
+    "url": "https://openai.com/index/openai-academy-for-news-organizations",
+    "publishedAt": "Wed, 17 Dec 2025 06:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -40,13 +40,13 @@
     "type": "rss"
   },
   {
-    "title": "How We Used Codex to Ship Sora for Android in 28 Days",
-    "description": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
-    "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
-    "publishedAt": "Fri, 12 Dec 2025 00:00:00 GMT",
+    "title": "Developers can now submit apps to ChatGPT",
+    "description": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.",
+    "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+    "publishedAt": "Wed, 17 Dec 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -170,6 +170,16 @@
     "type": "rss"
   },
   {
+    "title": "Gemini 3 Flash: frontier intelligence built for speed",
+    "description": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+    "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+    "publishedAt": "Wed, 17 Dec 2025 11:58:17 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "Improved Gemini audio models for powerful voice experiences",
     "description": "",
     "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
@@ -184,16 +194,6 @@
     "description": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
     "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
     "publishedAt": "Tue, 09 Dec 2025 11:29:03 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Engineering more resilient crops for a warming climate",
-    "description": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
-    "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
-    "publishedAt": "Thu, 04 Dec 2025 16:23:24 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
