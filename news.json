@@ -1,8 +1,8 @@
 [
   {
-    "title": "Updating our Model Spec with teen protections",
-    "description": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthens guardrails, clarifies expected model behavior in higher-risk situations, and builds on our broader work to improve teen safety across ChatGPT.",
-    "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+    "title": "AI literacy resources for teens and parents",
+    "description": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.",
+    "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
     "publishedAt": "Thu, 18 Dec 2025 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -10,9 +10,9 @@
     "type": "rss"
   },
   {
-    "title": "AI literacy resources for teens and parents",
-    "description": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.",
-    "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+    "title": "Updating our Model Spec with teen protections",
+    "description": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthens guardrails, clarifies expected model behavior in higher-risk situations, and builds on our broader work to improve teen safety across ChatGPT.",
+    "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
     "publishedAt": "Thu, 18 Dec 2025 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -150,6 +150,16 @@
     "type": "rss"
   },
   {
+    "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+    "description": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+    "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+    "publishedAt": "Tue, 16 Dec 2025 10:14:24 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Deepening our partnership with the UK AI Security Institute",
     "description": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
     "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
@@ -184,16 +194,6 @@
     "description": "",
     "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
     "publishedAt": "Fri, 12 Dec 2025 17:50:50 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
-    "description": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
-    "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
-    "publishedAt": "Tue, 09 Dec 2025 11:29:03 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
