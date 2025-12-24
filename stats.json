@@ -15,11 +15,11 @@
       "count": 5
     },
     {
-      "source": "The AI Blog",
+      "source": "Google DeepMind News",
       "count": 5
     },
     {
-      "source": "Google DeepMind News",
+      "source": "The AI Blog",
       "count": 5
     }
   ],
@@ -32,11 +32,6 @@
   "totalTools": 6,
   "averageToolRating": "8.8",
   "weeklyStats": [
-    {
-      "date": "2025/12/17",
-      "articleCount": 1,
-      "highImportanceCount": 0
-    },
     {
       "date": "2025/12/18",
       "articleCount": 3,
@@ -64,12 +59,17 @@
     },
     {
       "date": "2025/12/23",
+      "articleCount": 1,
+      "highImportanceCount": 0
+    },
+    {
+      "date": "2025/12/24",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2025-12-23T09:20:32.209Z",
-  "updateTime": "2025/12/23 9:20:32",
+  "lastUpdated": "2025-12-24T02:09:05.513Z",
+  "updateTime": "2025/12/24 2:09:05",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -83,6 +83,7 @@
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
+      "2025/12/23": 1,
       "2022/12/6": 1,
       "2022/10/12": 1,
       "2022/10/6": 1,
@@ -91,18 +92,17 @@
       "2024/3/29": 1,
       "2025/12/16": 1,
       "2025/12/11": 1,
-      "2025/12/10": 1,
       "2025/12/17": 1,
       "2025/12/12": 1
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 18
+        "count": 17
       },
       {
         "keyword": "Google",
-        "count": 6
+        "count": 7
       },
       {
         "keyword": "OpenAI",
@@ -110,7 +110,7 @@
       },
       {
         "keyword": "ChatGPT",
-        "count": 3
+        "count": 2
       },
       {
         "keyword": "Microsoft",
@@ -120,7 +120,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 64.6,
+      "averageTitleLength": 63.8,
       "sourceDiversity": 4
     }
   }
