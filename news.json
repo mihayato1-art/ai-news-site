@@ -20,6 +20,16 @@
     "type": "rss"
   },
   {
+    "title": "Announcing OpenAI Grove Cohort 2",
+    "description": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
+    "url": "https://openai.com/index/openai-grove",
+    "publishedAt": "Fri, 02 Jan 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "One in a million: celebrating the customers shaping AI’s future",
     "description": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
     "url": "https://openai.com/index/one-in-a-million-customers",
@@ -34,16 +44,6 @@
     "description": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
     "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
     "publishedAt": "Thu, 18 Dec 2025 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Deepening our collaboration with the U.S. Department of Energy",
-    "description": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.",
-    "url": "https://openai.com/index/us-department-of-energy-collaboration",
-    "publishedAt": "Thu, 18 Dec 2025 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
