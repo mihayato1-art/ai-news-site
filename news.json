@@ -10,16 +10,6 @@
     "type": "rss"
   },
   {
-    "title": "Updating our Model Spec with teen protections",
-    "description": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthens guardrails, clarifies expected model behavior in higher-risk situations, and builds on our broader work to improve teen safety across ChatGPT.",
-    "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-    "publishedAt": "Thu, 18 Dec 2025 11:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
     "title": "Announcing OpenAI Grove Cohort 2",
     "description": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
     "url": "https://openai.com/index/openai-grove",
@@ -40,13 +30,13 @@
     "type": "rss"
   },
   {
-    "title": "Evaluating chain-of-thought monitorability",
-    "description": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
-    "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-    "publishedAt": "Thu, 18 Dec 2025 12:00:00 GMT",
+    "title": "Introducing ChatGPT Health ",
+    "description": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
+    "url": "https://openai.com/index/introducing-chatgpt-health",
+    "publishedAt": "Wed, 07 Jan 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -87,6 +77,16 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "How Tolan builds voice-first AI with GPT-5.1",
+    "description": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
+    "url": "https://openai.com/index/tolan",
+    "publishedAt": "Wed, 07 Jan 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
