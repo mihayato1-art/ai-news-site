@@ -1,12 +1,22 @@
 [
   {
-    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-    "description": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
-    "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-    "publishedAt": "Mon, 22 Dec 2025 00:00:00 GMT",
+    "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+    "description": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
+    "url": "https://openai.com/index/netomi",
+    "publishedAt": "Thu, 08 Jan 2026 13:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "OpenAI for Healthcare",
+    "description": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+    "url": "https://openai.com/index/openai-for-healthcare",
+    "publishedAt": "Thu, 08 Jan 2026 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -14,16 +24,6 @@
     "description": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
     "url": "https://openai.com/index/openai-grove",
     "publishedAt": "Fri, 02 Jan 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "One in a million: celebrating the customers shaping AI’s future",
-    "description": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
-    "url": "https://openai.com/index/one-in-a-million-customers",
-    "publishedAt": "Mon, 22 Dec 2025 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
