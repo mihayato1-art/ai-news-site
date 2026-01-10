@@ -1,5 +1,25 @@
 [
   {
+    "title": "OpenAI and SoftBank Group partner with SB Energy",
+    "description": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+    "url": "https://openai.com/index/stargate-sb-energy-partnership",
+    "publishedAt": "Fri, 09 Jan 2026 11:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Datadog uses Codex for system-level code review",
+    "description": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+    "url": "https://openai.com/index/datadog",
+    "publishedAt": "Fri, 09 Jan 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
     "description": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
     "url": "https://openai.com/index/netomi",
@@ -17,26 +37,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Announcing OpenAI Grove Cohort 2",
-    "description": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
-    "url": "https://openai.com/index/openai-grove",
-    "publishedAt": "Fri, 02 Jan 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing ChatGPT Health ",
-    "description": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
-    "url": "https://openai.com/index/introducing-chatgpt-health",
-    "publishedAt": "Wed, 07 Jan 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
