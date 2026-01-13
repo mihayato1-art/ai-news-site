@@ -33,11 +33,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/1/6",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2026/1/7",
       "articleCount": 1,
       "highImportanceCount": 0
@@ -66,10 +61,15 @@
       "date": "2026/1/12",
       "articleCount": 0,
       "highImportanceCount": 0
+    },
+    {
+      "date": "2026/1/13",
+      "articleCount": 0,
+      "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-01-12T09:27:11.877Z",
-  "updateTime": "2026/1/12 9:27:11",
+  "lastUpdated": "2026-01-13T02:11:41.339Z",
+  "updateTime": "2026/1/13 2:11:41",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
