@@ -1,5 +1,15 @@
 [
   {
+    "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+    "description": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.",
+    "url": "https://openai.com/index/zenken",
+    "publishedAt": "Tue, 13 Jan 2026 16:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "OpenAI and SoftBank Group partner with SB Energy",
     "description": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
     "url": "https://openai.com/index/stargate-sb-energy-partnership",
@@ -77,16 +87,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "How Tolan builds voice-first AI with GPT-5.1",
-    "description": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
-    "url": "https://openai.com/index/tolan",
-    "publishedAt": "Wed, 07 Jan 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
     "type": "rss"
   },
   {
@@ -170,13 +170,13 @@
     "type": "rss"
   },
   {
-    "title": "Deepening our partnership with the UK AI Security Institute",
-    "description": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
-    "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-    "publishedAt": "Thu, 11 Dec 2025 00:06:40 +0000",
+    "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+    "description": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+    "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+    "publishedAt": "Tue, 13 Jan 2026 17:00:18 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
-    "importance": 6,
+    "importance": 5,
     "type": "rss"
   },
   {
