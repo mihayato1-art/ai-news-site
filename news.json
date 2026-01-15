@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI partners with Cerebras  ",
+    "description": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
+    "url": "https://openai.com/index/cerebras-partnership",
+    "publishedAt": "Wed, 14 Jan 2026 14:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
     "description": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.",
     "url": "https://openai.com/index/zenken",
@@ -34,16 +44,6 @@
     "description": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
     "url": "https://openai.com/index/netomi",
     "publishedAt": "Thu, 08 Jan 2026 13:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI for Healthcare",
-    "description": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
-    "url": "https://openai.com/index/openai-for-healthcare",
-    "publishedAt": "Thu, 08 Jan 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
