@@ -10,6 +10,26 @@
     "type": "rss"
   },
   {
+    "title": "Investing in Merge Labs",
+    "description": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+    "url": "https://openai.com/index/investing-in-merge-labs",
+    "publishedAt": "Thu, 15 Jan 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+    "description": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
+    "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+    "publishedAt": "Thu, 15 Jan 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
     "description": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.",
     "url": "https://openai.com/index/zenken",
@@ -24,26 +44,6 @@
     "description": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
     "url": "https://openai.com/index/stargate-sb-energy-partnership",
     "publishedAt": "Fri, 09 Jan 2026 11:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Datadog uses Codex for system-level code review",
-    "description": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
-    "url": "https://openai.com/index/datadog",
-    "publishedAt": "Fri, 09 Jan 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
-    "description": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
-    "url": "https://openai.com/index/netomi",
-    "publishedAt": "Thu, 08 Jan 2026 13:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
