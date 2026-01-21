@@ -1,12 +1,22 @@
 [
   {
-    "title": "A business that scales with the value of intelligence",
-    "description": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
-    "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
-    "publishedAt": "Sun, 18 Jan 2026 10:00:00 GMT",
+    "title": "Introducing Edu for Countries",
+    "description": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+    "url": "https://openai.com/index/edu-for-countries",
+    "publishedAt": "Wed, 21 Jan 2026 01:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Horizon 1000: Advancing AI for primary healthcare",
+    "description": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+    "url": "https://openai.com/index/horizon-1000",
+    "publishedAt": "Tue, 20 Jan 2026 21:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -17,26 +27,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "ServiceNow powers actionable enterprise AI with OpenAI",
-    "description": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
-    "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
-    "publishedAt": "Tue, 20 Jan 2026 05:45:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Our approach to age prediction",
-    "description": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
-    "url": "https://openai.com/index/our-approach-to-age-prediction",
-    "publishedAt": "Tue, 20 Jan 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
@@ -80,10 +70,20 @@
     "type": "rss"
   },
   {
-    "title": "AI for self empowerment",
-    "description": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
-    "url": "https://openai.com/index/ai-for-self-empowerment",
-    "publishedAt": "Sun, 18 Jan 2026 12:00:00 GMT",
+    "title": "How countries can end the capability overhang",
+    "description": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+    "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+    "publishedAt": "Wed, 21 Jan 2026 01:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Stargate Community",
+    "description": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
+    "url": "https://openai.com/index/stargate-community",
+    "publishedAt": "Tue, 20 Jan 2026 19:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
