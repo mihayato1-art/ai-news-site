@@ -10,23 +10,33 @@
     "type": "rss"
   },
   {
-    "title": "Our approach to advertising and expanding access to ChatGPT",
-    "description": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
-    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-    "publishedAt": "Fri, 16 Jan 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing ChatGPT Go, now available worldwide",
-    "description": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
-    "url": "https://openai.com/index/introducing-chatgpt-go",
-    "publishedAt": "Fri, 16 Jan 2026 00:00:00 GMT",
+    "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+    "description": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+    "url": "https://openai.com/index/cisco",
+    "publishedAt": "Tue, 20 Jan 2026 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+    "description": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+    "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+    "publishedAt": "Tue, 20 Jan 2026 05:45:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Our approach to age prediction",
+    "description": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+    "url": "https://openai.com/index/our-approach-to-age-prediction",
+    "publishedAt": "Tue, 20 Jan 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -157,16 +167,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "The truth left out from Elon Musk’s recent court filing",
-    "description": "The truth left out from Elon Musk’s recent court filing.",
-    "url": "https://openai.com/index/the-truth-elon-left-out",
-    "publishedAt": "Fri, 16 Jan 2026 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
