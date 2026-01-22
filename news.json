@@ -1,5 +1,15 @@
 [
   {
+    "title": "How Higgsfield turns simple ideas into cinematic social videos",
+    "description": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+    "url": "https://openai.com/index/higgsfield",
+    "publishedAt": "Wed, 21 Jan 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Introducing Edu for Countries",
     "description": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
     "url": "https://openai.com/index/edu-for-countries",
@@ -14,16 +24,6 @@
     "description": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
     "url": "https://openai.com/index/horizon-1000",
     "publishedAt": "Tue, 20 Jan 2026 21:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
-    "description": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
-    "url": "https://openai.com/index/cisco",
-    "publishedAt": "Tue, 20 Jan 2026 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
