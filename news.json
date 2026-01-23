@@ -1,5 +1,15 @@
 [
   {
+    "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+    "description": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+    "url": "https://openai.com/index/scaling-postgresql",
+    "publishedAt": "Thu, 22 Jan 2026 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "How Higgsfield turns simple ideas into cinematic social videos",
     "description": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
     "url": "https://openai.com/index/higgsfield",
@@ -10,20 +20,20 @@
     "type": "rss"
   },
   {
-    "title": "Introducing Edu for Countries",
-    "description": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
-    "url": "https://openai.com/index/edu-for-countries",
-    "publishedAt": "Wed, 21 Jan 2026 01:00:00 GMT",
+    "title": "Inside Praktika's conversational approach to language learning",
+    "description": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+    "url": "https://openai.com/index/praktika",
+    "publishedAt": "Thu, 22 Jan 2026 05:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "Horizon 1000: Advancing AI for primary healthcare",
-    "description": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
-    "url": "https://openai.com/index/horizon-1000",
-    "publishedAt": "Tue, 20 Jan 2026 21:00:00 GMT",
+    "title": "Introducing Edu for Countries",
+    "description": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+    "url": "https://openai.com/index/edu-for-countries",
+    "publishedAt": "Wed, 21 Jan 2026 01:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -74,16 +84,6 @@
     "description": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
     "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
     "publishedAt": "Wed, 21 Jan 2026 01:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Stargate Community",
-    "description": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
-    "url": "https://openai.com/index/stargate-community",
-    "publishedAt": "Tue, 20 Jan 2026 19:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
@@ -160,6 +160,16 @@
     "type": "rss"
   },
   {
+    "title": "D4RT: Teaching AI to see the world in four dimensions",
+    "description": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+    "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+    "publishedAt": "Fri, 16 Jan 2026 10:39:00 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
     "description": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
     "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
@@ -184,16 +194,6 @@
     "description": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
     "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
     "publishedAt": "Wed, 17 Dec 2025 11:58:17 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Improved Gemini audio models for powerful voice experiences",
-    "description": "",
-    "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
-    "publishedAt": "Fri, 12 Dec 2025 17:50:50 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
