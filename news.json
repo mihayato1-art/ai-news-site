@@ -30,10 +30,10 @@
     "type": "rss"
   },
   {
-    "title": "Introducing Edu for Countries",
-    "description": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
-    "url": "https://openai.com/index/edu-for-countries",
-    "publishedAt": "Wed, 21 Jan 2026 01:00:00 GMT",
+    "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+    "description": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+    "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+    "publishedAt": "Thu, 22 Jan 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -80,10 +80,10 @@
     "type": "rss"
   },
   {
-    "title": "How countries can end the capability overhang",
-    "description": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
-    "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
-    "publishedAt": "Wed, 21 Jan 2026 01:00:00 GMT",
+    "title": "Unrolling the Codex agent loop",
+    "description": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+    "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+    "publishedAt": "Fri, 23 Jan 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
