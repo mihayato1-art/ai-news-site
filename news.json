@@ -10,16 +10,6 @@
     "type": "rss"
   },
   {
-    "title": "How Higgsfield turns simple ideas into cinematic social videos",
-    "description": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
-    "url": "https://openai.com/index/higgsfield",
-    "publishedAt": "Wed, 21 Jan 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
     "title": "Inside Praktika's conversational approach to language learning",
     "description": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
     "url": "https://openai.com/index/praktika",
@@ -77,6 +67,16 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "How Indeed uses AI to help evolve the job search",
+    "description": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+    "url": "https://openai.com/index/indeed-maggie-hulce",
+    "publishedAt": "Mon, 26 Jan 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
