@@ -10,13 +10,23 @@
     "type": "rss"
   },
   {
-    "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
-    "description": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
-    "url": "https://openai.com/index/scaling-postgresql",
-    "publishedAt": "Thu, 22 Jan 2026 12:00:00 GMT",
+    "title": "The next chapter for AI in the EU",
+    "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+    "publishedAt": "Wed, 28 Jan 2026 01:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Powering tax donations with AI powered personalized recommendations",
+    "description": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.",
+    "url": "https://openai.com/index/trustbank",
+    "publishedAt": "Tue, 27 Jan 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -60,20 +70,10 @@
     "type": "rss"
   },
   {
-    "title": "How Indeed uses AI to help evolve the job search",
-    "description": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
-    "url": "https://openai.com/index/indeed-maggie-hulce",
-    "publishedAt": "Mon, 26 Jan 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Unrolling the Codex agent loop",
-    "description": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
-    "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
-    "publishedAt": "Fri, 23 Jan 2026 12:00:00 GMT",
+    "title": "EMEA Youth & Wellbeing Grant",
+    "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+    "publishedAt": "Wed, 28 Jan 2026 01:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
