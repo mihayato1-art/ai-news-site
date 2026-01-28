@@ -1,5 +1,15 @@
 [
   {
+    "title": "PVH reimagines the future of fashion with OpenAI",
+    "description": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+    "url": "https://openai.com/index/pvh-future-of-fashion",
+    "publishedAt": "Tue, 27 Jan 2026 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
     "description": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
     "url": "https://openai.com/index/scaling-postgresql",
@@ -7,26 +17,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 10,
-    "type": "rss"
-  },
-  {
-    "title": "Inside Praktika's conversational approach to language learning",
-    "description": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
-    "url": "https://openai.com/index/praktika",
-    "publishedAt": "Thu, 22 Jan 2026 05:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
-    "description": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
-    "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
-    "publishedAt": "Thu, 22 Jan 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
     "type": "rss"
   },
   {
@@ -177,6 +167,16 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Introducing Prism",
+    "description": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+    "url": "https://openai.com/index/introducing-prism",
+    "publishedAt": "Tue, 27 Jan 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   },
   {
