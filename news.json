@@ -20,10 +20,10 @@
     "type": "rss"
   },
   {
-    "title": "Powering tax donations with AI powered personalized recommendations",
-    "description": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.",
-    "url": "https://openai.com/index/trustbank",
-    "publishedAt": "Tue, 27 Jan 2026 00:00:00 GMT",
+    "title": "Keeping your data safe when an AI agent clicks a link",
+    "description": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+    "url": "https://openai.com/index/ai-agent-link-safety",
+    "publishedAt": "Wed, 28 Jan 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
