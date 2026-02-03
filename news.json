@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+    "description": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
+    "url": "https://openai.com/index/snowflake-partnership",
+    "publishedAt": "Mon, 02 Feb 2026 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Inside OpenAI’s in-house data agent",
     "description": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
     "url": "https://openai.com/index/inside-our-in-house-data-agent",
@@ -24,16 +34,6 @@
     "description": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
     "url": "https://openai.com/index/taisei",
     "publishedAt": "Thu, 29 Jan 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "The next chapter for AI in the EU",
-    "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-    "publishedAt": "Wed, 28 Jan 2026 01:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -80,10 +80,10 @@
     "type": "rss"
   },
   {
-    "title": "EMEA Youth & Wellbeing Grant",
-    "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-    "publishedAt": "Wed, 28 Jan 2026 01:00:00 GMT",
+    "title": "Introducing the Codex app",
+    "description": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
+    "url": "https://openai.com/index/introducing-the-codex-app",
+    "publishedAt": "Mon, 02 Feb 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
