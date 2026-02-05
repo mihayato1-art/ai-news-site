@@ -10,13 +10,13 @@
     "type": "rss"
   },
   {
-    "title": "Inside OpenAI’s in-house data agent",
-    "description": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
-    "url": "https://openai.com/index/inside-our-in-house-data-agent",
-    "publishedAt": "Thu, 29 Jan 2026 10:00:00 GMT",
+    "title": "Navigating health questions with ChatGPT",
+    "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+    "url": "https://openai.com/index/navigating-health-questions",
+    "publishedAt": "Thu, 05 Feb 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -74,16 +74,6 @@
     "description": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
     "url": "https://openai.com/index/sora-feed-philosophy",
     "publishedAt": "Tue, 03 Feb 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing the Codex app",
-    "description": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
-    "url": "https://openai.com/index/introducing-the-codex-app",
-    "publishedAt": "Mon, 02 Feb 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
@@ -177,6 +167,16 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Unlocking the Codex harness: how we built the App Server",
+    "description": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+    "url": "https://openai.com/index/unlocking-the-codex-harness",
+    "publishedAt": "Wed, 04 Feb 2026 13:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   },
   {
