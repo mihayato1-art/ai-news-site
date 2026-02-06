@@ -1,9 +1,29 @@
 [
   {
-    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
-    "description": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
-    "url": "https://openai.com/index/snowflake-partnership",
-    "publishedAt": "Mon, 02 Feb 2026 06:00:00 GMT",
+    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+    "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+    "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+    "publishedAt": "Thu, 05 Feb 2026 11:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Introducing Trusted Access for Cyber",
+    "description": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
+    "url": "https://openai.com/index/trusted-access-for-cyber",
+    "publishedAt": "Thu, 05 Feb 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Introducing OpenAI Frontier",
+    "description": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+    "url": "https://openai.com/index/introducing-openai-frontier",
+    "publishedAt": "Thu, 05 Feb 2026 06:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -14,16 +34,6 @@
     "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
     "url": "https://openai.com/index/navigating-health-questions",
     "publishedAt": "Thu, 05 Feb 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-    "description": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
-    "url": "https://openai.com/index/vfl-wolfsburg",
-    "publishedAt": "Wed, 04 Feb 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 7,
@@ -67,16 +77,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "The Sora feed philosophy",
-    "description": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
-    "url": "https://openai.com/index/sora-feed-philosophy",
-    "publishedAt": "Tue, 03 Feb 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
     "type": "rss"
   },
   {
@@ -170,10 +170,10 @@
     "type": "rss"
   },
   {
-    "title": "Unlocking the Codex harness: how we built the App Server",
-    "description": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
-    "url": "https://openai.com/index/unlocking-the-codex-harness",
-    "publishedAt": "Wed, 04 Feb 2026 13:00:00 GMT",
+    "title": "GPT-5.3-Codex System Card",
+    "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "publishedAt": "Thu, 05 Feb 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
