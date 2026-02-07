@@ -1,5 +1,15 @@
 [
   {
+    "title": "Making AI work for everyone, everywhere: our approach to localization",
+    "description": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
+    "url": "https://openai.com/index/our-approach-to-localization",
+    "publishedAt": "Fri, 06 Feb 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "GPT-5 lowers the cost of cell-free protein synthesis",
     "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
     "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
@@ -27,16 +37,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Navigating health questions with ChatGPT",
-    "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
-    "url": "https://openai.com/index/navigating-health-questions",
-    "publishedAt": "Thu, 05 Feb 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
@@ -170,10 +170,10 @@
     "type": "rss"
   },
   {
-    "title": "GPT-5.3-Codex System Card",
-    "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-    "publishedAt": "Thu, 05 Feb 2026 00:00:00 GMT",
+    "title": "Korea privacy policy",
+    "description": "Korea privacy policy",
+    "url": "https://openai.com/policies/kr-privacy-policy",
+    "publishedAt": "Fri, 06 Feb 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
