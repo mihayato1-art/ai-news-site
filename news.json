@@ -1,5 +1,25 @@
 [
   {
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "publishedAt": "Mon, 09 Feb 2026 11:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "publishedAt": "Mon, 09 Feb 2026 11:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Making AI work for everyone, everywhere: our approach to localization",
     "description": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
     "url": "https://openai.com/index/our-approach-to-localization",
@@ -24,16 +44,6 @@
     "description": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
     "url": "https://openai.com/index/trusted-access-for-cyber",
     "publishedAt": "Thu, 05 Feb 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing OpenAI Frontier",
-    "description": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
-    "url": "https://openai.com/index/introducing-openai-frontier",
-    "publishedAt": "Thu, 05 Feb 2026 06:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -167,16 +177,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Korea privacy policy",
-    "description": "Korea privacy policy",
-    "url": "https://openai.com/policies/kr-privacy-policy",
-    "publishedAt": "Fri, 06 Feb 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
