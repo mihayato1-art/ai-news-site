@@ -1,10 +1,10 @@
 {
   "totalArticles": 20,
   "todayArticles": 0,
-  "highImportanceCount": 4,
+  "highImportanceCount": 3,
   "mediumImportanceCount": 13,
-  "lowImportanceCount": 3,
-  "averageImportance": "6.7",
+  "lowImportanceCount": 4,
+  "averageImportance": "6.5",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -15,11 +15,11 @@
       "count": 5
     },
     {
-      "source": "Google DeepMind News",
+      "source": "The AI Blog",
       "count": 5
     },
     {
-      "source": "The AI Blog",
+      "source": "Google DeepMind News",
       "count": 5
     }
   ],
@@ -32,11 +32,6 @@
   "totalTools": 6,
   "averageToolRating": "8.8",
   "weeklyStats": [
-    {
-      "date": "2026/2/6",
-      "articleCount": 1,
-      "highImportanceCount": 1
-    },
     {
       "date": "2026/2/7",
       "articleCount": 0,
@@ -64,12 +59,17 @@
     },
     {
       "date": "2026/2/12",
+      "articleCount": 2,
+      "highImportanceCount": 0
+    },
+    {
+      "date": "2026/2/13",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-02-12T09:41:52.703Z",
-  "updateTime": "2026/2/12 9:41:52",
+  "lastUpdated": "2026-02-13T02:54:27.419Z",
+  "updateTime": "2026/2/13 2:54:27",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -80,11 +80,10 @@
     "articlesPerDay": {
       "2026/2/9": 3,
       "2026/2/6": 1,
-      "2026/2/5": 1,
+      "2026/2/12": 2,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
-      "2025/12/23": 1,
       "2022/12/6": 1,
       "2022/10/12": 1,
       "2022/10/6": 1,
@@ -99,19 +98,19 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 16
+        "count": 15
       },
       {
         "keyword": "Google",
-        "count": 7
-      },
-      {
-        "keyword": "OpenAI",
-        "count": 4
+        "count": 6
       },
       {
         "keyword": "ChatGPT",
-        "count": 2
+        "count": 3
+      },
+      {
+        "keyword": "OpenAI",
+        "count": 3
       },
       {
         "keyword": "Microsoft",
@@ -121,7 +120,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 61.15,
+      "averageTitleLength": 59.9,
       "sourceDiversity": 4
     }
   }

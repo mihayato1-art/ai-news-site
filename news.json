@@ -1,8 +1,8 @@
 [
   {
-    "title": "Bringing ChatGPT to GenAI.mil",
-    "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "title": "Testing ads in ChatGPT",
+    "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "publishedAt": "Mon, 09 Feb 2026 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -10,9 +10,9 @@
     "type": "rss"
   },
   {
-    "title": "Testing ads in ChatGPT",
-    "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
     "publishedAt": "Mon, 09 Feb 2026 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -30,13 +30,13 @@
     "type": "rss"
   },
   {
-    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
-    "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
-    "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
-    "publishedAt": "Thu, 05 Feb 2026 11:00:00 GMT",
+    "title": "Introducing GPT-5.3-Codex-Spark",
+    "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+    "publishedAt": "Thu, 12 Feb 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -65,16 +65,6 @@
     "url": "https://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
     "publishedAt": "2024-03-18T18:41:00.000Z",
     "source": "Google Research Blog",
-    "category": "AI News",
-    "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-    "description": "Google 2025 recap: Research breakthroughs of the year",
-    "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-    "publishedAt": "Tue, 23 Dec 2025 17:01:02 +0000",
-    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 7,
     "type": "rss"
@@ -175,6 +165,16 @@
     "url": "https://openai.com/index/harness-engineering",
     "publishedAt": "Wed, 11 Feb 2026 09:00:00 GMT",
     "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+    "description": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+    "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+    "publishedAt": "Thu, 12 Feb 2026 16:15:09 +0000",
+    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
