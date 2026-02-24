@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI announces Frontier Alliance Partners",
+    "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "url": "https://openai.com/index/frontier-alliance-partners",
+    "publishedAt": "Mon, 23 Feb 2026 05:30:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Advancing independent research on AI alignment",
     "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
     "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
@@ -14,26 +24,6 @@
     "description": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
     "url": "https://openai.com/index/openai-for-india",
     "publishedAt": "Wed, 18 Feb 2026 21:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing EVMbench",
-    "description": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
-    "url": "https://openai.com/index/introducing-evmbench",
-    "publishedAt": "Wed, 18 Feb 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "GPT-5.2 derives a new result in theoretical physics",
-    "description": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
-    "url": "https://openai.com/index/new-result-theoretical-physics",
-    "publishedAt": "Fri, 13 Feb 2026 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -67,6 +57,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "Why we no longer evaluate SWE-bench Verified",
+    "description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+    "publishedAt": "Mon, 23 Feb 2026 11:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
