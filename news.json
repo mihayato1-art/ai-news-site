@@ -1,5 +1,15 @@
 [
   {
+    "title": "Arvind KC appointed Chief People Officer",
+    "description": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+    "url": "https://openai.com/index/arvind-kc-chief-people-officer",
+    "publishedAt": "Tue, 24 Feb 2026 13:40:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "OpenAI announces Frontier Alliance Partners",
     "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
     "url": "https://openai.com/index/frontier-alliance-partners",
@@ -14,16 +24,6 @@
     "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
     "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
     "publishedAt": "Thu, 19 Feb 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing OpenAI for India",
-    "description": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
-    "url": "https://openai.com/index/openai-for-india",
-    "publishedAt": "Wed, 18 Feb 2026 21:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
