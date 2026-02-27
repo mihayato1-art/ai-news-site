@@ -1,19 +1,29 @@
 [
   {
-    "title": "Arvind KC appointed Chief People Officer",
-    "description": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
-    "url": "https://openai.com/index/arvind-kc-chief-people-officer",
-    "publishedAt": "Tue, 24 Feb 2026 13:40:00 GMT",
+    "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
+    "description": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+    "url": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "publishedAt": "Thu, 26 Feb 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "OpenAI announces Frontier Alliance Partners",
-    "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
-    "url": "https://openai.com/index/frontier-alliance-partners",
-    "publishedAt": "Mon, 23 Feb 2026 05:30:00 GMT",
+    "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+    "description": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+    "url": "https://openai.com/index/figma-partnership",
+    "publishedAt": "Thu, 26 Feb 2026 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Arvind KC appointed Chief People Officer",
+    "description": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+    "url": "https://openai.com/index/arvind-kc-chief-people-officer",
+    "publishedAt": "Tue, 24 Feb 2026 13:40:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -64,16 +74,6 @@
     "description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
     "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
     "publishedAt": "Mon, 23 Feb 2026 11:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Our First Proof submissions",
-    "description": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
-    "url": "https://openai.com/index/first-proof-submissions",
-    "publishedAt": "Fri, 20 Feb 2026 14:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
@@ -160,6 +160,16 @@
     "type": "rss"
   },
   {
+    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "description": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+    "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "publishedAt": "Thu, 26 Feb 2026 16:01:50 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
     "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
     "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
@@ -184,16 +194,6 @@
     "description": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
     "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
     "publishedAt": "Thu, 12 Feb 2026 16:15:09 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-    "description": "Research papers point to the growing impact of Deep Think across fields",
-    "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-    "publishedAt": "Mon, 09 Feb 2026 16:12:06 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
