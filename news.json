@@ -1,9 +1,39 @@
 [
   {
-    "title": "Understanding AI and learning outcomes",
-    "description": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-    "publishedAt": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "title": "Introducing ChatGPT for Excel and new financial data integrations",
+    "description": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+    "url": "https://openai.com/index/chatgpt-for-excel",
+    "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "Introducing GPT-5.4",
+    "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Ensuring AI use in education leads to opportunity",
+    "description": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+    "url": "https://openai.com/index/ai-education-opportunity",
+    "publishedAt": "Thu, 05 Mar 2026 09:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -37,16 +67,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "How Axios uses AI to help deliver high-impact local journalism ",
-    "description": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
-    "url": "https://openai.com/index/axios-allison-murphy",
-    "publishedAt": "Wed, 04 Mar 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
     "type": "rss"
   },
   {
@@ -130,30 +150,10 @@
     "type": "rss"
   },
   {
-    "title": "Extending single-minus amplitudes to gravitons",
-    "description": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
-    "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
-    "publishedAt": "Wed, 04 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "GPT-5.3 Instant System Card",
+    "title": "GPT-5.4 Thinking System Card",
     "description": "",
-    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
-    "publishedAt": "Tue, 03 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "description": "",
-    "url": "https://openai.com/index/gpt-5-3-instant",
-    "publishedAt": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
