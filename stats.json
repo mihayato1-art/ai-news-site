@@ -1,10 +1,10 @@
 {
   "totalArticles": 20,
   "todayArticles": 0,
-  "highImportanceCount": 3,
-  "mediumImportanceCount": 12,
+  "highImportanceCount": 2,
+  "mediumImportanceCount": 13,
   "lowImportanceCount": 5,
-  "averageImportance": "6.2",
+  "averageImportance": "6.1",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -33,11 +33,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/2/28",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2026/3/1",
       "articleCount": 0,
       "highImportanceCount": 0
@@ -59,17 +54,22 @@
     },
     {
       "date": "2026/3/5",
-      "articleCount": 5,
-      "highImportanceCount": 3
+      "articleCount": 2,
+      "highImportanceCount": 1
     },
     {
       "date": "2026/3/6",
+      "articleCount": 3,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2026/3/7",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-03-06T09:32:37.837Z",
-  "updateTime": "2026/3/6 9:32:37",
+  "lastUpdated": "2026-03-07T02:34:20.996Z",
+  "updateTime": "2026/3/7 2:34:20",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,7 +78,8 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/3/5": 5,
+      "2026/3/6": 3,
+      "2026/3/5": 2,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -105,7 +106,7 @@
       },
       {
         "keyword": "OpenAI",
-        "count": 3
+        "count": 2
       },
       {
         "keyword": "Microsoft",
@@ -115,7 +116,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 60,
+      "averageTitleLength": 62.3,
       "sourceDiversity": 4
     }
   }

@@ -1,9 +1,9 @@
 [
   {
-    "title": "Introducing GPT-5.4",
-    "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "description": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "url": "https://openai.com/index/descript",
+    "publishedAt": "Fri, 06 Mar 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -14,16 +14,6 @@
     "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
     "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
     "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Ensuring AI use in education leads to opportunity",
-    "description": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-    "url": "https://openai.com/index/ai-education-opportunity",
-    "publishedAt": "Thu, 05 Mar 2026 09:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -60,10 +50,20 @@
     "type": "rss"
   },
   {
-    "title": "The five AI value models driving business reinvention",
-    "description": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
-    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-    "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "title": "Codex Security: now in research preview ",
+    "description": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "publishedAt": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "description": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "url": "https://openai.com/index/balyasny-asset-management",
+    "publishedAt": "Fri, 06 Mar 2026 07:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
