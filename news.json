@@ -10,16 +10,6 @@
     "type": "rss"
   },
   {
-    "title": "Introducing GPT-5.4",
-    "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
     "title": "Reasoning models struggle to control their chains of thought, and that’s good",
     "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
     "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
@@ -157,6 +147,16 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "GPT-5.4 Thinking System Card",
+    "description": "",
+    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   },
   {
