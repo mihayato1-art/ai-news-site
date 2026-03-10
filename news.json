@@ -1,19 +1,19 @@
 [
   {
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "description": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-    "url": "https://openai.com/index/descript",
-    "publishedAt": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "title": "OpenAI to acquire Promptfoo",
+    "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "publishedAt": "Mon, 09 Mar 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "publishedAt": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "description": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "url": "https://openai.com/index/descript",
+    "publishedAt": "Fri, 06 Mar 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
