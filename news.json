@@ -1,32 +1,42 @@
 [
   {
-    "title": "OpenAI to acquire Promptfoo",
-    "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "publishedAt": "Mon, 09 Mar 2026 10:00:00 GMT",
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "description": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "url": "https://openai.com/index/rakuten",
+    "publishedAt": "Wed, 11 Mar 2026 13:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "description": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-    "url": "https://openai.com/index/descript",
-    "publishedAt": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "title": "Designing AI agents to resist prompt injection",
+    "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "publishedAt": "Wed, 11 Mar 2026 11:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "New ways to learn math and science in ChatGPT",
-    "description": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
-    "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-    "publishedAt": "Tue, 10 Mar 2026 10:00:00 GMT",
+    "title": "From model to agent: Equipping the Responses API with a computer environment ",
+    "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 7,
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "url": "https://openai.com/index/wayfair",
+    "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -64,16 +74,6 @@
     "description": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
     "url": "https://openai.com/index/instruction-hierarchy-challenge",
     "publishedAt": "Tue, 10 Mar 2026 11:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Codex Security: now in research preview ",
-    "description": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "url": "https://openai.com/index/codex-security-now-in-research-preview",
-    "publishedAt": "Fri, 06 Mar 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
