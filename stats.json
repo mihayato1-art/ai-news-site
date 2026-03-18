@@ -1,10 +1,10 @@
 {
   "totalArticles": 20,
   "todayArticles": 0,
-  "highImportanceCount": 4,
+  "highImportanceCount": 3,
   "mediumImportanceCount": 11,
-  "lowImportanceCount": 5,
-  "averageImportance": "6.3",
+  "lowImportanceCount": 6,
+  "averageImportance": "6.2",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -33,11 +33,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/3/11",
-      "articleCount": 4,
-      "highImportanceCount": 4
-    },
-    {
       "date": "2026/3/12",
       "articleCount": 0,
       "highImportanceCount": 0
@@ -64,12 +59,17 @@
     },
     {
       "date": "2026/3/17",
+      "articleCount": 2,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2026/3/18",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-03-17T09:50:40.307Z",
-  "updateTime": "2026/3/17 9:50:40",
+  "lastUpdated": "2026-03-18T02:52:18.577Z",
+  "updateTime": "2026/3/18 2:52:18",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,7 +78,8 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/3/11": 4,
+      "2026/3/17": 2,
+      "2026/3/11": 2,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -98,29 +99,29 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 15
+        "count": 14
       },
       {
         "keyword": "Google",
         "count": 5
       },
       {
-        "keyword": "OpenAI",
-        "count": 3
+        "keyword": "ChatGPT",
+        "count": 2
       },
       {
         "keyword": "Microsoft",
         "count": 2
       },
       {
-        "keyword": "ChatGPT",
+        "keyword": "OpenAI",
         "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 62.05,
+      "averageTitleLength": 59.3,
       "sourceDiversity": 4
     }
   }
