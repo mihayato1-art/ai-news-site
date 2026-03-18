@@ -150,6 +150,16 @@
     "type": "rss"
   },
   {
+    "title": "Measuring progress toward AGI: A cognitive framework",
+    "description": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+    "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "publishedAt": "Tue, 17 Mar 2026 16:03:47 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
     "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
     "url": "https://deepmind.google/blog/10-years-of-alphago/",
@@ -184,16 +194,6 @@
     "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
     "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
     "publishedAt": "Thu, 19 Feb 2026 16:06:14 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "A new way to express yourself: Gemini can now create music",
-    "description": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
-    "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
-    "publishedAt": "Wed, 18 Feb 2026 16:01:38 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,

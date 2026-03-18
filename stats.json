@@ -59,7 +59,7 @@
     },
     {
       "date": "2026/3/17",
-      "articleCount": 2,
+      "articleCount": 3,
       "highImportanceCount": 1
     },
     {
@@ -68,8 +68,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-03-18T02:52:18.577Z",
-  "updateTime": "2026/3/18 2:52:18",
+  "lastUpdated": "2026-03-18T09:46:43.763Z",
+  "updateTime": "2026/3/18 9:46:43",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,7 +78,7 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/3/17": 2,
+      "2026/3/17": 3,
       "2026/3/11": 2,
       "2024/3/28": 1,
       "2024/3/20": 2,
@@ -93,8 +93,7 @@
       "2026/3/9": 1,
       "2026/3/3": 1,
       "2026/2/26": 1,
-      "2026/2/19": 1,
-      "2026/2/18": 1
+      "2026/2/19": 1
     },
     "topKeywords": [
       {
@@ -121,7 +120,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 59.3,
+      "averageTitleLength": 59,
       "sourceDiversity": 4
     }
   }
