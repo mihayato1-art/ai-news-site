@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "description": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "url": "https://openai.com/index/japan-teen-safety-blueprint",
+    "publishedAt": "Tue, 17 Mar 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Equipping workers with insights about compensation",
     "description": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
     "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
@@ -14,16 +24,6 @@
     "description": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
     "url": "https://openai.com/index/rakuten",
     "publishedAt": "Wed, 11 Mar 2026 13:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Designing AI agents to resist prompt injection",
-    "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-    "publishedAt": "Wed, 11 Mar 2026 11:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
