@@ -1,5 +1,25 @@
 [
   {
+    "title": "Helping developers build safer AI experiences for teens",
+    "description": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "publishedAt": "Tue, 24 Mar 2026 11:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Update on the OpenAI Foundation",
+    "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "url": "https://openai.com/index/update-on-the-openai-foundation",
+    "publishedAt": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "How we monitor internal coding agents for misalignment",
     "description": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
     "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
@@ -10,23 +30,13 @@
     "type": "rss"
   },
   {
-    "title": "OpenAI to acquire Astral",
-    "description": "Accelerates Codex growth to power the next generation of Python developer tools",
-    "url": "https://openai.com/index/openai-to-acquire-astral",
-    "publishedAt": "Thu, 19 Mar 2026 00:00:00 GMT",
+    "title": "Powering product discovery in ChatGPT",
+    "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "publishedAt": "Tue, 24 Mar 2026 09:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "description": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "url": "https://openai.com/index/japan-teen-safety-blueprint",
-    "publishedAt": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -134,16 +144,6 @@
     "description": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
     "url": "https://openai.com/index/creating-with-sora-safely",
     "publishedAt": "Mon, 23 Mar 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing GPT-5.4 mini and nano",
-    "description": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "publishedAt": "Tue, 17 Mar 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
