@@ -150,6 +150,26 @@
     "type": "rss"
   },
   {
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "publishedAt": "Thu, 26 Mar 2026 15:23:35 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Protecting people from harmful manipulation",
+    "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+    "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+    "publishedAt": "Wed, 25 Mar 2026 16:46:20 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Lyria 3 Pro: Create longer tracks in more",
     "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
     "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
@@ -174,26 +194,6 @@
     "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
     "url": "https://deepmind.google/blog/10-years-of-alphago/",
     "publishedAt": "Mon, 09 Mar 2026 13:52:36 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-    "description": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
-    "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-    "publishedAt": "Tue, 03 Mar 2026 16:35:55 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-    "description": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
-    "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
-    "publishedAt": "Thu, 26 Feb 2026 16:01:50 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
