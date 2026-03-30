@@ -1,5 +1,15 @@
 [
   {
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+    "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "publishedAt": "Sun, 29 Mar 2026 22:15:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Inside our approach to the Model Spec",
     "description": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
     "url": "https://openai.com/index/our-approach-to-the-model-spec",
@@ -34,16 +44,6 @@
     "description": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
     "url": "https://openai.com/index/stadler",
     "publishedAt": "Fri, 27 Mar 2026 22:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "Powering product discovery in ChatGPT",
-    "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
-    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-    "publishedAt": "Tue, 24 Mar 2026 09:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 7,
