@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Gradient Labs gives every bank customer an AI account manager",
+    "description": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+    "url": "https://openai.com/index/gradient-labs",
+    "publishedAt": "Wed, 01 Apr 2026 02:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Helping disaster response teams turn AI into action across Asia",
     "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
     "url": "https://openai.com/index/helping-disaster-response-teams-asia",
@@ -24,16 +34,6 @@
     "description": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
     "url": "https://openai.com/index/our-approach-to-the-model-spec",
     "publishedAt": "Wed, 25 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-    "url": "https://openai.com/index/safety-bug-bounty",
-    "publishedAt": "Wed, 25 Mar 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
