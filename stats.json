@@ -33,11 +33,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/3/25",
-      "articleCount": 4,
-      "highImportanceCount": 2
-    },
-    {
       "date": "2026/3/26",
       "articleCount": 1,
       "highImportanceCount": 0
@@ -64,12 +59,17 @@
     },
     {
       "date": "2026/3/31",
+      "articleCount": 1,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2026/4/1",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-03-31T09:59:57.789Z",
-  "updateTime": "2026/3/31 9:59:57",
+  "lastUpdated": "2026-04-01T03:31:05.736Z",
+  "updateTime": "2026/4/1 3:31:05",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,9 +78,9 @@
   },
   "detailed": {
     "articlesPerDay": {
+      "2026/3/31": 1,
       "2026/3/29": 1,
       "2026/3/25": 4,
-      "2026/3/24": 1,
       "2026/3/27": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
@@ -109,18 +109,18 @@
         "count": 4
       },
       {
-        "keyword": "Microsoft",
+        "keyword": "ChatGPT",
         "count": 2
       },
       {
-        "keyword": "ChatGPT",
-        "count": 1
+        "keyword": "Microsoft",
+        "count": 2
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 59.3,
+      "averageTitleLength": 58.2,
       "sourceDiversity": 4
     }
   }

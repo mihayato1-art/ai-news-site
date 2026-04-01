@@ -1,5 +1,15 @@
 [
   {
+    "title": "Accelerating the next phase of AI",
+    "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+    "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "publishedAt": "Tue, 31 Mar 2026 13:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Helping disaster response teams turn AI into action across Asia",
     "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
     "url": "https://openai.com/index/helping-disaster-response-teams-asia",
@@ -24,16 +34,6 @@
     "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
     "url": "https://openai.com/index/safety-bug-bounty",
     "publishedAt": "Wed, 25 Mar 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Helping developers build safer AI experiences for teens",
-    "description": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-    "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-    "publishedAt": "Tue, 24 Mar 2026 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
