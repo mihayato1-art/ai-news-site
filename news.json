@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "OpenAI acquires TBPN",
+    "description": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+    "url": "https://openai.com/index/openai-acquires-tbpn",
+    "publishedAt": "Thu, 02 Apr 2026 10:30:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Gradient Labs gives every bank customer an AI account manager",
     "description": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
     "url": "https://openai.com/index/gradient-labs",
@@ -30,20 +40,10 @@
     "type": "rss"
   },
   {
-    "title": "Inside our approach to the Model Spec",
-    "description": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-    "url": "https://openai.com/index/our-approach-to-the-model-spec",
-    "publishedAt": "Wed, 25 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "STADLER reshapes knowledge work at a 230-year-old company",
-    "description": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
-    "url": "https://openai.com/index/stadler",
-    "publishedAt": "Fri, 27 Mar 2026 22:00:00 GMT",
+    "title": "Codex now offers more flexible pricing for teams",
+    "description": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+    "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "publishedAt": "Thu, 02 Apr 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 7,
@@ -170,6 +170,16 @@
     "type": "rss"
   },
   {
+    "title": "Gemma 4: Byte for byte, the most capable open models",
+    "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+    "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "publishedAt": "Thu, 02 Apr 2026 16:00:49 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "Lyria 3 Pro: Create longer tracks in more",
     "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
     "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
@@ -184,16 +194,6 @@
     "description": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
     "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
     "publishedAt": "Tue, 17 Mar 2026 16:03:47 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
-    "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
-    "url": "https://deepmind.google/blog/10-years-of-alphago/",
-    "publishedAt": "Mon, 09 Mar 2026 13:52:36 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
