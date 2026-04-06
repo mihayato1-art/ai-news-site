@@ -30,16 +30,6 @@
     "type": "rss"
   },
   {
-    "title": "Helping disaster response teams turn AI into action across Asia",
-    "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-    "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "publishedAt": "Sun, 29 Mar 2026 22:15:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
     "title": "Codex now offers more flexible pricing for teams",
     "description": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
     "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
@@ -77,6 +67,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "Industrial policy for the Intelligence Age",
+    "description": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "publishedAt": "Mon, 06 Apr 2026 02:30:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
