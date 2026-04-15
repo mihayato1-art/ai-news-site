@@ -1,12 +1,12 @@
 [
   {
-    "title": "Applications of AI at OpenAI",
-    "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-    "url": "https://openai.com/academy/applications-of-ai",
-    "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "title": "Trusted access for the next era of cyber defense",
+    "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "publishedAt": "Tue, 14 Apr 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -20,9 +20,9 @@
     "type": "rss"
   },
   {
-    "title": "Brainstorming with ChatGPT",
-    "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-    "url": "https://openai.com/academy/brainstorming",
+    "title": "ChatGPT for marketing teams",
+    "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+    "url": "https://openai.com/academy/marketing",
     "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -30,13 +30,13 @@
     "type": "rss"
   },
   {
-    "title": "ChatGPT for operations teams",
-    "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-    "url": "https://openai.com/academy/operations",
+    "title": "Getting started with ChatGPT",
+    "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "url": "https://openai.com/academy/getting-started",
     "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 7,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -170,6 +170,16 @@
     "type": "rss"
   },
   {
+    "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+    "description": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "publishedAt": "Mon, 13 Apr 2026 15:52:13 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "Gemma 4: Byte for byte, the most capable open models",
     "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
     "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
@@ -184,16 +194,6 @@
     "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
     "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
     "publishedAt": "Wed, 25 Mar 2026 16:01:39 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Measuring progress toward AGI: A cognitive framework",
-    "description": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
-    "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-    "publishedAt": "Tue, 17 Mar 2026 16:03:47 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
