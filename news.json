@@ -1,5 +1,15 @@
 [
   {
+    "title": "The next evolution of the Agents SDK",
+    "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "publishedAt": "Wed, 15 Apr 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Trusted access for the next era of cyber defense",
     "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
     "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
@@ -20,19 +30,9 @@
     "type": "rss"
   },
   {
-    "title": "Our response to the Axios developer tool compromise",
-    "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-    "url": "https://openai.com/index/axios-developer-tool-compromise",
-    "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Using projects in ChatGPT",
-    "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "url": "https://openai.com/academy/projects",
+    "title": "Prompting fundamentals",
+    "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "url": "https://openai.com/academy/prompting",
     "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -40,9 +40,9 @@
     "type": "rss"
   },
   {
-    "title": "ChatGPT for managers",
-    "description": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-    "url": "https://openai.com/academy/managers",
+    "title": "Using projects in ChatGPT",
+    "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "url": "https://openai.com/academy/projects",
     "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -150,6 +150,16 @@
     "type": "rss"
   },
   {
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "description": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "publishedAt": "Wed, 15 Apr 2026 16:03:19 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
     "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
     "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
@@ -184,16 +194,6 @@
     "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
     "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
     "publishedAt": "Thu, 02 Apr 2026 16:00:49 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Lyria 3 Pro: Create longer tracks in more",
-    "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
-    "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
-    "publishedAt": "Wed, 25 Mar 2026 16:01:39 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
