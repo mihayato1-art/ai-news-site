@@ -1,5 +1,15 @@
 [
   {
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "url": "https://openai.com/index/introducing-gpt-rosalind",
+    "publishedAt": "Thu, 16 Apr 2026 01:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Accelerating the cyber defense ecosystem that protects us all",
     "description": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
     "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
@@ -24,26 +34,6 @@
     "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
     "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
     "publishedAt": "Tue, 14 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-    "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-    "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-    "publishedAt": "Mon, 13 Apr 2026 06:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Responsible and safe use of AI ",
-    "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-    "url": "https://openai.com/academy/responsible-and-safe-use",
-    "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -177,6 +167,16 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Codex for (almost) everything",
+    "description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "url": "https://openai.com/index/codex-for-almost-everything",
+    "publishedAt": "Thu, 16 Apr 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   },
   {
