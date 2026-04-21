@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI helps Hyatt advance AI among colleagues ",
+    "description": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "publishedAt": "Mon, 20 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Introducing GPT-Rosalind for life sciences research",
     "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
     "url": "https://openai.com/index/introducing-gpt-rosalind",
@@ -24,16 +34,6 @@
     "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
     "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
     "publishedAt": "Wed, 15 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Trusted access for the next era of cyber defense",
-    "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-    "publishedAt": "Tue, 14 Apr 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
