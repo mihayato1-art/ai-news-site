@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Scaling Codex to enterprises worldwide",
+    "description": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "publishedAt": "Tue, 21 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Introducing GPT-Rosalind for life sciences research",
     "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
     "url": "https://openai.com/index/introducing-gpt-rosalind",
@@ -24,16 +34,6 @@
     "description": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
     "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
     "publishedAt": "Thu, 16 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "The next evolution of the Agents SDK",
-    "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-    "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "publishedAt": "Wed, 15 Apr 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
