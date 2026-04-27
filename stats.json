@@ -1,21 +1,21 @@
 {
   "totalArticles": 20,
-  "todayArticles": 0,
-  "highImportanceCount": 0,
+  "todayArticles": 1,
+  "highImportanceCount": 1,
   "mediumImportanceCount": 13,
-  "lowImportanceCount": 7,
-  "averageImportance": "5.8",
+  "lowImportanceCount": 6,
+  "averageImportance": "6.0",
   "sourceStats": [
+    {
+      "source": "Google DeepMind News",
+      "count": 5
+    },
     {
       "source": "Google Research Blog",
       "count": 5
     },
     {
       "source": "The AI Blog",
-      "count": 5
-    },
-    {
-      "source": "Google DeepMind News",
       "count": 5
     },
     {
@@ -64,12 +64,12 @@
     },
     {
       "date": "2026/4/27",
-      "articleCount": 0,
-      "highImportanceCount": 0
+      "articleCount": 1,
+      "highImportanceCount": 1
     }
   ],
-  "lastUpdated": "2026-04-27T03:48:59.310Z",
-  "updateTime": "2026/4/27 3:48:59",
+  "lastUpdated": "2026-04-27T10:57:32.417Z",
+  "updateTime": "2026/4/27 10:57:32",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,6 +78,7 @@
   },
   "detailed": {
     "articlesPerDay": {
+      "2026/4/27": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -92,17 +93,16 @@
       "2026/4/15": 1,
       "2026/4/26": 1,
       "2026/4/23": 4,
-      "2026/4/13": 1,
-      "2026/4/2": 1
+      "2026/4/13": 1
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 13
+        "count": 14
       },
       {
         "keyword": "Google",
-        "count": 6
+        "count": 7
       },
       {
         "keyword": "Microsoft",
@@ -112,7 +112,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 56,
+      "averageTitleLength": 54.75,
       "sourceDiversity": 4
     }
   }
