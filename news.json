@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenAI available at FedRAMP Moderate",
+    "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+    "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "publishedAt": "Mon, 27 Apr 2026 14:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "publishedAt": "Mon, 27 Apr 2026 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Choco automates food distribution with AI agents",
+    "description": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+    "url": "https://openai.com/index/choco",
+    "publishedAt": "Mon, 27 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Announcing our partnership with the Republic of Korea",
     "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
     "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
@@ -140,50 +170,20 @@
     "type": "rss"
   },
   {
+    "title": "An open-source spec for orchestration: Symphony",
+    "description": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "publishedAt": "Mon, 27 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "Our principles",
     "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
     "url": "https://openai.com/index/our-principles",
     "publishedAt": "Sun, 26 Apr 2026 16:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing GPT-5.5",
-    "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-    "url": "https://openai.com/index/introducing-gpt-5-5",
-    "publishedAt": "Thu, 23 Apr 2026 11:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "GPT-5.5 System Card",
-    "description": "",
-    "url": "https://openai.com/index/gpt-5-5-system-card",
-    "publishedAt": "Thu, 23 Apr 2026 11:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Plugins and skills",
-    "description": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-    "url": "https://openai.com/academy/codex-plugins-and-skills",
-    "publishedAt": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "What is Codex?",
-    "description": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-    "url": "https://openai.com/academy/what-is-codex",
-    "publishedAt": "Thu, 23 Apr 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
