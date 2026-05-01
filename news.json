@@ -1,5 +1,15 @@
 [
   {
+    "title": "Our commitment to community safety",
+    "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "publishedAt": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Building the compute infrastructure for the Intelligence Age",
     "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
     "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
@@ -14,16 +24,6 @@
     "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
     "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
     "publishedAt": "Wed, 29 Apr 2026 04:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-    "url": "https://openai.com/index/openai-on-aws",
-    "publishedAt": "Tue, 28 Apr 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
