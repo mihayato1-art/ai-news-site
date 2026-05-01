@@ -1,15 +1,5 @@
 [
   {
-    "title": "Our commitment to community safety",
-    "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-    "url": "https://openai.com/index/our-commitment-to-community-safety",
-    "publishedAt": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
     "title": "Building the compute infrastructure for the Intelligence Age",
     "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
     "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
@@ -160,6 +150,16 @@
     "type": "rss"
   },
   {
+    "title": "Enabling a new model for healthcare with AI co-clinician",
+    "description": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+    "url": "https://deepmind.google/blog/ai-co-clinician/",
+    "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
     "description": "",
     "url": "https://deepmind.google/blog/decoupled-diloco/",
@@ -190,11 +190,11 @@
     "type": "rss"
   },
   {
-    "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
-    "description": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
-    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-    "publishedAt": "Mon, 13 Apr 2026 15:52:13 +0000",
-    "source": "Google DeepMind News",
+    "title": "Introducing Advanced Account Security",
+    "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+    "url": "https://openai.com/index/advanced-account-security",
+    "publishedAt": "Thu, 30 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
