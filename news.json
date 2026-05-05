@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "description": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "publishedAt": "Mon, 04 May 2026 21:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "How OpenAI delivers low-latency voice AI at scale",
     "description": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
     "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
@@ -14,16 +24,6 @@
     "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
     "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
     "publishedAt": "Wed, 29 Apr 2026 15:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Cybersecurity in the Intelligence Age",
-    "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-    "publishedAt": "Wed, 29 Apr 2026 04:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,

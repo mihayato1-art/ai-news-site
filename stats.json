@@ -34,8 +34,8 @@
   "weeklyStats": [
     {
       "date": "2026/4/29",
-      "articleCount": 3,
-      "highImportanceCount": 2
+      "articleCount": 2,
+      "highImportanceCount": 1
     },
     {
       "date": "2026/4/30",
@@ -59,8 +59,8 @@
     },
     {
       "date": "2026/5/4",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 2,
+      "highImportanceCount": 2
     },
     {
       "date": "2026/5/5",
@@ -68,8 +68,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-05-05T03:35:59.632Z",
-  "updateTime": "2026/5/5 3:35:59",
+  "lastUpdated": "2026-05-05T10:28:34.002Z",
+  "updateTime": "2026/5/5 10:28:34",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,8 +78,8 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/5/4": 1,
-      "2026/4/29": 3,
+      "2026/5/4": 2,
+      "2026/4/29": 2,
       "2026/4/27": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
@@ -116,7 +116,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 59.15,
+      "averageTitleLength": 60.35,
       "sourceDiversity": 4
     }
   }
