@@ -1,5 +1,15 @@
 [
   {
+    "title": "Parloa builds service agents customers want to talk to",
+    "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+    "url": "https://openai.com/index/parloa",
+    "publishedAt": "Thu, 07 May 2026 11:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Introducing ChatGPT Futures: Class of 2026",
     "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
     "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
@@ -47,16 +57,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "description": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-    "url": "https://openai.com/index/gpt-5-5-instant",
-    "publishedAt": "Tue, 05 May 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
