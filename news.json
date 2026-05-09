@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Running Codex safely at OpenAI",
+    "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "url": "https://openai.com/index/running-codex-safely",
+    "publishedAt": "Fri, 08 May 2026 12:30:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
     "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
     "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
@@ -47,16 +57,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "description": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "publishedAt": "Thu, 07 May 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
