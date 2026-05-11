@@ -1,12 +1,12 @@
 [
   {
-    "title": "Testing ads in ChatGPT",
-    "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "publishedAt": "Thu, 07 May 2026 00:00:00 GMT",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "description": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "publishedAt": "Mon, 11 May 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -34,16 +34,6 @@
     "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
     "url": "https://openai.com/index/parloa",
     "publishedAt": "Thu, 07 May 2026 11:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Advancing voice intelligence with new models in the API",
-    "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "publishedAt": "Thu, 07 May 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -87,6 +77,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "How enterprises are scaling AI",
+    "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "publishedAt": "Mon, 11 May 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
