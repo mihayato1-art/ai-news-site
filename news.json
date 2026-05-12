@@ -1,5 +1,15 @@
 [
   {
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "description": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+    "url": "https://openai.com/signals/research/2026q1-update",
+    "publishedAt": "Mon, 11 May 2026 15:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "OpenAI Campus Network: Student club interest form",
     "description": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
     "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
@@ -10,30 +20,20 @@
     "type": "rss"
   },
   {
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "description": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+    "url": "https://openai.com/index/openai-launches-the-deployment-company",
+    "publishedAt": "Mon, 11 May 2026 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Running Codex safely at OpenAI",
     "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
     "url": "https://openai.com/index/running-codex-safely",
     "publishedAt": "Fri, 08 May 2026 12:30:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "publishedAt": "Thu, 07 May 2026 13:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Parloa builds service agents customers want to talk to",
-    "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-    "url": "https://openai.com/index/parloa",
-    "publishedAt": "Thu, 07 May 2026 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
