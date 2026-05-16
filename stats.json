@@ -1,10 +1,10 @@
 {
   "totalArticles": 20,
   "todayArticles": 0,
-  "highImportanceCount": 3,
+  "highImportanceCount": 2,
   "mediumImportanceCount": 16,
-  "lowImportanceCount": 1,
-  "averageImportance": "6.5",
+  "lowImportanceCount": 2,
+  "averageImportance": "6.3",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -33,11 +33,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/5/9",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2026/5/10",
       "articleCount": 0,
       "highImportanceCount": 0
@@ -54,8 +49,8 @@
     },
     {
       "date": "2026/5/13",
-      "articleCount": 2,
-      "highImportanceCount": 2
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2026/5/14",
@@ -64,12 +59,17 @@
     },
     {
       "date": "2026/5/15",
+      "articleCount": 2,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2026/5/16",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-05-15T11:14:28.607Z",
-  "updateTime": "2026/5/15 11:14:28",
+  "lastUpdated": "2026-05-16T03:49:17.281Z",
+  "updateTime": "2026/5/16 3:49:17",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,7 +78,7 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/5/13": 2,
+      "2026/5/15": 2,
       "2026/4/27": 1,
       "2026/5/14": 3,
       "2024/3/28": 1,
@@ -98,19 +98,15 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 17
+        "count": 16
       },
       {
         "keyword": "Google",
         "count": 7
       },
       {
-        "keyword": "OpenAI",
-        "count": 2
-      },
-      {
         "keyword": "ChatGPT",
-        "count": 2
+        "count": 3
       },
       {
         "keyword": "Microsoft",
@@ -120,7 +116,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 63.2,
+      "averageTitleLength": 62.5,
       "sourceDiversity": 4
     }
   }
