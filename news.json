@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Introducing OpenAI for Singapore",
     "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
     "url": "https://openai.com/index/introducing-openai-for-singapore",
@@ -157,16 +167,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-    "url": "https://openai.com/index/databricks",
-    "publishedAt": "Fri, 15 May 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
