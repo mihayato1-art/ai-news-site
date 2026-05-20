@@ -10,31 +10,31 @@
     "type": "rss"
   },
   {
+    "title": "Introducing OpenAI for Singapore",
+    "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "publishedAt": "Tue, 19 May 2026 20:30:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "publishedAt": "Tue, 19 May 2026 10:45:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
     "description": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
     "url": "https://openai.com/index/dell-codex-enterprise-partnership",
     "publishedAt": "Mon, 18 May 2026 10:00:00 GMT",
     "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "A new personal finance experience in ChatGPT",
-    "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
-    "publishedAt": "Fri, 15 May 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Announcing our partnership with the Republic of Korea",
-    "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
-    "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-    "publishedAt": "Mon, 27 Apr 2026 07:00:06 +0000",
-    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
@@ -140,60 +140,60 @@
     "type": "rss"
   },
   {
-    "title": "Enabling a new model for healthcare with AI co-clinician",
-    "description": "Researching the path to AI-augmented care and development of an AI co-clinician.",
-    "url": "https://deepmind.google/blog/ai-co-clinician/",
-    "publishedAt": "Thu, 30 Apr 2026 12:14:15 +0000",
+    "title": "Simulate real-world places with Project Genie and Street View",
+    "description": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+    "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "publishedAt": "Sun, 17 May 2026 19:53:18 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
     "type": "rss"
   },
   {
-    "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+    "description": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+    "publishedAt": "Sun, 17 May 2026 13:50:34 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "url": "https://openai.com/index/databricks",
+    "publishedAt": "Fri, 15 May 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Fast-tracking genetic leads to reverse cellular aging",
+    "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+    "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "publishedAt": "Mon, 18 May 2026 18:21:39 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Introducing Gemini Omni",
     "description": "",
-    "url": "https://deepmind.google/blog/decoupled-diloco/",
-    "publishedAt": "Wed, 22 Apr 2026 10:20:03 +0000",
+    "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+    "publishedAt": "Sun, 17 May 2026 19:50:57 +0000",
     "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Partnering with industry leaders to accelerate AI transformation",
-    "description": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
-    "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-    "publishedAt": "Tue, 21 Apr 2026 14:54:15 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "How sales teams use Codex",
-    "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "publishedAt": "Fri, 15 May 2026 00:00:00 GMT",
-    "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
   },
   {
-    "title": "How business operations teams use Codex",
-    "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "publishedAt": "Fri, 15 May 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-    "description": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
-    "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "publishedAt": "Wed, 06 May 2026 10:43:49 +0000",
+    "title": "Introducing Google Antigravity 2.0",
+    "description": "",
+    "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "publishedAt": "Sun, 17 May 2026 19:43:45 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
