@@ -1,12 +1,12 @@
 [
   {
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "description": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "publishedAt": "Sat, 16 May 2026 00:00:00 GMT",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -34,16 +34,6 @@
     "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
     "url": "https://openai.com/index/advancing-content-provenance",
     "publishedAt": "Tue, 19 May 2026 10:45:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "description": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "publishedAt": "Mon, 18 May 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -167,6 +157,16 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "url": "https://openai.com/index/ramp",
+    "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   },
   {
