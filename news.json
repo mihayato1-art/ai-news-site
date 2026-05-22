@@ -1,12 +1,12 @@
 [
   {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "url": "https://openai.com/index/adventhealth",
+    "publishedAt": "Thu, 21 May 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
+    "importance": 10,
     "type": "rss"
   },
   {
@@ -20,20 +20,20 @@
     "type": "rss"
   },
   {
-    "title": "Introducing OpenAI for Singapore",
-    "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-    "url": "https://openai.com/index/introducing-openai-for-singapore",
-    "publishedAt": "Tue, 19 May 2026 20:30:00 GMT",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-    "url": "https://openai.com/index/advancing-content-provenance",
-    "publishedAt": "Tue, 19 May 2026 10:45:00 GMT",
+    "title": "Introducing OpenAI for Singapore",
+    "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "publishedAt": "Tue, 19 May 2026 20:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -150,21 +150,21 @@
     "type": "rss"
   },
   {
-    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-    "description": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
-    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-    "publishedAt": "Sun, 17 May 2026 13:50:34 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
     "title": "How Ramp engineers accelerate code review with Codex",
     "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
     "url": "https://openai.com/index/ramp",
     "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
     "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "description": "",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "publishedAt": "Thu, 21 May 2026 19:46:42 +0000",
+    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
