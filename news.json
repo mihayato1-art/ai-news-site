@@ -10,10 +10,10 @@
     "type": "rss"
   },
   {
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "publishedAt": "Fri, 22 May 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -30,10 +30,10 @@
     "type": "rss"
   },
   {
-    "title": "Introducing OpenAI for Singapore",
-    "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-    "url": "https://openai.com/index/introducing-openai-for-singapore",
-    "publishedAt": "Tue, 19 May 2026 20:30:00 GMT",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -150,10 +150,10 @@
     "type": "rss"
   },
   {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-    "url": "https://openai.com/index/ramp",
-    "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "publishedAt": "Fri, 22 May 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
