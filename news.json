@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "publishedAt": "Mon, 25 May 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "AdventHealth advances whole-person care with OpenAI",
     "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
     "url": "https://openai.com/index/adventhealth",
@@ -23,16 +33,6 @@
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
     "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
