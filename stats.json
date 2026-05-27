@@ -33,11 +33,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/5/20",
-      "articleCount": 1,
-      "highImportanceCount": 1
-    },
-    {
       "date": "2026/5/21",
       "articleCount": 2,
       "highImportanceCount": 1
@@ -66,10 +61,15 @@
       "date": "2026/5/26",
       "articleCount": 0,
       "highImportanceCount": 0
+    },
+    {
+      "date": "2026/5/27",
+      "articleCount": 0,
+      "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-05-26T04:15:08.551Z",
-  "updateTime": "2026/5/26 4:15:08",
+  "lastUpdated": "2026-05-27T04:38:11.513Z",
+  "updateTime": "2026/5/27 4:38:11",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -119,7 +119,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 61.65,
+      "averageTitleLength": 60.6,
       "sourceDiversity": 4
     }
   }
