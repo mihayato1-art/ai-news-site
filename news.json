@@ -10,30 +10,30 @@
     "type": "rss"
   },
   {
-    "title": "AdventHealth advances whole-person care with OpenAI",
-    "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-    "url": "https://openai.com/index/adventhealth",
-    "publishedAt": "Thu, 21 May 2026 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "publishedAt": "Fri, 22 May 2026 00:00:00 GMT",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "url": "https://openai.com/index/cisco",
+    "publishedAt": "Wed, 27 May 2026 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "publishedAt": "Wed, 20 May 2026 00:00:00 GMT",
+    "title": "Building self-improving tax agents with Codex",
+    "description": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "publishedAt": "Wed, 27 May 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "url": "https://openai.com/index/warp",
+    "publishedAt": "Wed, 27 May 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -67,6 +67,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "Election information and safeguards in 2026",
+    "description": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "publishedAt": "Wed, 27 May 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
@@ -147,16 +157,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-    "url": "https://openai.com/index/virgin-atlantic",
-    "publishedAt": "Fri, 22 May 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
