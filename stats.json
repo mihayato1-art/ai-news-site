@@ -1,11 +1,15 @@
 {
-  "totalArticles": 15,
+  "totalArticles": 20,
   "todayArticles": 0,
-  "highImportanceCount": 0,
-  "mediumImportanceCount": 11,
-  "lowImportanceCount": 4,
-  "averageImportance": "5.9",
+  "highImportanceCount": 3,
+  "mediumImportanceCount": 12,
+  "lowImportanceCount": 5,
+  "averageImportance": "6.2",
   "sourceStats": [
+    {
+      "source": "OpenAI News",
+      "count": 5
+    },
     {
       "source": "Google Research Blog",
       "count": 5
@@ -22,17 +26,12 @@
   "categoryStats": [
     {
       "category": "AI News",
-      "count": 15
+      "count": 20
     }
   ],
   "totalTools": 6,
   "averageToolRating": "8.8",
   "weeklyStats": [
-    {
-      "date": "2026/5/22",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
     {
       "date": "2026/5/23",
       "articleCount": 0,
@@ -55,17 +54,22 @@
     },
     {
       "date": "2026/5/27",
-      "articleCount": 0,
-      "highImportanceCount": 0
+      "articleCount": 3,
+      "highImportanceCount": 2
     },
     {
       "date": "2026/5/28",
+      "articleCount": 2,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2026/5/29",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-05-28T12:21:14.981Z",
-  "updateTime": "2026/5/28 12:21:14",
+  "lastUpdated": "2026-05-29T04:20:25.806Z",
+  "updateTime": "2026/5/29 4:20:25",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,6 +78,8 @@
   },
   "detailed": {
     "articlesPerDay": {
+      "2026/5/28": 2,
+      "2026/5/27": 3,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -90,11 +96,15 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 11
+        "count": 15
       },
       {
         "keyword": "Google",
         "count": 8
+      },
+      {
+        "keyword": "OpenAI",
+        "count": 3
       },
       {
         "keyword": "Microsoft",
@@ -104,8 +114,8 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 62.4,
-      "sourceDiversity": 3
+      "averageTitleLength": 58.65,
+      "sourceDiversity": 4
     }
   }
 }

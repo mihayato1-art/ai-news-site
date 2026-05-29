@@ -43,7 +43,7 @@
     <div class="container">
         <div class="main-content">
             <div class="update-time">
-                <p>最終更新: 2026/5/28 12:21:15 | 自動更新システムにより毎日9時・18時に更新</p>
+                <p>最終更新: 2026/5/29 4:20:25 | 自動更新システムにより毎日9時・18時に更新</p>
             </div>
 
             <!-- 統計情報 -->
@@ -51,7 +51,7 @@
                 <h2>📊 サイト統計</h2>
                 <div class="stats-container">
                     <div class="stat-card">
-                        <div class="stat-number">15</div>
+                        <div class="stat-number">20</div>
                         <div class="stat-label">総記事数</div>
                     </div>
                     <div class="stat-card">
@@ -59,7 +59,7 @@
                         <div class="stat-label">今日の新着</div>
                     </div>
                     <div class="stat-card">
-                        <div class="stat-number">0</div>
+                        <div class="stat-number">3</div>
                         <div class="stat-label">重要記事</div>
                     </div>
                 </div>
@@ -70,6 +70,33 @@
                 <h2>📰 最新AI記事</h2>
                 <div class="news-grid">
                     
+        <div class="news-card">
+            <div class="news-title">OpenAI’s Frontier Governance Framework</div>
+            <div class="news-summary">Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.</div>
+            <div class="news-meta">
+                <span>OpenAI News</span>
+                <span class="importance-badge">8/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">Cisco and OpenAI redefine enterprise engineering with Codex</div>
+            <div class="news-summary">Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.</div>
+            <div class="news-meta">
+                <span>OpenAI News</span>
+                <span class="importance-badge">8/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
+            <div class="news-title">Building self-improving tax agents with Codex</div>
+            <div class="news-summary">See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.</div>
+            <div class="news-meta">
+                <span>OpenAI News</span>
+                <span class="importance-badge">8/10</span>
+            </div>
+        </div>
+    
         <div class="news-card">
             <div class="news-title">AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks</div>
             <div class="news-summary">Posted by Urs Köster, Software Engineer, Google Research
@@ -423,6 +450,15 @@ We would like to thank our paper co-authors Axel Levy, Matan Sela, and Gordon We
         </div>
     
         <div class="news-card">
+            <div class="news-title">Election information and safeguards in 2026</div>
+            <div class="news-summary">Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency</div>
+            <div class="news-meta">
+                <span>OpenAI News</span>
+                <span class="importance-badge">6/10</span>
+            </div>
+        </div>
+    
+        <div class="news-card">
             <div class="news-title">A conversation with Kevin Scott: What’s next in AI</div>
             <div class="news-summary">The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.</div>
             <div class="news-meta">
@@ -464,182 +500,6 @@ We would like to thank our paper co-authors Axel Levy, Matan Sela, and Gordon We
             <div class="news-meta">
                 <span>The AI Blog</span>
                 <span class="importance-badge">6/10</span>
-            </div>
-        </div>
-    
-        <div class="news-card">
-            <div class="news-title">Generative AI to quantify uncertainty in weather forecasting</div>
-            <div class="news-summary">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research
-
-
-
-
-Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine decisions, like what to pack for a day’s activities, to informing urgent actions, for example, protecting people in the face of hazardous weather conditions. The importance of accurate and timely weather forecasts will only increase as the climate changes. Recognizing this, we at Google have been investing in weather and climate research to help ensure that the forecasting technology of tomorrow can meet the demand for reliable weather information. Some of our recent innovations include MetNet-3, Google's high-resolution forecasts up to 24-hours into the future, and GraphCast, a weather model that can predict weather up to 10 days ahead.
-
- 
-
-
-Weather is inherently stochastic. To quantify the uncertainty, traditional methods rely on physics-based simulation to generate an ensemble of forecasts. However, it is computationally costly to generate a large ensemble so that rare and extreme weather events can be discerned and characterized accurately.  
-
-
-With that in mind, we are excited to announce our latest innovation designed to accelerate progress in weather forecasting, Scalable Ensemble Envelope Diffusion Sampler (SEEDS), recently published in Science Advances. SEEDS is a generative AI model that can efficiently generate ensembles of weather forecasts at scale at a small fraction of the cost of traditional physics-based forecasting models. This technology opens up novel opportunities for weather and climate science, and it represents one of the first applications to weather and climate forecasting of probabilistic diffusion models, a generative AI technology behind recent advances in media generation.
-
- 
-
-The need for probabilistic forecasts: the butterfly effect
-American Association for the Advancement of Science meeting in Washington, D.C., MIT meteorology professor Ed Lorenz gave a talk entitled, “Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado in Texas?” which contributed to the term “butterfly effect”. He was building on his earlier, landmark 1963 paper where he examined the feasibility of “very-long-range weather prediction” and described how errors in initial conditions grow exponentially when integrated in time with numerical weather prediction models. This exponential error growth, known as chaos, results in a deterministic predictability limit that restricts the use of individual forecasts in decision making, because they do not quantify the inherent uncertainty of weather conditions. This is particularly problematic when forecasting extreme weather events, such as hurricanes, heatwaves, or floods.
-
-
-Recognizing the limitations of deterministic forecasts, weather agencies around the world issue probabilistic forecasts. Such forecasts are based on ensembles of deterministic forecasts, each of which is generated by including synthetic noise in the initial conditions and stochasticity in the physical processes. Leveraging the fast error growth rate in weather models, the forecasts in an ensemble are purposefully different: the initial uncertainties are tuned to generate runs that are as different as possible and the stochastic processes in the weather model introduce additional differences during the model run. The error growth is mitigated by averaging all the forecasts in the ensemble and the variability in the ensemble of forecasts quantifies the uncertainty of the weather conditions.
-
-
-While effective, generating these probabilistic forecasts is computationally costly. They require running highly complex numerical weather models on massive supercomputers multiple times. Consequently, many operational weather forecasts can only afford to generate ~10–50 ensemble members for each forecast cycle. This is a problem for users concerned with the likelihood of rare but high-impact weather events, which typically require much larger ensembles to assess beyond a few days. For instance, one would need a 10,000-member ensemble to forecast the likelihood of events with 1% probability of occurrence with a relative error less than 10%. Quantifying the probability of such extreme events could be useful, for example, for emergency management preparation or for energy traders.
-
- 
-
-SEEDS: AI-enabled advances
-paper, we present the Scalable Ensemble Envelope Diffusion Sampler (SEEDS), a generative AI technology for weather forecast ensemble generation. SEEDS is based on denoising diffusion probabilistic models, a state-of-the-art generative AI method pioneered in part by Google Research.
-
-
-SEEDS can generate a large ensemble conditioned on as few as one or two forecasts from an operational numerical weather prediction system. The generated ensembles not only yield plausible real-weather–like forecasts but also match or exceed physics-based ensembles in skill metrics such as the rank histogram, the root-mean-squared error (RMSE), and the continuous ranked probability score (CRPS). In particular, the generated ensembles assign more accurate likelihoods to the tail of the forecast distribution, such as ±2σ and ±3σ weather events. Most importantly, the computational cost of the model is negligible when compared to the hours of computational time needed by supercomputers to make a forecast. It has a throughput of 256 ensemble members (at 2° resolution) per 3 minutes on Google Cloud TPUv3-32 instances and can easily scale to higher throughput by deploying more accelerators. 
-
-
-
-
-SEEDS generates an order-of-magnitude more samples to in-fill distributions of weather patterns.
-
-Generating plausible weather forecasts
-Global Ensemble Forecast System, GEFS) for a particular date during the 2022 European heat waves. We also compare the results to the forecasts from a Gaussian model that predicts the univariate mean and standard deviation of each atmospheric field at each location, a common and computationally efficient but less sophisticated data-driven approach. This Gaussian model is meant to characterize the output of pointwise post-processing, which ignores correlations and treats each grid point as an independent random variable. In contrast, a real weather map would have detailed correlational structures. 
-
-
-Because SEEDS directly models the joint distribution of the atmospheric state, it realistically captures both the spatial covariance and the correlation between mid-tropospheric geopotential and mean sea level pressure, both of which are closely related and are commonly used by weather forecasters for evaluation and verification of forecasts. Gradients in the mean sea level pressure are what drive winds at the surface, while gradients in mid-tropospheric geopotential create upper-level winds that move large-scale weather patterns. 
-
-
-The generated samples from SEEDS shown in the figure below (frames Ca–Ch) display a geopotential trough west of Portugal with spatial structure similar to that found in the operational U.S. forecasts or the reanalysis based on observations. Although the Gaussian model predicts the marginal univariate distributions adequately, it fails to capture cross-field or spatial correlations. This hinders the assessment of the effects that these anomalies may have on hot air intrusions from North Africa, which can exacerbate heat waves over Europe.
-
-
-
-
-Stamp maps over Europe on 2022/07/14 at 0:00 UTC. The contours are for the mean sea level pressure (dashed lines mark isobars below 1010 hPa) while the heatmap depicts the geopotential height at the 500 hPa pressure level. (A) The ERA5 reanalysis, a proxy for real observations. (Ba-Bb) 2 members from the 7-day U.S. operational forecasts used as seeds to our model. (Ca-Ch) 8 samples drawn from SEEDS. (Da-Dh) 8 non-seeding members from the 7-day U.S. operational ensemble forecast. (Ea-Ed) 4 samples from a pointwise Gaussian model parameterized by the mean and variance of the entire U.S. operational ensemble.
-
-Covering extreme events more accurately  
-
-
-SEEDS provides better statistical coverage of the 2022/07/14 European extreme heat event, denoted by the brown star . Each plot shows the values of the total column-integrated water vapor (TCVW) vs. temperature over a grid point near Lisbon, Portugal from 16,384 samples generated by our models, shown as green dots, conditioned on 2 seeds (blue squares) taken from the 7-day U.S. operational ensemble forecasts (denoted by the sparser brown triangles). The valid forecast time is 1:00 local time. The solid contour levels correspond to iso-proportions of the kernel density of SEEDS, with the outermost one encircling 95% of the mass and 11.875% between each level.
-
- 
-
-Conclusion and future outlook
- 
-
-Acknowledgements
-All SEEDS authors, Lizao Li, Rob Carver, Ignacio Lopez-Gomez, Fei Sha and John Anderson, co-authored this blog post, with Carla Bromberg as Program Lead. We also thank Tom Small who designed the animation. Our colleagues at Google Research have provided invaluable advice to the SEEDS work. Among them, we thank Leonardo Zepeda-Núñez, Zhong Yi Wan, Stephan Rasp, Stephan Hoyer, and Tapio Schneider for their inputs and useful discussion. We thank Tyler Russell for additional technical program management, as well as Alex Merose for data coordination and support. We also thank Cenk Gazen, Shreya Agrawal, and Jason Hickey for discussions in the early stage of the SEEDS work.</div>
-            <div class="news-meta">
-                <span>Google Research Blog</span>
-                <span class="importance-badge">6/10</span>
-            </div>
-        </div>
-    
-        <div class="news-card">
-            <div class="news-title">Computer-aided diagnosis for lung cancer screening</div>
-            <div class="news-summary">Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research 
-
-
-
-
-
-Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 2020. Late diagnosis dramatically reduces the chances of survival. Lung cancer screening via computed tomography (CT), which provides a detailed 3D image of the lungs, has been shown to reduce mortality in high-risk populations by at least 20% by detecting potential signs of cancers earlier. In the US, screening involves annual scans, with some countries or cases recommending more or less frequent scans. 
-
-
-
-The United States Preventive Services Task Force recently expanded lung cancer screening recommendations by roughly 80%, which is expected to increase screening access for women and racial and ethnic minority groups. However, false positives (i.e., incorrectly reporting a potential cancer in a cancer-free patient) can cause anxiety and lead to unnecessary procedures for patients while increasing costs for the healthcare system. Moreover, efficiency in screening a large number of individuals can be challenging depending on healthcare infrastructure and radiologist availability.
-
-
-
-
-At Google we have previously developed machine learning (ML) models for lung cancer detection, and have evaluated their ability to automatically detect and classify regions that show signs of potential cancer. Performance has been shown to be comparable to that of specialists in detecting possible cancer. While they have achieved high performance, effectively communicating findings in realistic environments is necessary to realize their full potential.
-
-
-
-To that end, in “Assistive AI in Lung Cancer Screening: A Retrospective Multinational Study in the US and Japan”, published in Radiology AI, we investigate how ML models can effectively communicate findings to radiologists. We also introduce a generalizable user-centric interface to help radiologists leverage such models for lung cancer screening. The system takes CT imaging as input and outputs a cancer suspicion rating using four categories (no suspicion, probably benign, suspicious, highly suspicious) along with the corresponding regions of interest. We evaluate the system’s utility in improving clinician performance through randomized reader studies in both the US and Japan, using the local cancer scoring systems (Lung-RADSs V1.1 and Sendai Score) and image viewers that mimic realistic settings. We found that reader specificity increases with model assistance in both reader studies. To accelerate progress in conducting similar studies with ML models, we have open-sourced code to process CT images and generate images compatible with the picture archiving and communication system (PACS) used by radiologists. 
-
-
-
-    
-Developing an interface to communicate model results
-alpha-numeric score to indicate the lung cancer risk and follow-up recommendations. When assessing patients, radiologists load the CT in their workstation to read the case, find lung nodules or lesions, and apply set guidelines to determine follow-up decisions. 
-
-
-
-
-Our first step was to improve the previously developed ML models through additional training data and architectural improvements, including self-attention. Then, instead of targeting specific guidelines, we experimented with a complementary way of communicating AI results independent of guidelines or their particular versions. Specifically, the system output offers a suspicion rating and localization (regions of interest) for the user to consider in conjunction with their own specific guidelines. The interface produces output images directly associated with the CT study, requiring no changes to the user’s workstation. The radiologist only needs to review a small set of additional images. There is no other change to their system or interaction with the system.
-
-
-
-
-
-
-
-
-
-Example of the assistive lung cancer screening system outputs. Results for the radiologist’s evaluation are visualized on the location of the CT volume where the suspicious lesion is found. The overall suspicion is displayed at the top of the CT images. Circles highlight the suspicious lesions while squares show a rendering of the same lesion from a different perspective, called a sagittal view.
-
-prior work. The models coordinate with each other to first segment the lungs, obtain an overall assessment, locate three suspicious regions, then use the information to assign a suspicion rating to each region. The system was deployed on Google Cloud using a Google Kubernetes Engine (GKE) that pulled the images, ran the ML models, and provided results. This allows scalability and directly connects to servers where the images are stored in DICOM stores.
-
-
-
-
-
-
-Outline of the Google Cloud deployment of the assistive lung cancer screening system and the directional calling flow for the individual components that serve the images and compute results. Images are served to the viewer and to the system using Google Cloud services. The system is run on a Google Kubernetes Engine that pulls the images, processes them, and writes them back into the DICOM store.
-
-Reader studies 
-area under the ROC curve (AUC) values. These were compared with and without assistance.
-
-
-
-
-
-A multi-case multi-reader study involves each case being reviewed by each reader twice, once with ML system assistance and once without. In this visualization one reader first reviews Set A without assistance (blue) and then with assistance (orange) after a wash-out period. A second reader group follows the opposite path by reading the same set of cases Set A with assistance first. Readers are randomized to these groups to remove the effect of ordering.
-
-specificity) by an absolute 5–7% compared to when they didn’t use the assistive system. This potentially means that for every 15–20 patients screened, one may be able to avoid unnecessary follow-up procedures, thus reducing their anxiety and the burden on the health care system. This can, in turn, help improve the sustainability of lung cancer screening programs, particularly as more people become eligible for screening. 
-
-
-
-
-
-Reader specificity increases with ML model assistance in both the US-based and Japan-based reader studies. Specificity values were derived from reader scores from actionable findings (something suspicious was found) versus no actionable findings, compared against the true cancer outcome of the individual.  Under model assistance, readers flagged fewer cancer-negative individuals for follow-up visits. Sensitivity for cancer positive individuals remained the same.
-
-Translating this into real-world impact through partnership 
-DeepHealth, a leading AI-powered health informatics provider; and Apollo Radiology International a leading provider of Radiology services in India to explore paths for incorporating this system into future products. In addition, we are looking to help other researchers studying how best to integrate ML model results into clinical workflows by open sourcing code used for the reader study and incorporating the insights described in this blog. We hope that this will help accelerate medical imaging researchers looking to conduct reader studies for their AI models, and catalyze translational research in the field.  
-
-
-
-
-    
-Acknowledgements
-Key contributors to this project include Corbin Cunningham, Zaid Nabulsi, Ryan Najafi, Jie Yang, Charles Lau, Joseph R. Ledsam, Wenxing Ye, Diego Ardila, Scott M. McKinney, Rory Pilgrim, Hiroaki Saito, Yasuteru Shimamura, Mozziyar Etemadi, Yun Liu, David Melnick, Sunny Jansen, Nadia Harhen, David P. Nadich, Mikhail Fomitchev, Ziyad Helali, Shabir Adeel, Greg S. Corrado, Lily Peng, Daniel Tse, Shravya Shetty, Shruthi Prabhakara, Neeral Beladia, and Krish Eswaran. Thanks to Arnav Agharwal and Andrew Sellergren for their open sourcing support and Vivek Natarajan and Michael D. Howell for their feedback. Sincere appreciation also goes to the radiologists who enabled this work with their image interpretation and annotation efforts throughout the study, and Jonny Wong and Carli Sampson for coordinating the reader studies.</div>
-            <div class="news-meta">
-                <span>Google Research Blog</span>
-                <span class="importance-badge">6/10</span>
-            </div>
-        </div>
-    
-        <div class="news-card">
-            <div class="news-title">Simulate real-world places with Project Genie and Street View</div>
-            <div class="news-summary">We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.</div>
-            <div class="news-meta">
-                <span>Google DeepMind News</span>
-                <span class="importance-badge">6/10</span>
-            </div>
-        </div>
-    
-        <div class="news-card">
-            <div class="news-title">We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks</div>
-            <div class="news-summary">概要なし</div>
-            <div class="news-meta">
-                <span>Google DeepMind News</span>
-                <span class="importance-badge">5/10</span>
             </div>
         </div>
     
