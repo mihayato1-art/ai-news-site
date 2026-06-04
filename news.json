@@ -1,5 +1,15 @@
 [
   {
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "description": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "url": "https://openai.com/index/endava-frontiers",
+    "publishedAt": "Thu, 04 Jun 2026 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "A blueprint for democratic governance of frontier AI",
     "description": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
     "url": "https://openai.com/index/frontier-safety-blueprint",
@@ -14,16 +24,6 @@
     "description": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
     "url": "https://openai.com/index/public-policy-agenda",
     "publishedAt": "Wed, 03 Jun 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-    "url": "https://openai.com/index/travelers",
-    "publishedAt": "Tue, 02 Jun 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
