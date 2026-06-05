@@ -10,23 +10,13 @@
     "type": "rss"
   },
   {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "description": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "publishedAt": "Wed, 03 Jun 2026 10:00:00 GMT",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "description": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "publishedAt": "Thu, 04 Jun 2026 09:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI public policy agenda",
-    "description": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-    "url": "https://openai.com/index/public-policy-agenda",
-    "publishedAt": "Wed, 03 Jun 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -57,6 +47,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "Biodefense in the Intelligence Age",
+    "description": "An action plan for AI-powered biological resilience",
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "publishedAt": "Thu, 04 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
