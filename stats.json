@@ -1,10 +1,10 @@
 {
-  "totalArticles": 20,
+  "totalArticles": 15,
   "todayArticles": 1,
-  "highImportanceCount": 2,
-  "mediumImportanceCount": 14,
-  "lowImportanceCount": 4,
-  "averageImportance": "6.2",
+  "highImportanceCount": 3,
+  "mediumImportanceCount": 7,
+  "lowImportanceCount": 5,
+  "averageImportance": "6.4",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -15,10 +15,6 @@
       "count": 5
     },
     {
-      "source": "The AI Blog",
-      "count": 5
-    },
-    {
       "source": "Google DeepMind News",
       "count": 5
     }
@@ -26,17 +22,12 @@
   "categoryStats": [
     {
       "category": "AI News",
-      "count": 20
+      "count": 15
     }
   ],
   "totalTools": 6,
   "averageToolRating": "8.8",
   "weeklyStats": [
-    {
-      "date": "2026/6/4",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
     {
       "date": "2026/6/5",
       "articleCount": 0,
@@ -54,22 +45,27 @@
     },
     {
       "date": "2026/6/8",
-      "articleCount": 2,
-      "highImportanceCount": 1
+      "articleCount": 1,
+      "highImportanceCount": 0
     },
     {
       "date": "2026/6/9",
-      "articleCount": 6,
+      "articleCount": 4,
       "highImportanceCount": 0
     },
     {
       "date": "2026/6/10",
+      "articleCount": 4,
+      "highImportanceCount": 3
+    },
+    {
+      "date": "2026/6/11",
       "articleCount": 1,
-      "highImportanceCount": 1
+      "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-06-10T12:16:06.259Z",
-  "updateTime": "2026/6/10 12:16:06",
+  "lastUpdated": "2026-06-11T04:46:14.368Z",
+  "updateTime": "2026/6/11 4:46:14",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -78,43 +74,38 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/6/10": 1,
-      "2026/6/8": 2,
+      "2026/6/10": 4,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
-      "2026/6/9": 6,
-      "2022/12/6": 1,
-      "2022/10/12": 1,
-      "2022/10/6": 1,
-      "2022/7/25": 1,
-      "2022/7/21": 1,
       "2024/3/29": 1,
-      "2026/5/21": 1
+      "2026/6/9": 4,
+      "2026/6/8": 1,
+      "2026/6/11": 1
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 16
+        "count": 10
       },
       {
         "keyword": "Google",
-        "count": 7
+        "count": 6
       },
       {
         "keyword": "OpenAI",
-        "count": 2
+        "count": 3
       },
       {
-        "keyword": "Microsoft",
-        "count": 2
+        "keyword": "ChatGPT",
+        "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 61.6,
-      "sourceDiversity": 4
+      "averageTitleLength": 60.46666666666667,
+      "sourceDiversity": 3
     }
   }
 }
