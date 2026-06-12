@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "url": "https://openai.com/index/preply",
+    "publishedAt": "Fri, 12 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
     "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -24,16 +34,6 @@
     "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-    "url": "https://openai.com/index/openai-on-oracle-cloud",
-    "publishedAt": "Wed, 10 Jun 2026 20:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
