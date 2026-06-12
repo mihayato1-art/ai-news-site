@@ -1,9 +1,9 @@
 [
   {
-    "title": "PRC-linked influence operations are targeting AI debates in the US",
-    "description": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
-    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-    "publishedAt": "Wed, 10 Jun 2026 12:00:00 GMT",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "url": "https://openai.com/index/bbva",
+    "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 10,
@@ -20,20 +20,20 @@
     "type": "rss"
   },
   {
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-    "url": "https://openai.com/index/openai-on-oracle-cloud",
-    "publishedAt": "Wed, 10 Jun 2026 20:00:00 GMT",
+    "title": "OpenAI to acquire Ona",
+    "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "From data to decisions: how LSEG is scaling trusted AI",
-    "description": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-    "url": "https://openai.com/index/lseg",
-    "publishedAt": "Wed, 10 Jun 2026 00:00:00 GMT",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "publishedAt": "Wed, 10 Jun 2026 20:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
