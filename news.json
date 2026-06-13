@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "New OpenAI Academy courses for the next era of work",
+    "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "publishedAt": "Fri, 12 Jun 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "How Preply combines AI and human tutors to personalize learning",
     "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
     "url": "https://openai.com/index/preply",
@@ -107,16 +117,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
