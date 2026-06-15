@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Introducing the OpenAI Partner Network",
+    "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "publishedAt": "Sun, 14 Jun 2026 17:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "New OpenAI Academy courses for the next era of work",
     "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
     "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -33,16 +43,6 @@
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
     "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI to acquire Ona",
-    "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
     "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
