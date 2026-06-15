@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
   "todayArticles": 0,
-  "highImportanceCount": 5,
+  "highImportanceCount": 4,
   "mediumImportanceCount": 7,
-  "lowImportanceCount": 3,
-  "averageImportance": "6.8",
+  "lowImportanceCount": 4,
+  "averageImportance": "6.6",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -41,7 +41,7 @@
     {
       "date": "2026/6/11",
       "articleCount": 2,
-      "highImportanceCount": 2
+      "highImportanceCount": 1
     },
     {
       "date": "2026/6/12",
@@ -64,8 +64,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-06-15T05:12:03.689Z",
-  "updateTime": "2026/6/15 5:12:03",
+  "lastUpdated": "2026-06-15T15:09:03.520Z",
+  "updateTime": "2026/6/15 15:09:03",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -87,7 +87,7 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 12
+        "count": 11
       },
       {
         "keyword": "Google",
@@ -95,7 +95,7 @@
       },
       {
         "keyword": "OpenAI",
-        "count": 5
+        "count": 4
       },
       {
         "keyword": "ChatGPT",
@@ -105,7 +105,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 55.93333333333333,
+      "averageTitleLength": 55.733333333333334,
       "sourceDiversity": 3
     }
   }
