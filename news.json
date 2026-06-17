@@ -1,12 +1,12 @@
 [
   {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "url": "https://openai.com/index/bbva",
-    "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "url": "https://openai.com/index/deployment-simulation",
+    "publishedAt": "Tue, 16 Jun 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -90,6 +90,16 @@
     "type": "rss"
   },
   {
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "publishedAt": "Tue, 16 Jun 2026 21:29:50 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Investing in multi-agent AI safety research",
     "description": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
@@ -134,16 +144,6 @@
     "description": "",
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
     "publishedAt": "Tue, 09 Jun 2026 14:10:19 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Powering the future of robotics in Europe",
-    "description": "",
-    "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-    "publishedAt": "Tue, 09 Jun 2026 14:02:33 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
