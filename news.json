@@ -1,5 +1,15 @@
 [
   {
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "publishedAt": "Sun, 21 Jun 2026 23:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "New usage analytics and updated spend controls for enterprises",
     "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
     "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -67,16 +77,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing LifeSciBench",
-    "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-    "url": "https://openai.com/index/introducing-life-sci-bench",
-    "publishedAt": "Wed, 17 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
     "type": "rss"
   },
   {
