@@ -10,20 +10,10 @@
     "type": "rss"
   },
   {
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "publishedAt": "Thu, 18 Jun 2026 17:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "url": "https://openai.com/index/patch-the-planet",
-    "publishedAt": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "title": "How Omio is building the future of conversational travel",
+    "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "url": "https://openai.com/index/omio",
+    "publishedAt": "Tue, 23 Jun 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -33,6 +23,16 @@
     "title": "Daybreak: Tools for securing every organization in the world",
     "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
     "url": "https://openai.com/index/daybreak-securing-the-world",
+    "publishedAt": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "url": "https://openai.com/index/patch-the-planet",
     "publishedAt": "Mon, 22 Jun 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
