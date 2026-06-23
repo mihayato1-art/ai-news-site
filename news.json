@@ -20,33 +20,23 @@
     "type": "rss"
   },
   {
-    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "publishedAt": "Thu, 18 Jun 2026 08:00:00 GMT",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "url": "https://openai.com/index/patch-the-planet",
+    "publishedAt": "Mon, 22 Jun 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "publishedAt": "Wed, 17 Jun 2026 10:00:00 GMT",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "publishedAt": "Mon, 22 Jun 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Improving health intelligence in ChatGPT",
-    "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "publishedAt": "Thu, 18 Jun 2026 11:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
@@ -137,6 +127,16 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Codex-maxxing for long-running work",
+    "description": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "publishedAt": "Mon, 22 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   },
   {
