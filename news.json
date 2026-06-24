@@ -1,12 +1,12 @@
 [
   {
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "publishedAt": "Sun, 21 Jun 2026 23:00:00 GMT",
+    "title": "Helping build shared standards for advanced AI",
+    "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "publishedAt": "Tue, 23 Jun 2026 13:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -37,6 +37,16 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "publishedAt": "Tue, 23 Jun 2026 17:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -127,16 +137,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Codex-maxxing for long-running work",
-    "description": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-    "url": "https://openai.com/index/codex-maxxing-long-running-work",
-    "publishedAt": "Mon, 22 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
