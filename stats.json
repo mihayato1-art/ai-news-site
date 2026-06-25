@@ -2,8 +2,8 @@
   "totalArticles": 15,
   "todayArticles": 0,
   "highImportanceCount": 4,
-  "mediumImportanceCount": 10,
-  "lowImportanceCount": 1,
+  "mediumImportanceCount": 9,
+  "lowImportanceCount": 2,
   "averageImportance": "6.7",
   "sourceStats": [
     {
@@ -29,11 +29,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/6/18",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2026/6/19",
       "articleCount": 0,
       "highImportanceCount": 0
@@ -50,8 +45,8 @@
     },
     {
       "date": "2026/6/22",
-      "articleCount": 2,
-      "highImportanceCount": 2
+      "articleCount": 1,
+      "highImportanceCount": 1
     },
     {
       "date": "2026/6/23",
@@ -60,12 +55,17 @@
     },
     {
       "date": "2026/6/24",
+      "articleCount": 2,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2026/6/25",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-06-24T11:40:54.890Z",
-  "updateTime": "2026/6/24 11:40:54",
+  "lastUpdated": "2026-06-25T04:13:33.218Z",
+  "updateTime": "2026/6/25 4:13:33",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,24 +74,24 @@
   },
   "detailed": {
     "articlesPerDay": {
+      "2026/6/24": 2,
       "2026/6/23": 3,
-      "2026/6/22": 2,
+      "2026/6/22": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
       "2024/3/29": 1,
       "2026/6/16": 2,
-      "2026/6/10": 2,
-      "2026/6/9": 1
+      "2026/6/10": 2
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 13
+        "count": 12
       },
       {
         "keyword": "Google",
-        "count": 8
+        "count": 7
       },
       {
         "keyword": "OpenAI",
@@ -101,7 +101,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 57.6,
+      "averageTitleLength": 55.06666666666667,
       "sourceDiversity": 3
     }
   }

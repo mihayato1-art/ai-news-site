@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Helping build shared standards for advanced AI",
     "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
@@ -23,16 +33,6 @@
     "title": "Daybreak: Tools for securing every organization in the world",
     "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
     "url": "https://openai.com/index/daybreak-securing-the-world",
-    "publishedAt": "Mon, 22 Jun 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "url": "https://openai.com/index/patch-the-planet",
     "publishedAt": "Mon, 22 Jun 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -130,13 +130,13 @@
     "type": "rss"
   },
   {
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-    "description": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-    "publishedAt": "Tue, 09 Jun 2026 15:16:25 +0000",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "description": "",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "publishedAt": "Wed, 24 Jun 2026 16:30:01 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
-    "importance": 6,
+    "importance": 5,
     "type": "rss"
   },
   {
