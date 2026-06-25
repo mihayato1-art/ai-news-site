@@ -1,5 +1,15 @@
 [
   {
+    "title": "How agents are transforming work",
+    "description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "publishedAt": "Thu, 25 Jun 2026 02:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
     "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -24,16 +34,6 @@
     "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
     "url": "https://openai.com/index/omio",
     "publishedAt": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "publishedAt": "Mon, 22 Jun 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
