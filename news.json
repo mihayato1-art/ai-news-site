@@ -1,5 +1,15 @@
 [
   {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "description": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "publishedAt": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
     "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
     "url": "https://openai.com/index/hp-frontier-partnership",
@@ -34,16 +44,6 @@
     "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Helping build shared standards for advanced AI",
-    "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "publishedAt": "Tue, 23 Jun 2026 13:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
