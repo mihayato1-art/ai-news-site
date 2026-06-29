@@ -1,5 +1,15 @@
 [
   {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "publishedAt": "Sun, 28 Jun 2026 17:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
     "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
     "url": "https://openai.com/index/previewing-gpt-5-6-sol",
@@ -37,16 +47,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "publishedAt": "Tue, 23 Jun 2026 17:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
