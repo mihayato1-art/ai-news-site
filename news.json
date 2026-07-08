@@ -1,5 +1,15 @@
 [
   {
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "url": "https://openai.com/index/mufg",
+    "publishedAt": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "How ChatGPT adoption has expanded",
     "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
@@ -20,13 +30,13 @@
     "type": "rss"
   },
   {
-    "title": "Mapping Europe’s AI Workforce Opportunity",
-    "description": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "publishedAt": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "description": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "publishedAt": "Tue, 07 Jul 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -107,16 +117,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Inside Genebench-Pro",
-    "description": "",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "publishedAt": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
