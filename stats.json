@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
   "todayArticles": 0,
-  "highImportanceCount": 3,
-  "mediumImportanceCount": 9,
+  "highImportanceCount": 4,
+  "mediumImportanceCount": 8,
   "lowImportanceCount": 3,
-  "averageImportance": "6.7",
+  "averageImportance": "6.6",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -29,11 +29,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/7/2",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2026/7/3",
       "articleCount": 1,
       "highImportanceCount": 0
@@ -55,17 +50,22 @@
     },
     {
       "date": "2026/7/7",
-      "articleCount": 2,
-      "highImportanceCount": 1
+      "articleCount": 1,
+      "highImportanceCount": 0
     },
     {
       "date": "2026/7/8",
+      "articleCount": 4,
+      "highImportanceCount": 4
+    },
+    {
+      "date": "2026/7/9",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-07-08T10:58:23.406Z",
-  "updateTime": "2026/7/8 10:58:23",
+  "lastUpdated": "2026-07-09T03:59:41.302Z",
+  "updateTime": "2026/7/9 3:59:41",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,14 +74,15 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/7/7": 2,
-      "2026/6/30": 4,
+      "2026/7/8": 4,
+      "2026/7/7": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
       "2024/3/29": 1,
       "2026/6/16": 2,
       "2026/7/3": 1,
+      "2026/6/30": 1,
       "2026/6/24": 1
     },
     "topKeywords": [
@@ -94,18 +95,18 @@
         "count": 7
       },
       {
-        "keyword": "ChatGPT",
+        "keyword": "OpenAI",
         "count": 3
       },
       {
-        "keyword": "OpenAI",
-        "count": 3
+        "keyword": "ChatGPT",
+        "count": 2
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 52.93333333333333,
+      "averageTitleLength": 55,
       "sourceDiversity": 3
     }
   }
