@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
   "todayArticles": 0,
-  "highImportanceCount": 3,
-  "mediumImportanceCount": 8,
-  "lowImportanceCount": 4,
-  "averageImportance": "6.3",
+  "highImportanceCount": 2,
+  "mediumImportanceCount": 10,
+  "lowImportanceCount": 3,
+  "averageImportance": "6.4",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -29,14 +29,9 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/7/8",
+      "date": "2026/7/9",
       "articleCount": 0,
       "highImportanceCount": 0
-    },
-    {
-      "date": "2026/7/9",
-      "articleCount": 3,
-      "highImportanceCount": 1
     },
     {
       "date": "2026/7/10",
@@ -60,12 +55,17 @@
     },
     {
       "date": "2026/7/14",
+      "articleCount": 3,
+      "highImportanceCount": 0
+    },
+    {
+      "date": "2026/7/15",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-07-14T10:39:53.449Z",
-  "updateTime": "2026/7/14 10:39:53",
+  "lastUpdated": "2026-07-15T03:14:58.941Z",
+  "updateTime": "2026/7/15 3:14:58",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -75,7 +75,7 @@
   "detailed": {
     "articlesPerDay": {
       "2026/7/10": 2,
-      "2026/7/9": 3,
+      "2026/7/14": 3,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -89,29 +89,25 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 11
+        "count": 10
       },
       {
         "keyword": "Google",
         "count": 8
       },
       {
-        "keyword": "OpenAI",
-        "count": 2
-      },
-      {
         "keyword": "ChatGPT",
-        "count": 1
+        "count": 3
       },
       {
-        "keyword": "Microsoft",
+        "keyword": "OpenAI",
         "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 56.46666666666667,
+      "averageTitleLength": 54.86666666666667,
       "sourceDiversity": 3
     }
   }

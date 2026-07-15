@@ -20,13 +20,23 @@
     "type": "rss"
   },
   {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "description": "Details about the OpenAI Bio Bounty program",
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "title": "How data science teams use ChatGPT Work",
+    "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "publishedAt": "Tue, 14 Jul 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
+    "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "How sales teams use ChatGPT Work",
+    "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "publishedAt": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -60,10 +70,10 @@
     "type": "rss"
   },
   {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "publishedAt": "Thu, 09 Jul 2026 13:00:00 GMT",
+    "title": "How to manage AI investments in the agentic era",
+    "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "publishedAt": "Tue, 14 Jul 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
@@ -107,16 +117,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "url": "https://openai.com/index/gpt-5-6",
-    "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
