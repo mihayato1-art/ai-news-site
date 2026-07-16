@@ -1,28 +1,28 @@
 [
   {
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-    "url": "https://openai.com/index/deutsche-telekom",
-    "publishedAt": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "title": "The US is advancing AI safety through state and federal action",
+    "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "publishedAt": "Wed, 15 Jul 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "Getting started with ChatGPT",
-    "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "url": "https://openai.com/academy/getting-started",
-    "publishedAt": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "publishedAt": "Wed, 15 Jul 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "How data science teams use ChatGPT Work",
-    "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "title": "How sales teams use ChatGPT Work",
+    "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "publishedAt": "Tue, 14 Jul 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -30,9 +30,9 @@
     "type": "rss"
   },
   {
-    "title": "How sales teams use ChatGPT Work",
-    "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "title": "How data science teams use ChatGPT Work",
+    "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "publishedAt": "Tue, 14 Jul 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
