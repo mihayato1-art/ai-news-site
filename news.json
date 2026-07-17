@@ -1,5 +1,25 @@
 [
   {
+    "title": "Why teens deserve access to safe AI",
+    "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "publishedAt": "Thu, 16 Jul 2026 16:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "description": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "url": "https://openai.com/index/cars24",
+    "publishedAt": "Thu, 16 Jul 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "The US is advancing AI safety through state and federal action",
     "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
     "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
@@ -17,26 +37,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "How sales teams use ChatGPT Work",
-    "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "publishedAt": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "How data science teams use ChatGPT Work",
-    "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "publishedAt": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
