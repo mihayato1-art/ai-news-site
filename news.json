@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "A scorecard for the AI age",
+    "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "publishedAt": "Fri, 17 Jul 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "How Cars24 scales conversations and builds faster with OpenAI",
     "description": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
     "url": "https://openai.com/index/cars24",
@@ -67,16 +77,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "How to manage AI investments in the agentic era",
-    "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "publishedAt": "Tue, 14 Jul 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
     "type": "rss"
   },
   {
