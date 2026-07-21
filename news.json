@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "publishedAt": "Mon, 20 Jul 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "A scorecard for the AI age",
     "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
     "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -34,16 +44,6 @@
     "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
     "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
     "publishedAt": "Wed, 15 Jul 2026 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "publishedAt": "Wed, 15 Jul 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
