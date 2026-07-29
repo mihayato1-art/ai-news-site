@@ -30,16 +30,6 @@
     "type": "rss"
   },
   {
-    "title": "Advancing the next era of national science",
-    "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "publishedAt": "Wed, 22 Jul 2026 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
     "title": "Launching Health in ChatGPT ",
     "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
     "url": "https://openai.com/index/health-in-chatgpt",
@@ -77,6 +67,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "Scientific computing in the age of agentic AI",
+    "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "publishedAt": "Tue, 28 Jul 2026 17:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
