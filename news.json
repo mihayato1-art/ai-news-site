@@ -1,5 +1,15 @@
 [
   {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "publishedAt": "Wed, 29 Jul 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "How AI is expanding what people do at work",
     "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
@@ -7,36 +17,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 10,
-    "type": "rss"
-  },
-  {
-    "title": "Building AI infrastructure with the Effingham County community",
-    "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "publishedAt": "Wed, 22 Jul 2026 13:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "How news organizations are using AI to advance their vital missions",
-    "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "publishedAt": "Wed, 22 Jul 2026 13:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Launching Health in ChatGPT ",
-    "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-    "url": "https://openai.com/index/health-in-chatgpt",
-    "publishedAt": "Thu, 23 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
@@ -67,6 +47,26 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "publishedAt": "Wed, 29 Jul 2026 15:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "description": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "publishedAt": "Wed, 29 Jul 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
@@ -120,13 +120,13 @@
     "type": "rss"
   },
   {
-    "title": "Empowering India’s next generation of innovators with ATL Saathi",
-    "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "publishedAt": "Mon, 13 Jul 2026 12:37:28 +0000",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "description": "",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "publishedAt": "Wed, 29 Jul 2026 16:02:10 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
-    "importance": 6,
+    "importance": 5,
     "type": "rss"
   },
   {
