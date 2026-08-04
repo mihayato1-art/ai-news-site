@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
   "todayArticles": 0,
-  "highImportanceCount": 3,
-  "mediumImportanceCount": 8,
+  "highImportanceCount": 4,
+  "mediumImportanceCount": 7,
   "lowImportanceCount": 4,
-  "averageImportance": "6.3",
+  "averageImportance": "6.5",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -40,7 +40,7 @@
     },
     {
       "date": "2026/7/31",
-      "articleCount": 2,
+      "articleCount": 1,
       "highImportanceCount": 1
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "date": "2026/8/3",
-      "articleCount": 2,
-      "highImportanceCount": 1
+      "articleCount": 3,
+      "highImportanceCount": 2
     },
     {
       "date": "2026/8/4",
@@ -64,8 +64,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-08-04T03:22:48.248Z",
-  "updateTime": "2026/8/4 3:22:48",
+  "lastUpdated": "2026-08-04T11:18:21.769Z",
+  "updateTime": "2026/8/4 11:18:21",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,9 +74,9 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/8/3": 2,
+      "2026/8/3": 3,
       "2026/8/1": 1,
-      "2026/7/31": 2,
+      "2026/7/31": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -98,13 +98,13 @@
       },
       {
         "keyword": "OpenAI",
-        "count": 3
+        "count": 4
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 68.8,
+      "averageTitleLength": 68.6,
       "sourceDiversity": 3
     }
   }
