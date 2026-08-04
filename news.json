@@ -1,12 +1,12 @@
 [
   {
-    "title": "Disrupting a Criminal Scam Operation",
-    "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "publishedAt": "Fri, 31 Jul 2026 00:00:00 GMT",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "url": "https://openai.com/index/circles",
+    "publishedAt": "Mon, 03 Aug 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -24,16 +24,6 @@
     "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
     "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
     "publishedAt": "Fri, 31 Jul 2026 15:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Univé builds an AI-ready workforce",
-    "description": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "url": "https://openai.com/index/unive",
-    "publishedAt": "Fri, 31 Jul 2026 07:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -67,6 +57,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
