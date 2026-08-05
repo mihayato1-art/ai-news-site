@@ -1,5 +1,15 @@
 [
   {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "publishedAt": "Tue, 04 Aug 2026 19:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Apple is getting this wrong",
     "description": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
     "url": "https://openai.com/index/apple-is-getting-this-wrong",
@@ -20,23 +30,13 @@
     "type": "rss"
   },
   {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "url": "https://openai.com/index/ten-advances-in-mathematics",
-    "publishedAt": "Sat, 01 Aug 2026 00:00:00 GMT",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "description": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "publishedAt": "Tue, 04 Aug 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Advancing responsible AI across Europe",
-    "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "publishedAt": "Fri, 31 Jul 2026 15:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
