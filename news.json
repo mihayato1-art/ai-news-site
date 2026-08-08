@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "publishedAt": "Fri, 07 Aug 2026 15:20:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
     "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
     "url": "https://openai.com/index/hsp-gruppe",
@@ -24,16 +34,6 @@
     "description": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
     "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
     "publishedAt": "Thu, 06 Aug 2026 06:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "publishedAt": "Tue, 04 Aug 2026 19:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
