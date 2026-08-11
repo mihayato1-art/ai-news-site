@@ -2,9 +2,9 @@
   "totalArticles": 15,
   "todayArticles": 0,
   "highImportanceCount": 5,
-  "mediumImportanceCount": 7,
-  "lowImportanceCount": 3,
-  "averageImportance": "6.9",
+  "mediumImportanceCount": 6,
+  "lowImportanceCount": 4,
+  "averageImportance": "6.6",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -29,24 +29,19 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/8/4",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2026/8/5",
       "articleCount": 0,
       "highImportanceCount": 0
     },
     {
       "date": "2026/8/6",
-      "articleCount": 4,
-      "highImportanceCount": 3
+      "articleCount": 1,
+      "highImportanceCount": 1
     },
     {
       "date": "2026/8/7",
-      "articleCount": 2,
-      "highImportanceCount": 2
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2026/8/8",
@@ -60,12 +55,17 @@
     },
     {
       "date": "2026/8/10",
+      "articleCount": 5,
+      "highImportanceCount": 4
+    },
+    {
+      "date": "2026/8/11",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-08-10T10:11:02.686Z",
-  "updateTime": "2026/8/10 10:11:02",
+  "lastUpdated": "2026-08-11T02:12:28.644Z",
+  "updateTime": "2026/8/11 2:12:28",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,8 +74,8 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/8/6": 4,
-      "2026/8/7": 2,
+      "2026/8/10": 5,
+      "2026/8/6": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -95,18 +95,14 @@
         "count": 7
       },
       {
-        "keyword": "ChatGPT",
-        "count": 3
-      },
-      {
         "keyword": "OpenAI",
-        "count": 3
+        "count": 4
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 74.8,
+      "averageTitleLength": 71.86666666666666,
       "sourceDiversity": 3
     }
   }
