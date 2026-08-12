@@ -1,5 +1,25 @@
 [
   {
+    "title": "Testing ads in ChatGPT",
+    "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "publishedAt": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "Daybreak models are now available on AWS",
+    "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "publishedAt": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
     "description": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
     "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
@@ -14,26 +34,6 @@
     "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
     "url": "https://openai.com/index/building-an-ai-native-finance-function",
     "publishedAt": "Mon, 10 Aug 2026 17:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "description": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "publishedAt": "Mon, 10 Aug 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Putting frontier cyber models in more trusted hands",
-    "description": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "publishedAt": "Mon, 10 Aug 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
