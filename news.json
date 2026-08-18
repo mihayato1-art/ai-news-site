@@ -1,12 +1,32 @@
 [
   {
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "publishedAt": "Wed, 12 Aug 2026 06:00:00 GMT",
+    "title": "The Defender’s Window",
+    "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "url": "https://openai.com/index/the-defenders-window",
+    "publishedAt": "Mon, 17 Aug 2026 05:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "OpenAI joins PORTS-Pike project",
+    "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "publishedAt": "Mon, 17 Aug 2026 05:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "New policy ideas for the Intelligence Age",
+    "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "publishedAt": "Mon, 17 Aug 2026 03:15:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -14,26 +34,6 @@
     "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
     "url": "https://openai.com/index/previewing-ultrafast",
     "publishedAt": "Thu, 13 Aug 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "publishedAt": "Thu, 13 Aug 2026 09:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "description": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "url": "https://openai.com/index/ringcentral",
-    "publishedAt": "Wed, 12 Aug 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
