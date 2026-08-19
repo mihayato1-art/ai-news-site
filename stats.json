@@ -64,8 +64,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-08-19T01:42:22.224Z",
-  "updateTime": "2026/8/19 1:42:22",
+  "lastUpdated": "2026-08-19T09:26:32.081Z",
+  "updateTime": "2026/8/19 9:26:32",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -106,7 +106,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 65.73333333333333,
+      "averageTitleLength": 64.93333333333334,
       "sourceDiversity": 3
     }
   }
