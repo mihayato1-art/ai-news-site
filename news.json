@@ -1,5 +1,15 @@
 [
   {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "description": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "publishedAt": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Introducing AI Futures",
     "description": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
     "url": "https://openai.com/index/introducing-ai-futures",
@@ -117,16 +127,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-    "url": "https://openai.com/index/replit",
-    "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
