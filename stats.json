@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
-  "todayArticles": 0,
-  "highImportanceCount": 8,
-  "mediumImportanceCount": 5,
-  "lowImportanceCount": 2,
-  "averageImportance": "7.3",
+  "todayArticles": 4,
+  "highImportanceCount": 6,
+  "mediumImportanceCount": 6,
+  "lowImportanceCount": 3,
+  "averageImportance": "6.9",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -50,22 +50,22 @@
     },
     {
       "date": "2026/8/25",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2026/8/26",
-      "articleCount": 5,
-      "highImportanceCount": 4
+      "articleCount": 4,
+      "highImportanceCount": 3
     },
     {
       "date": "2026/8/27",
-      "articleCount": 0,
-      "highImportanceCount": 0
+      "articleCount": 4,
+      "highImportanceCount": 2
     }
   ],
-  "lastUpdated": "2026-08-27T08:51:45.302Z",
-  "updateTime": "2026/8/27 8:51:45",
+  "lastUpdated": "2026-08-27T19:22:27.779Z",
+  "updateTime": "2026/8/27 19:22:27",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,11 +74,9 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/8/26": 5,
-      "2026/8/25": 1,
+      "2026/8/26": 4,
+      "2026/8/27": 4,
       "2026/8/21": 1,
-      "2026/8/12": 1,
-      "2026/8/6": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -88,25 +86,25 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 13
+        "count": 12
       },
       {
         "keyword": "Google",
         "count": 6
       },
       {
-        "keyword": "OpenAI",
-        "count": 4
+        "keyword": "ChatGPT",
+        "count": 3
       },
       {
-        "keyword": "ChatGPT",
-        "count": 2
+        "keyword": "OpenAI",
+        "count": 3
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 55.86666666666667,
+      "averageTitleLength": 58.06666666666667,
       "sourceDiversity": 3
     }
   }

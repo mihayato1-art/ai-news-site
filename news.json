@@ -10,6 +10,26 @@
     "type": "rss"
   },
   {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "description": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "publishedAt": "Thu, 27 Aug 2026 09:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "publishedAt": "Thu, 27 Aug 2026 03:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
@@ -30,50 +50,10 @@
     "type": "rss"
   },
   {
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "description": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "url": "https://openai.com/index/loveholidays",
-    "publishedAt": "Wed, 26 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "The full stack behind abundant intelligence",
-    "description": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "publishedAt": "Tue, 25 Aug 2026 07:05:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
     "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
     "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
     "publishedAt": "Fri, 21 Aug 2026 11:59:48 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Putting sign language AI into users’ hands",
-    "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "publishedAt": "Wed, 12 Aug 2026 14:01:59 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "description": "",
-    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "publishedAt": "Thu, 06 Aug 2026 15:06:15 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 8,
@@ -127,6 +107,26 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "description": "Piloting the world's first double-blind AI evaluations",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "publishedAt": "Thu, 27 Aug 2026 12:59:16 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "description": "",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "publishedAt": "Thu, 27 Aug 2026 16:11:32 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   },
   {
