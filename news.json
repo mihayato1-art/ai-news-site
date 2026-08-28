@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "description": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "publishedAt": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
     "description": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
     "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -34,16 +44,6 @@
     "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "publishedAt": "Wed, 26 Aug 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "The Hugging Face incident and the road ahead",
-    "description": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "publishedAt": "Wed, 26 Aug 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
