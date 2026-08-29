@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "publishedAt": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Supporting Thailand’s next generation of AI startups",
     "description": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
     "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
@@ -34,16 +44,6 @@
     "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
     "url": "https://openai.com/index/expanding-our-presence-in-brazil",
     "publishedAt": "Thu, 27 Aug 2026 03:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "publishedAt": "Wed, 26 Aug 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
