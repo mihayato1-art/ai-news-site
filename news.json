@@ -1,5 +1,15 @@
 [
   {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "description": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "url": "https://openai.com/index/polimill",
+    "publishedAt": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "A milestone in expanding access to AI",
     "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
     "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
@@ -34,16 +44,6 @@
     "description": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
     "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
     "publishedAt": "Thu, 27 Aug 2026 09:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "publishedAt": "Thu, 27 Aug 2026 03:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
