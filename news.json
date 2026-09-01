@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "description": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "publishedAt": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Polimill builds Japan's next-generation public AI infrastructure",
     "description": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
     "url": "https://openai.com/index/polimill",
@@ -34,16 +44,6 @@
     "description": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
     "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "publishedAt": "Fri, 28 Aug 2026 02:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "description": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "publishedAt": "Thu, 27 Aug 2026 09:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
