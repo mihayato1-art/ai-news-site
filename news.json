@@ -10,31 +10,21 @@
     "type": "rss"
   },
   {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "description": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "publishedAt": "Wed, 02 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Path to Astra: critical capabilities and frontier safeguards",
     "description": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
     "url": "https://openai.com/index/path-to-astra",
     "publishedAt": "Tue, 01 Sep 2026 13:00:00 GMT",
     "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "description": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "publishedAt": "Mon, 31 Aug 2026 07:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-    "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "publishedAt": "Fri, 21 Aug 2026 11:59:48 +0000",
-    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
@@ -120,6 +110,26 @@
     "type": "rss"
   },
   {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "description": "",
+    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "publishedAt": "Wed, 02 Sep 2026 16:24:24 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "description": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "publishedAt": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "Introducing agentic video understanding with Gemini",
     "description": "",
     "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
@@ -134,16 +144,6 @@
     "description": "",
     "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
     "publishedAt": "Thu, 27 Aug 2026 16:11:32 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "publishedAt": "Wed, 26 Aug 2026 17:01:00 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,

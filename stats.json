@@ -1,21 +1,21 @@
 {
   "totalArticles": 15,
   "todayArticles": 0,
-  "highImportanceCount": 4,
+  "highImportanceCount": 3,
   "mediumImportanceCount": 8,
-  "lowImportanceCount": 3,
-  "averageImportance": "6.7",
+  "lowImportanceCount": 4,
+  "averageImportance": "6.5",
   "sourceStats": [
     {
       "source": "OpenAI News",
       "count": 5
     },
     {
-      "source": "Google DeepMind News",
+      "source": "Google Research Blog",
       "count": 5
     },
     {
-      "source": "Google Research Blog",
+      "source": "Google DeepMind News",
       "count": 5
     }
   ],
@@ -28,11 +28,6 @@
   "totalTools": 6,
   "averageToolRating": "8.8",
   "weeklyStats": [
-    {
-      "date": "2026/8/27",
-      "articleCount": 2,
-      "highImportanceCount": 0
-    },
     {
       "date": "2026/8/28",
       "articleCount": 0,
@@ -50,8 +45,8 @@
     },
     {
       "date": "2026/8/31",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2026/9/1",
@@ -60,12 +55,17 @@
     },
     {
       "date": "2026/9/2",
+      "articleCount": 3,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2026/9/3",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-09-02T13:09:01.229Z",
-  "updateTime": "2026/9/2 13:09:01",
+  "lastUpdated": "2026-09-03T04:04:53.297Z",
+  "updateTime": "2026/9/3 4:04:53",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -75,37 +75,35 @@
   "detailed": {
     "articlesPerDay": {
       "2026/9/1": 5,
-      "2026/8/31": 1,
-      "2026/8/21": 1,
+      "2026/9/2": 3,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
       "2024/3/29": 1,
-      "2026/8/27": 2,
-      "2026/8/26": 1
+      "2026/8/27": 2
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 11
+        "count": 10
       },
       {
         "keyword": "Google",
-        "count": 6
-      },
-      {
-        "keyword": "OpenAI",
-        "count": 3
+        "count": 5
       },
       {
         "keyword": "ChatGPT",
+        "count": 3
+      },
+      {
+        "keyword": "OpenAI",
         "count": 2
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 62.266666666666666,
+      "averageTitleLength": 61.266666666666666,
       "sourceDiversity": 3
     }
   }
