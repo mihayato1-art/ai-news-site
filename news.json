@@ -1,5 +1,15 @@
 [
   {
+    "title": "Supporting independent journalism in Ukraine",
+    "description": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "publishedAt": "Mon, 07 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Research acceleration: The view inside OpenAI",
     "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
     "url": "https://openai.com/index/research-acceleration-view-inside-openai",
@@ -93,16 +103,6 @@
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "publishedAt": "Thu, 03 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "publishedAt": "Thu, 03 Sep 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
