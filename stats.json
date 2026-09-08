@@ -1,6 +1,6 @@
 {
   "totalArticles": 15,
-  "todayArticles": 1,
+  "todayArticles": 0,
   "highImportanceCount": 3,
   "mediumImportanceCount": 7,
   "lowImportanceCount": 5,
@@ -28,11 +28,6 @@
   "totalTools": 6,
   "averageToolRating": "8.8",
   "weeklyStats": [
-    {
-      "date": "2026/9/1",
-      "articleCount": 1,
-      "highImportanceCount": 0
-    },
     {
       "date": "2026/9/2",
       "articleCount": 2,
@@ -62,10 +57,15 @@
       "date": "2026/9/7",
       "articleCount": 1,
       "highImportanceCount": 1
+    },
+    {
+      "date": "2026/9/8",
+      "articleCount": 0,
+      "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-09-07T14:41:34.556Z",
-  "updateTime": "2026/9/7 14:41:34",
+  "lastUpdated": "2026-09-08T04:13:51.120Z",
+  "updateTime": "2026/9/8 4:13:51",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
