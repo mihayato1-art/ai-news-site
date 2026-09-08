@@ -1,9 +1,9 @@
 {
   "totalArticles": 15,
-  "todayArticles": 0,
+  "todayArticles": 1,
   "highImportanceCount": 3,
-  "mediumImportanceCount": 7,
-  "lowImportanceCount": 5,
+  "mediumImportanceCount": 8,
+  "lowImportanceCount": 4,
   "averageImportance": "6.3",
   "sourceStats": [
     {
@@ -35,7 +35,7 @@
     },
     {
       "date": "2026/9/3",
-      "articleCount": 3,
+      "articleCount": 2,
       "highImportanceCount": 1
     },
     {
@@ -60,12 +60,12 @@
     },
     {
       "date": "2026/9/8",
-      "articleCount": 0,
+      "articleCount": 1,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-09-08T04:13:51.120Z",
-  "updateTime": "2026/9/8 4:13:51",
+  "lastUpdated": "2026-09-08T13:13:27.670Z",
+  "updateTime": "2026/9/8 13:13:27",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -76,10 +76,11 @@
     "articlesPerDay": {
       "2026/9/7": 1,
       "2026/9/6": 2,
-      "2026/9/3": 3,
+      "2026/9/3": 2,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
+      "2026/9/8": 1,
       "2024/3/29": 1,
       "2026/9/2": 2,
       "2026/9/1": 1,
@@ -88,7 +89,7 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 10
+        "count": 11
       },
       {
         "keyword": "Google",
@@ -102,7 +103,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 55.8,
+      "averageTitleLength": 53.733333333333334,
       "sourceDiversity": 3
     }
   }

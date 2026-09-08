@@ -60,6 +60,16 @@
     "type": "rss"
   },
   {
+    "title": "The Work Now Within Reach",
+    "description": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "publishedAt": "Tue, 08 Sep 2026 13:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "An Alien Mind",
     "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
     "url": "https://openai.com/index/an-alien-mind",
@@ -97,16 +107,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "publishedAt": "Thu, 03 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
