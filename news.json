@@ -1,32 +1,22 @@
 [
   {
-    "title": "Supporting independent journalism in Ukraine",
-    "description": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "publishedAt": "Mon, 07 Sep 2026 00:00:00 GMT",
+    "title": "Funding grants for new research into AI and teen development",
+    "description": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "publishedAt": "Tue, 08 Sep 2026 09:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "Research acceleration: The view inside OpenAI",
-    "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "publishedAt": "Sun, 06 Sep 2026 08:00:00 GMT",
+    "title": "Introducing ChatGPT Images 2.5",
+    "description": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "publishedAt": "Tue, 08 Sep 2026 11:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "publishedAt": "Thu, 03 Sep 2026 13:15:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -70,10 +60,10 @@
     "type": "rss"
   },
   {
-    "title": "An Alien Mind",
-    "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-    "url": "https://openai.com/index/an-alien-mind",
-    "publishedAt": "Sun, 06 Sep 2026 09:00:00 GMT",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "description": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "publishedAt": "Tue, 08 Sep 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
@@ -110,6 +100,26 @@
     "type": "rss"
   },
   {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "description": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "publishedAt": "Tue, 08 Sep 2026 17:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "description": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "Proactive cyber defense for governments and enterprises",
     "description": "",
     "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
@@ -134,16 +144,6 @@
     "description": "",
     "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "publishedAt": "Tue, 01 Sep 2026 17:08:51 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini Omni 1.1 Flash lets you build with more control",
-    "description": "",
-    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-    "publishedAt": "Thu, 27 Aug 2026 16:11:32 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
