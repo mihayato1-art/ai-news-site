@@ -1,22 +1,22 @@
 [
   {
-    "title": "Funding grants for new research into AI and teen development",
-    "description": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-    "url": "https://openai.com/index/teen-development-research-grants",
-    "publishedAt": "Tue, 08 Sep 2026 09:00:00 GMT",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "description": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "publishedAt": "Wed, 09 Sep 2026 11:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "Introducing ChatGPT Images 2.5",
-    "description": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "publishedAt": "Tue, 08 Sep 2026 11:30:00 GMT",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "description": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "publishedAt": "Wed, 09 Sep 2026 17:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 7,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -50,20 +50,20 @@
     "type": "rss"
   },
   {
-    "title": "The Work Now Within Reach",
-    "description": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-    "url": "https://openai.com/index/the-work-now-within-reach",
-    "publishedAt": "Tue, 08 Sep 2026 13:00:00 GMT",
+    "title": "The AI policy window is open. We need to act.",
+    "description": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "url": "https://openai.com/index/ai-policy-window",
+    "publishedAt": "Wed, 09 Sep 2026 13:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
     "type": "rss"
   },
   {
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "description": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-    "url": "https://openai.com/index/navier-stokes-solution",
-    "publishedAt": "Tue, 08 Sep 2026 10:00:00 GMT",
+    "title": "The Work Now Within Reach",
+    "description": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "publishedAt": "Tue, 08 Sep 2026 13:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
