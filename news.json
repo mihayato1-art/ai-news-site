@@ -100,9 +100,9 @@
     "type": "rss"
   },
   {
-    "title": "Introducing the Agents API",
-    "description": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "url": "https://openai.com/index/introducing-the-agents-api",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "description": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
