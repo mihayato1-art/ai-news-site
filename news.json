@@ -1,5 +1,15 @@
 [
   {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "publishedAt": "Fri, 11 Sep 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Now everyone can put data to work",
     "description": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
     "url": "https://openai.com/index/put-data-to-work",
@@ -10,30 +20,10 @@
     "type": "rss"
   },
   {
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "description": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-    "url": "https://openai.com/index/expanding-ai-access-us-government",
-    "publishedAt": "Thu, 10 Sep 2026 07:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "description": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
     "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "publishedAt": "Thu, 10 Sep 2026 16:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing ChatGPT for Financial Services",
-    "description": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "publishedAt": "Thu, 10 Sep 2026 07:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 7,
@@ -100,10 +90,20 @@
     "type": "rss"
   },
   {
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "description": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "publishedAt": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "publishedAt": "Mon, 14 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "description": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "publishedAt": "Fri, 11 Sep 2026 16:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
