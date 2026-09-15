@@ -10,10 +10,10 @@
     "type": "rss"
   },
   {
-    "title": "Now everyone can put data to work",
-    "description": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-    "url": "https://openai.com/index/put-data-to-work",
-    "publishedAt": "Thu, 10 Sep 2026 15:00:00 GMT",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "description": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "url": "https://openai.com/index/fyxer",
+    "publishedAt": "Mon, 14 Sep 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
