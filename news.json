@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Reimagining advertising with AI",
+    "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "publishedAt": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "How Fyxer built an AI executive assistant people trust",
     "description": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
     "url": "https://openai.com/index/fyxer",
@@ -17,16 +27,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "description": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "publishedAt": "Thu, 10 Sep 2026 16:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
