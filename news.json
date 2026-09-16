@@ -110,6 +110,16 @@
     "type": "rss"
   },
   {
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "description": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
     "description": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
     "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
@@ -134,16 +144,6 @@
     "description": "",
     "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
     "publishedAt": "Wed, 02 Sep 2026 16:18:31 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing agentic video understanding with Gemini",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "publishedAt": "Tue, 01 Sep 2026 17:08:51 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
