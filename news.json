@@ -1,9 +1,9 @@
 [
   {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "publishedAt": "Fri, 11 Sep 2026 10:00:00 GMT",
+    "title": "Helping older adults use AI in everyday life",
+    "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "publishedAt": "Wed, 16 Sep 2026 16:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 10,
@@ -20,10 +20,30 @@
     "type": "rss"
   },
   {
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "description": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-    "url": "https://openai.com/index/fyxer",
-    "publishedAt": "Mon, 14 Sep 2026 12:00:00 GMT",
+    "title": "How to connect AI usage to business value",
+    "description": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "publishedAt": "Wed, 16 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Our framework for reporting model misalignment",
+    "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "publishedAt": "Wed, 16 Sep 2026 17:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "How workers are unlocking new ways of working",
+    "description": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "publishedAt": "Wed, 16 Sep 2026 09:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -87,26 +107,6 @@
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "publishedAt": "Mon, 14 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "description": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "publishedAt": "Fri, 11 Sep 2026 16:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   },
   {
