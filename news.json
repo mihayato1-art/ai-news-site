@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Introducing Astra for Law",
+    "description": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "url": "https://openai.com/index/astra-for-law",
+    "publishedAt": "Thu, 17 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Reimagining advertising with AI",
     "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
     "url": "https://openai.com/index/reimagining-advertising-with-ai",
@@ -30,23 +40,13 @@
     "type": "rss"
   },
   {
-    "title": "Our framework for reporting model misalignment",
-    "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-    "url": "https://openai.com/index/model-misalignment-reporting-framework",
-    "publishedAt": "Wed, 16 Sep 2026 17:00:00 GMT",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "description": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+    "url": "https://openai.com/index/cooley-gopublic",
+    "publishedAt": "Thu, 17 Sep 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "How workers are unlocking new ways of working",
-    "description": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-    "url": "https://openai.com/index/unlocking-new-ways-of-working",
-    "publishedAt": "Wed, 16 Sep 2026 09:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
