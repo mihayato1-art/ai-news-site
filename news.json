@@ -30,16 +30,6 @@
     "type": "rss"
   },
   {
-    "title": "Reimagining advertising with AI",
-    "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-    "url": "https://openai.com/index/reimagining-advertising-with-ai",
-    "publishedAt": "Wed, 16 Sep 2026 13:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
     "title": "How Cooley is accelerating IPO work with ChatGPT",
     "description": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
     "url": "https://openai.com/index/cooley-gopublic",
@@ -77,6 +67,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "How V7 gives AI agents institutional memory",
+    "description": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "url": "https://openai.com/index/v7",
+    "publishedAt": "Mon, 21 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
