@@ -1,42 +1,32 @@
 [
   {
-    "title": "Helping older adults use AI in everyday life",
-    "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "publishedAt": "Wed, 16 Sep 2026 16:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "description": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-    "url": "https://openai.com/index/australian-youth-safety-blueprint",
-    "publishedAt": "Fri, 18 Sep 2026 12:00:00 GMT",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "Introducing Astra for Law",
-    "description": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-    "url": "https://openai.com/index/astra-for-law",
-    "publishedAt": "Thu, 17 Sep 2026 00:00:00 GMT",
+    "title": "Building standards for the next phase of AI",
+    "description": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "publishedAt": "Mon, 21 Sep 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "description": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-    "url": "https://openai.com/index/cooley-gopublic",
-    "publishedAt": "Thu, 17 Sep 2026 12:00:00 GMT",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "description": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 7,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -67,6 +57,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
