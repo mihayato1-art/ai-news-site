@@ -90,16 +90,6 @@
     "type": "rss"
   },
   {
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "publishedAt": "Thu, 03 Sep 2026 15:02:08 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
@@ -115,6 +105,16 @@
     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "publishedAt": "Wed, 23 Sep 2026 12:00:00 GMT",
     "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "description": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "publishedAt": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
