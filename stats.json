@@ -1,10 +1,10 @@
 {
-  "totalArticles": 10,
+  "totalArticles": 15,
   "todayArticles": 0,
   "highImportanceCount": 2,
-  "mediumImportanceCount": 5,
-  "lowImportanceCount": 3,
-  "averageImportance": "6.4",
+  "mediumImportanceCount": 7,
+  "lowImportanceCount": 6,
+  "averageImportance": "6.1",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -13,12 +13,16 @@
     {
       "source": "Google Research Blog",
       "count": 5
+    },
+    {
+      "source": "Google DeepMind News",
+      "count": 5
     }
   ],
   "categoryStats": [
     {
       "category": "AI News",
-      "count": 10
+      "count": 15
     }
   ],
   "totalTools": 6,
@@ -26,17 +30,17 @@
   "weeklyStats": [
     {
       "date": "2026/9/23",
-      "articleCount": 0,
+      "articleCount": 2,
       "highImportanceCount": 0
     },
     {
       "date": "2026/9/24",
-      "articleCount": 0,
+      "articleCount": 1,
       "highImportanceCount": 0
     },
     {
       "date": "2026/9/25",
-      "articleCount": 1,
+      "articleCount": 0,
       "highImportanceCount": 0
     },
     {
@@ -51,7 +55,7 @@
     },
     {
       "date": "2026/9/28",
-      "articleCount": 4,
+      "articleCount": 5,
       "highImportanceCount": 2
     },
     {
@@ -60,8 +64,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-09-29T05:26:10.073Z",
-  "updateTime": "2026/9/29 5:26:10",
+  "lastUpdated": "2026-09-29T15:17:08.366Z",
+  "updateTime": "2026/9/29 15:17:08",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -70,17 +74,20 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/9/28": 4,
+      "2026/9/28": 5,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
       "2024/3/29": 1,
-      "2026/9/25": 1
+      "2026/9/23": 2,
+      "2026/9/24": 1,
+      "2026/9/15": 1,
+      "2026/9/8": 1
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 7
+        "count": 9
       },
       {
         "keyword": "Google",
@@ -94,8 +101,8 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 57,
-      "sourceDiversity": 2
+      "averageTitleLength": 56.46666666666667,
+      "sourceDiversity": 3
     }
   }
 }
