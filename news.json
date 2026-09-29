@@ -1,29 +1,19 @@
 [
   {
-    "title": "Two years of OpenAI Academy",
-    "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-    "url": "https://openai.com/index/two-years-of-openai-academy",
-    "publishedAt": "Wed, 23 Sep 2026 16:00:00 GMT",
+    "title": "How we will do better for Australia",
+    "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "publishedAt": "Mon, 28 Sep 2026 19:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "publishedAt": "Wed, 23 Sep 2026 13:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "publishedAt": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "description": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "publishedAt": "Mon, 28 Sep 2026 07:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -80,13 +70,23 @@
     "type": "rss"
   },
   {
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "publishedAt": "Wed, 23 Sep 2026 16:00:57 +0000",
-    "source": "Google DeepMind News",
+    "title": "Are you a Codex Original?",
+    "description": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "url": "https://openai.com/form/codex-originals",
+    "publishedAt": "Mon, 28 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI News",
     "category": "AI News",
-    "importance": 6,
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "description": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "publishedAt": "Mon, 28 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   },
   {
@@ -95,56 +95,6 @@
     "url": "https://openai.com/index/proaction",
     "publishedAt": "Fri, 25 Sep 2026 19:00:00 GMT",
     "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "publishedAt": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "publishedAt": "Thu, 24 Sep 2026 16:20:39 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "description": "",
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "publishedAt": "Wed, 23 Sep 2026 15:25:14 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "description": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "publishedAt": "Tue, 08 Sep 2026 14:00:15 +0000",
-    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
