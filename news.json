@@ -10,20 +10,30 @@
     "type": "rss"
   },
   {
-    "title": "Introducing dots",
-    "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-    "url": "https://openai.com/index/introducing-dots",
-    "publishedAt": "Tue, 29 Sep 2026 00:00:00 GMT",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "publishedAt": "Wed, 30 Sep 2026 10:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "How we will do better for Australia",
-    "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "publishedAt": "Mon, 28 Sep 2026 19:00:00 GMT",
+    "title": "Helping small businesses put AI to work",
+    "description": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "publishedAt": "Wed, 30 Sep 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Introducing dots",
+    "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "url": "https://openai.com/index/introducing-dots",
+    "publishedAt": "Tue, 29 Sep 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -57,16 +67,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "Towards safety cases for frontier AI training",
-    "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "publishedAt": "Mon, 28 Sep 2026 19:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
     "type": "rss"
   },
   {
@@ -120,6 +120,16 @@
     "type": "rss"
   },
   {
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "description": "",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "publishedAt": "Wed, 30 Sep 2026 20:01:45 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "Introducing Gemini 3.8 Live with Live Avatar",
     "description": "",
     "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
@@ -134,16 +144,6 @@
     "description": "",
     "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
     "publishedAt": "Wed, 23 Sep 2026 15:25:14 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "publishedAt": "Tue, 15 Sep 2026 17:05:57 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,

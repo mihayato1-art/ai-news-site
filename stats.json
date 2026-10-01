@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
-  "todayArticles": 1,
-  "highImportanceCount": 3,
-  "mediumImportanceCount": 8,
+  "todayArticles": 0,
+  "highImportanceCount": 4,
+  "mediumImportanceCount": 7,
   "lowImportanceCount": 4,
-  "averageImportance": "6.5",
+  "averageImportance": "6.6",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -29,11 +29,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/9/24",
-      "articleCount": 1,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2026/9/25",
       "articleCount": 0,
       "highImportanceCount": 0
@@ -50,8 +45,8 @@
     },
     {
       "date": "2026/9/28",
-      "articleCount": 2,
-      "highImportanceCount": 1
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2026/9/29",
@@ -60,12 +55,17 @@
     },
     {
       "date": "2026/9/30",
-      "articleCount": 1,
+      "articleCount": 4,
+      "highImportanceCount": 2
+    },
+    {
+      "date": "2026/10/1",
+      "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-09-30T15:30:55.238Z",
-  "updateTime": "2026/9/30 15:30:55",
+  "lastUpdated": "2026-10-01T05:28:54.735Z",
+  "updateTime": "2026/10/1 5:28:54",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -75,15 +75,13 @@
   "detailed": {
     "articlesPerDay": {
       "2026/9/29": 3,
-      "2026/9/28": 2,
+      "2026/9/30": 4,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
       "2024/3/29": 1,
-      "2026/9/30": 1,
       "2026/9/23": 2,
-      "2026/9/24": 1,
-      "2026/9/15": 1
+      "2026/9/24": 1
     },
     "topKeywords": [
       {
@@ -96,7 +94,7 @@
       },
       {
         "keyword": "OpenAI",
-        "count": 3
+        "count": 4
       },
       {
         "keyword": "ChatGPT",
@@ -106,7 +104,7 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 45.333333333333336,
+      "averageTitleLength": 45.733333333333334,
       "sourceDiversity": 3
     }
   }
