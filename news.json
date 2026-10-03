@@ -10,30 +10,20 @@
     "type": "rss"
   },
   {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "url": "https://openai.com/index/chatham-financial",
+    "publishedAt": "Fri, 02 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "The eternal complement",
     "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
     "url": "https://openai.com/index/the-eternal-complement",
     "publishedAt": "Thu, 01 Oct 2026 17:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "publishedAt": "Wed, 30 Sep 2026 10:30:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Helping small businesses put AI to work",
-    "description": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "publishedAt": "Wed, 30 Sep 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -100,51 +90,11 @@
     "type": "rss"
   },
   {
-    "title": "Introducing SynthID Bio",
-    "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "publishedAt": "Wed, 30 Sep 2026 15:03:07 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "publishedAt": "Wed, 23 Sep 2026 16:00:57 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "description": "",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "publishedAt": "Wed, 30 Sep 2026 20:01:45 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "publishedAt": "Thu, 24 Sep 2026 16:20:39 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "description": "",
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "publishedAt": "Wed, 23 Sep 2026 15:25:14 +0000",
-    "source": "Google DeepMind News",
+    "title": "A model guide for the GPT-6 family",
+    "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "publishedAt": "Fri, 02 Oct 2026 16:15:00 GMT",
+    "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
