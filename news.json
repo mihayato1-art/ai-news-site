@@ -1,12 +1,42 @@
 [
   {
-    "title": "Building advertising for the way people use AI",
-    "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "publishedAt": "Mon, 05 Oct 2026 10:00:00 GMT",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "url": "https://openai.com/index/jump-trading",
+    "publishedAt": "Tue, 06 Oct 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "Sharing AI progress in mathematics",
+    "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "publishedAt": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Advancing computer use with Ironclad",
+    "description": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "publishedAt": "Tue, 06 Oct 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "publishedAt": "Tue, 06 Oct 2026 16:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -14,26 +44,6 @@
     "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
     "url": "https://openai.com/index/eu-text-provenance",
     "publishedAt": "Mon, 05 Oct 2026 15:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "url": "https://openai.com/index/chatham-financial",
-    "publishedAt": "Fri, 02 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "The eternal complement",
-    "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-    "url": "https://openai.com/index/the-eternal-complement",
-    "publishedAt": "Thu, 01 Oct 2026 17:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -87,66 +97,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing SynthID Bio",
-    "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "publishedAt": "Wed, 30 Sep 2026 15:03:07 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "publishedAt": "Wed, 23 Sep 2026 16:00:57 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "A model guide for the GPT-6 family",
-    "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-    "url": "https://openai.com/index/practical-guide-building-gpt-6",
-    "publishedAt": "Fri, 02 Oct 2026 16:15:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "description": "",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "publishedAt": "Wed, 30 Sep 2026 20:01:45 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "publishedAt": "Thu, 24 Sep 2026 16:20:39 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "description": "",
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "publishedAt": "Wed, 23 Sep 2026 15:25:14 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   }
 ]
