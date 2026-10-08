@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
   "todayArticles": 0,
-  "highImportanceCount": 5,
-  "mediumImportanceCount": 7,
+  "highImportanceCount": 4,
+  "mediumImportanceCount": 8,
   "lowImportanceCount": 3,
-  "averageImportance": "6.8",
+  "averageImportance": "6.9",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -29,11 +29,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/10/1",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2026/10/2",
       "articleCount": 0,
       "highImportanceCount": 0
@@ -50,22 +45,27 @@
     },
     {
       "date": "2026/10/5",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2026/10/6",
-      "articleCount": 5,
-      "highImportanceCount": 4
+      "articleCount": 3,
+      "highImportanceCount": 2
     },
     {
       "date": "2026/10/7",
+      "articleCount": 3,
+      "highImportanceCount": 2
+    },
+    {
+      "date": "2026/10/8",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-10-07T15:59:48.304Z",
-  "updateTime": "2026/10/7 15:59:48",
+  "lastUpdated": "2026-10-08T05:43:03.845Z",
+  "updateTime": "2026/10/8 5:43:03",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,8 +74,8 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/10/6": 5,
-      "2026/10/5": 1,
+      "2026/10/7": 3,
+      "2026/10/6": 3,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -87,11 +87,7 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 12
-      },
-      {
-        "keyword": "OpenAI",
-        "count": 5
+        "count": 11
       },
       {
         "keyword": "Google",
@@ -99,13 +95,17 @@
       },
       {
         "keyword": "ChatGPT",
-        "count": 1
+        "count": 4
+      },
+      {
+        "keyword": "OpenAI",
+        "count": 3
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 54.2,
+      "averageTitleLength": 53.53333333333333,
       "sourceDiversity": 3
     }
   }

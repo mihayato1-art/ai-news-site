@@ -1,5 +1,15 @@
 [
   {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "url": "https://openai.com/index/radisson",
+    "publishedAt": "Wed, 07 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "How Jump Trading is scaling quant research with ChatGPT",
     "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
     "url": "https://openai.com/index/jump-trading",
@@ -7,6 +17,16 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "publishedAt": "Wed, 07 Oct 2026 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -20,33 +40,13 @@
     "type": "rss"
   },
   {
-    "title": "Advancing computer use with Ironclad",
-    "description": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "publishedAt": "Tue, 06 Oct 2026 10:00:00 GMT",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "description": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "publishedAt": "Wed, 07 Oct 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "url": "https://openai.com/index/atlassian-partnership",
-    "publishedAt": "Tue, 06 Oct 2026 16:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Our approach to EU text provenance rules",
-    "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-    "url": "https://openai.com/index/eu-text-provenance",
-    "publishedAt": "Mon, 05 Oct 2026 15:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
