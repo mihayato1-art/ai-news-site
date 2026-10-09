@@ -1,5 +1,15 @@
 [
   {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "url": "https://openai.com/index/sophos",
+    "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
     "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
     "url": "https://openai.com/index/pollo-ai",
@@ -14,16 +24,6 @@
     "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
     "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
     "publishedAt": "Thu, 08 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "url": "https://openai.com/index/teens-learn-and-plan",
-    "publishedAt": "Wed, 07 Oct 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
