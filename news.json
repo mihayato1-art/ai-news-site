@@ -1,22 +1,12 @@
 [
   {
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-    "url": "https://openai.com/index/radisson",
-    "publishedAt": "Wed, 07 Oct 2026 07:00:00 GMT",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+    "url": "https://openai.com/index/pollo-ai",
+    "publishedAt": "Thu, 08 Oct 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-    "url": "https://openai.com/index/jump-trading",
-    "publishedAt": "Tue, 06 Oct 2026 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -40,10 +30,10 @@
     "type": "rss"
   },
   {
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "description": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "url": "https://openai.com/index/gpt-6-for-everyone",
-    "publishedAt": "Wed, 07 Oct 2026 00:00:00 GMT",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "url": "https://openai.com/index/oracle",
+    "publishedAt": "Thu, 08 Oct 2026 16:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 7,
@@ -77,6 +67,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "description": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+    "url": "https://openai.com/index/legalon-halves-codex-costs",
+    "publishedAt": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
