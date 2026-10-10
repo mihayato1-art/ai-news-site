@@ -1,10 +1,10 @@
 {
-  "totalArticles": 10,
+  "totalArticles": 15,
   "todayArticles": 0,
   "highImportanceCount": 2,
-  "mediumImportanceCount": 7,
-  "lowImportanceCount": 1,
-  "averageImportance": "6.7",
+  "mediumImportanceCount": 9,
+  "lowImportanceCount": 4,
+  "averageImportance": "6.3",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -13,12 +13,16 @@
     {
       "source": "Google Research Blog",
       "count": 5
+    },
+    {
+      "source": "Google DeepMind News",
+      "count": 5
     }
   ],
   "categoryStats": [
     {
       "category": "AI News",
-      "count": 10
+      "count": 15
     }
   ],
   "totalTools": 6,
@@ -36,7 +40,7 @@
     },
     {
       "date": "2026/10/6",
-      "articleCount": 0,
+      "articleCount": 1,
       "highImportanceCount": 0
     },
     {
@@ -60,8 +64,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-10-10T05:30:27.725Z",
-  "updateTime": "2026/10/10 5:30:27",
+  "lastUpdated": "2026-10-10T14:57:32.402Z",
+  "updateTime": "2026/10/10 14:57:32",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -75,12 +79,16 @@
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
-      "2024/3/29": 1
+      "2024/3/29": 1,
+      "2026/9/30": 2,
+      "2026/9/23": 1,
+      "2026/10/6": 1,
+      "2026/9/24": 1
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 8
+        "count": 10
       },
       {
         "keyword": "Google",
@@ -98,8 +106,8 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 63.1,
-      "sourceDiversity": 2
+      "averageTitleLength": 58.4,
+      "sourceDiversity": 3
     }
   }
 }
