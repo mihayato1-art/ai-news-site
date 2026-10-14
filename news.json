@@ -10,16 +10,6 @@
     "type": "rss"
   },
   {
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "url": "https://openai.com/index/pollo-ai",
-    "publishedAt": "Thu, 08 Oct 2026 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
     "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
     "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
     "url": "https://openai.com/index/oracle",
@@ -57,6 +47,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "The EU’s next chapter in AI is agentic",
+    "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "publishedAt": "Wed, 14 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
