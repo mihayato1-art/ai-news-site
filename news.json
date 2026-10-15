@@ -1,22 +1,32 @@
 [
   {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "url": "https://openai.com/index/sophos",
-    "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "url": "https://openai.com/index/sentinelone",
+    "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "url": "https://openai.com/index/oracle",
-    "publishedAt": "Thu, 08 Oct 2026 16:00:00 GMT",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 7,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -50,20 +60,20 @@
     "type": "rss"
   },
   {
-    "title": "The EU’s next chapter in AI is agentic",
-    "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "publishedAt": "Wed, 14 Oct 2026 00:00:00 GMT",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "url": "https://openai.com/index/third-moment-research",
+    "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
     "type": "rss"
   },
   {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "publishedAt": "Tue, 13 Oct 2026 12:00:00 GMT",
+    "title": "The EU’s next chapter in AI is agentic",
+    "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "publishedAt": "Wed, 14 Oct 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
@@ -90,11 +100,51 @@
     "type": "rss"
   },
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "url": "https://openai.com/index/asana-browser-agent",
-    "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "source": "OpenAI News",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "publishedAt": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "description": "",
+    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "publishedAt": "Tue, 13 Oct 2026 19:43:07 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini 4 Argon for Robotics",
+    "description": "",
+    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "publishedAt": "Tue, 13 Oct 2026 16:01:58 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "description": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "publishedAt": "Tue, 13 Oct 2026 16:01:52 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "description": "",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "publishedAt": "Tue, 06 Oct 2026 19:57:04 +0000",
+    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
