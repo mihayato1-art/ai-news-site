@@ -10,20 +10,20 @@
     "type": "rss"
   },
   {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "url": "https://openai.com/index/sentinelone",
-    "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "publishedAt": "Thu, 15 Oct 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "url": "https://openai.com/index/block-ai-powered-security",
-    "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "url": "https://openai.com/index/sentinelone",
+    "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -60,20 +60,10 @@
     "type": "rss"
   },
   {
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "url": "https://openai.com/index/third-moment-research",
-    "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "The EU’s next chapter in AI is agentic",
-    "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "publishedAt": "Wed, 14 Oct 2026 00:00:00 GMT",
+    "title": "Teaching students to think and learn through questions",
+    "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "publishedAt": "Thu, 15 Oct 2026 13:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 6,
@@ -110,6 +100,26 @@
     "type": "rss"
   },
   {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "publishedAt": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
     "title": "Developing Gemini 4 Argon responsibly and safely",
     "description": "",
     "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
@@ -134,16 +144,6 @@
     "description": "",
     "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
     "publishedAt": "Tue, 13 Oct 2026 16:01:52 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "description": "",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "publishedAt": "Tue, 06 Oct 2026 19:57:04 +0000",
     "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
