@@ -1,15 +1,5 @@
 [
   {
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 10,
-    "type": "rss"
-  },
-  {
     "title": "Sullivan & Cromwell brings legal expertise into agreement review",
     "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
     "url": "https://openai.com/index/sullivan-cromwell",
@@ -20,13 +10,13 @@
     "type": "rss"
   },
   {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "url": "https://openai.com/index/sentinelone",
-    "publishedAt": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 8,
+    "importance": 7,
     "type": "rss"
   },
   {
@@ -60,6 +50,16 @@
     "type": "rss"
   },
   {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "publishedAt": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Teaching students to think and learn through questions",
     "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
     "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
@@ -90,61 +90,11 @@
     "type": "rss"
   },
   {
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "publishedAt": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
     "title": "Bringing GPT-Rosalind to academic research labs",
     "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "publishedAt": "Thu, 15 Oct 2026 19:00:00 GMT",
     "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "description": "",
-    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "publishedAt": "Tue, 13 Oct 2026 19:43:07 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Argon for Robotics",
-    "description": "",
-    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "publishedAt": "Tue, 13 Oct 2026 16:01:58 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-    "publishedAt": "Tue, 13 Oct 2026 16:01:52 +0000",
-    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
