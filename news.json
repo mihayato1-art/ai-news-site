@@ -80,16 +80,6 @@
     "type": "rss"
   },
   {
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "publishedAt": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
     "title": "Benefit Street Partners answers questions faster with Codex",
     "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
     "url": "https://openai.com/index/benefit-street-partners",
@@ -105,46 +95,6 @@
     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "publishedAt": "Thu, 15 Oct 2026 19:00:00 GMT",
     "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "description": "",
-    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "publishedAt": "Tue, 13 Oct 2026 19:43:07 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Argon for Robotics",
-    "description": "",
-    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "publishedAt": "Tue, 13 Oct 2026 16:01:58 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-    "publishedAt": "Tue, 13 Oct 2026 16:01:52 +0000",
-    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
