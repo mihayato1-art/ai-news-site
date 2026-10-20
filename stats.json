@@ -1,10 +1,10 @@
 {
-  "totalArticles": 15,
+  "totalArticles": 10,
   "todayArticles": 0,
   "highImportanceCount": 1,
-  "mediumImportanceCount": 8,
-  "lowImportanceCount": 6,
-  "averageImportance": "6.1",
+  "mediumImportanceCount": 7,
+  "lowImportanceCount": 2,
+  "averageImportance": "6.6",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -13,16 +13,12 @@
     {
       "source": "Google Research Blog",
       "count": 5
-    },
-    {
-      "source": "Google DeepMind News",
-      "count": 5
     }
   ],
   "categoryStats": [
     {
       "category": "AI News",
-      "count": 15
+      "count": 10
     }
   ],
   "totalTools": 6,
@@ -30,12 +26,12 @@
   "weeklyStats": [
     {
       "date": "2026/10/14",
-      "articleCount": 1,
+      "articleCount": 0,
       "highImportanceCount": 0
     },
     {
       "date": "2026/10/15",
-      "articleCount": 2,
+      "articleCount": 1,
       "highImportanceCount": 0
     },
     {
@@ -64,8 +60,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-10-20T04:29:59.644Z",
-  "updateTime": "2026/10/20 4:29:59",
+  "lastUpdated": "2026-10-20T14:01:12.142Z",
+  "updateTime": "2026/10/20 14:01:12",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -80,18 +76,16 @@
       "2024/3/20": 2,
       "2024/3/18": 1,
       "2024/3/29": 1,
-      "2026/10/14": 1,
-      "2026/10/15": 2,
-      "2026/10/13": 3
+      "2026/10/15": 1
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 8
+        "count": 7
       },
       {
         "keyword": "Google",
-        "count": 7
+        "count": 5
       },
       {
         "keyword": "ChatGPT",
@@ -105,8 +99,8 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 60.53333333333333,
-      "sourceDiversity": 3
+      "averageTitleLength": 60.7,
+      "sourceDiversity": 2
     }
   }
 }
