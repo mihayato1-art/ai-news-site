@@ -10,10 +10,20 @@
     "type": "rss"
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "title": "OpenAI acquires Orchestra Bio",
+    "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "publishedAt": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "publishedAt": "Tue, 20 Oct 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 7,
@@ -50,6 +60,16 @@
     "type": "rss"
   },
   {
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "description": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "url": "https://openai.com/index/terminal-x",
+    "publishedAt": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "How Itaú is building generative AI for its entire customer base",
     "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
     "url": "https://openai.com/index/itau-generative-ai",
@@ -80,21 +100,51 @@
     "type": "rss"
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "url": "https://openai.com/index/benefit-street-partners",
-    "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI News",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "publishedAt": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
   },
   {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "publishedAt": "Thu, 15 Oct 2026 19:00:00 GMT",
-    "source": "OpenAI News",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "description": "",
+    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "publishedAt": "Tue, 13 Oct 2026 19:43:07 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini 4 Argon for Robotics",
+    "description": "",
+    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "publishedAt": "Tue, 13 Oct 2026 16:01:58 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "description": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "publishedAt": "Tue, 13 Oct 2026 16:01:52 +0000",
+    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
