@@ -1,10 +1,10 @@
 {
   "totalArticles": 15,
-  "todayArticles": 0,
-  "highImportanceCount": 2,
-  "mediumImportanceCount": 9,
+  "todayArticles": 4,
+  "highImportanceCount": 3,
+  "mediumImportanceCount": 8,
   "lowImportanceCount": 4,
-  "averageImportance": "6.4",
+  "averageImportance": "6.6",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -35,7 +35,7 @@
     },
     {
       "date": "2026/10/16",
-      "articleCount": 1,
+      "articleCount": 0,
       "highImportanceCount": 0
     },
     {
@@ -50,22 +50,22 @@
     },
     {
       "date": "2026/10/19",
-      "articleCount": 1,
-      "highImportanceCount": 1
+      "articleCount": 0,
+      "highImportanceCount": 0
     },
     {
       "date": "2026/10/20",
-      "articleCount": 3,
-      "highImportanceCount": 1
+      "articleCount": 1,
+      "highImportanceCount": 0
     },
     {
       "date": "2026/10/21",
-      "articleCount": 0,
-      "highImportanceCount": 0
+      "articleCount": 4,
+      "highImportanceCount": 3
     }
   ],
-  "lastUpdated": "2026-10-21T04:21:57.992Z",
-  "updateTime": "2026/10/21 4:21:57",
+  "lastUpdated": "2026-10-21T14:17:10.243Z",
+  "updateTime": "2026/10/21 14:17:10",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,12 +74,11 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/10/19": 1,
-      "2026/10/20": 3,
+      "2026/10/21": 4,
+      "2026/10/20": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
-      "2026/10/16": 1,
       "2024/3/29": 1,
       "2026/10/14": 1,
       "2026/10/15": 1,
@@ -88,25 +87,25 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 10
+        "count": 9
       },
       {
         "keyword": "Google",
-        "count": 7
+        "count": 8
       },
       {
         "keyword": "ChatGPT",
-        "count": 2
+        "count": 3
       },
       {
         "keyword": "OpenAI",
-        "count": 2
+        "count": 3
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 59.53333333333333,
+      "averageTitleLength": 63.266666666666666,
       "sourceDiversity": 3
     }
   }
