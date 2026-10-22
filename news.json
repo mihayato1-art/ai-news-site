@@ -1,12 +1,22 @@
 [
   {
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "description": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "url": "https://openai.com/index/building-chatgpt-ad-stack",
-    "publishedAt": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "url": "https://openai.com/index/att-legal",
+    "publishedAt": "Wed, 21 Oct 2026 17:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "Broad access through consistent standards",
+    "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "publishedAt": "Wed, 21 Oct 2026 21:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -20,30 +30,10 @@
     "type": "rss"
   },
   {
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "publishedAt": "Wed, 21 Oct 2026 04:50:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
     "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
     "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
     "publishedAt": "Wed, 21 Oct 2026 13:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-    "url": "https://openai.com/index/ted-taylor-restaurant",
-    "publishedAt": "Tue, 20 Oct 2026 10:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 7,
@@ -77,6 +67,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "description": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "publishedAt": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
