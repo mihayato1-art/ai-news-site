@@ -1,10 +1,10 @@
 {
-  "totalArticles": 15,
-  "todayArticles": 0,
-  "highImportanceCount": 3,
-  "mediumImportanceCount": 8,
-  "lowImportanceCount": 4,
-  "averageImportance": "6.4",
+  "totalArticles": 10,
+  "todayArticles": 1,
+  "highImportanceCount": 4,
+  "mediumImportanceCount": 6,
+  "lowImportanceCount": 0,
+  "averageImportance": "7.1",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -13,16 +13,12 @@
     {
       "source": "Google Research Blog",
       "count": 5
-    },
-    {
-      "source": "Google DeepMind News",
-      "count": 5
     }
   ],
   "categoryStats": [
     {
       "category": "AI News",
-      "count": 15
+      "count": 10
     }
   ],
   "totalTools": 6,
@@ -55,17 +51,17 @@
     },
     {
       "date": "2026/10/21",
-      "articleCount": 5,
+      "articleCount": 4,
       "highImportanceCount": 3
     },
     {
       "date": "2026/10/22",
-      "articleCount": 0,
-      "highImportanceCount": 0
+      "articleCount": 1,
+      "highImportanceCount": 1
     }
   ],
-  "lastUpdated": "2026-10-22T04:21:10.046Z",
-  "updateTime": "2026/10/22 4:21:10",
+  "lastUpdated": "2026-10-22T14:16:33.183Z",
+  "updateTime": "2026/10/22 14:16:33",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,14 +70,12 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/10/21": 5,
+      "2026/10/22": 1,
+      "2026/10/21": 4,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
-      "2024/3/29": 1,
-      "2026/10/14": 1,
-      "2026/10/15": 1,
-      "2026/10/13": 3
+      "2024/3/29": 1
     },
     "topKeywords": [
       {
@@ -90,22 +84,18 @@
       },
       {
         "keyword": "Google",
-        "count": 8
+        "count": 6
       },
       {
         "keyword": "OpenAI",
-        "count": 3
-      },
-      {
-        "keyword": "ChatGPT",
-        "count": 1
+        "count": 4
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 62.53333333333333,
-      "sourceDiversity": 3
+      "averageTitleLength": 57.1,
+      "sourceDiversity": 2
     }
   }
 }
