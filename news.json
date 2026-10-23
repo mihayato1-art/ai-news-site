@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "description": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "publishedAt": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "What FDE means at OpenAI",
     "description": "What forward deployed engineering means at OpenAI",
     "url": "https://openai.com/index/forward-deployed-engineering-means",
@@ -24,16 +34,6 @@
     "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
     "url": "https://openai.com/index/att-legal",
     "publishedAt": "Wed, 21 Oct 2026 17:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Broad access through consistent standards",
-    "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "url": "https://openai.com/index/broad-access-through-consistent-standards",
-    "publishedAt": "Wed, 21 Oct 2026 21:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -90,61 +90,11 @@
     "type": "rss"
   },
   {
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "publishedAt": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
     "title": "Build more responsive apps with the Decisions API",
     "description": "Fast, focused, low-cost decisions for any application.",
     "url": "https://openai.com/index/decisions-api",
     "publishedAt": "Thu, 22 Oct 2026 19:00:00 GMT",
     "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "publishedAt": "Thu, 22 Oct 2026 14:30:24 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "description": "",
-    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "publishedAt": "Tue, 13 Oct 2026 19:43:07 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Argon for Robotics",
-    "description": "",
-    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "publishedAt": "Tue, 13 Oct 2026 16:01:58 +0000",
-    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
