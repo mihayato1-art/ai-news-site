@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "description": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "publishedAt": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Securing our frontier model training environment",
     "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
     "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
@@ -24,16 +34,6 @@
     "description": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "publishedAt": "Fri, 23 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "What FDE means at OpenAI",
-    "description": "What forward deployed engineering means at OpenAI",
-    "url": "https://openai.com/index/forward-deployed-engineering-means",
-    "publishedAt": "Thu, 22 Oct 2026 06:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
