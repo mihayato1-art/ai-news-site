@@ -80,16 +80,6 @@
     "type": "rss"
   },
   {
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "publishedAt": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
     "description": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
     "url": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -105,46 +95,6 @@
     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
     "publishedAt": "Mon, 26 Oct 2026 13:45:00 GMT",
     "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "publishedAt": "Thu, 22 Oct 2026 14:30:24 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "description": "",
-    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "publishedAt": "Tue, 13 Oct 2026 19:43:07 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Argon for Robotics",
-    "description": "",
-    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "publishedAt": "Tue, 13 Oct 2026 16:01:58 +0000",
-    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
