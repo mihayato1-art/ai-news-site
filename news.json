@@ -1,12 +1,32 @@
 [
   {
-    "title": "ChatGPT’s expanding world of work",
-    "description": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "publishedAt": "Mon, 26 Oct 2026 10:00:00 GMT",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "description": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "publishedAt": "Tue, 27 Oct 2026 07:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 10,
+    "type": "rss"
+  },
+  {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "description": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "url": "https://openai.com/index/retell-ai",
+    "publishedAt": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "description": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "publishedAt": "Tue, 27 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -14,16 +34,6 @@
     "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "publishedAt": "Mon, 26 Oct 2026 14:30:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "How Fanatics and OpenAI streamline the fan experience",
-    "description": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "publishedAt": "Mon, 26 Oct 2026 07:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -84,16 +94,6 @@
     "description": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
     "url": "https://openai.com/index/greptile-code-review-codex-astra",
     "publishedAt": "Mon, 26 Oct 2026 22:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "description": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "publishedAt": "Mon, 26 Oct 2026 13:45:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 5,
