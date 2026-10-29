@@ -98,55 +98,5 @@
     "category": "AI News",
     "importance": 6,
     "type": "rss"
-  },
-  {
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "publishedAt": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Carbon: Our next frontier model",
-    "description": "",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Genie 4: A new generation of world simulation",
-    "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "publishedAt": "Tue, 27 Oct 2026 16:01:38 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "publishedAt": "Thu, 22 Oct 2026 14:30:24 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
   }
 ]

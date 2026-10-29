@@ -1,10 +1,10 @@
 {
-  "totalArticles": 15,
+  "totalArticles": 10,
   "todayArticles": 0,
   "highImportanceCount": 4,
-  "mediumImportanceCount": 7,
-  "lowImportanceCount": 4,
-  "averageImportance": "6.9",
+  "mediumImportanceCount": 6,
+  "lowImportanceCount": 0,
+  "averageImportance": "7.7",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -13,16 +13,12 @@
     {
       "source": "Google Research Blog",
       "count": 5
-    },
-    {
-      "source": "Google DeepMind News",
-      "count": 5
     }
   ],
   "categoryStats": [
     {
       "category": "AI News",
-      "count": 15
+      "count": 10
     }
   ],
   "totalTools": 6,
@@ -50,12 +46,12 @@
     },
     {
       "date": "2026/10/27",
-      "articleCount": 3,
+      "articleCount": 2,
       "highImportanceCount": 2
     },
     {
       "date": "2026/10/28",
-      "articleCount": 4,
+      "articleCount": 3,
       "highImportanceCount": 2
     },
     {
@@ -64,8 +60,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-10-29T05:26:46.007Z",
-  "updateTime": "2026/10/29 5:26:46",
+  "lastUpdated": "2026-10-29T15:46:16.411Z",
+  "updateTime": "2026/10/29 15:46:16",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -74,24 +70,21 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/10/28": 4,
-      "2026/10/27": 3,
+      "2026/10/28": 3,
+      "2026/10/27": 2,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
-      "2024/3/29": 1,
-      "2026/10/14": 1,
-      "2026/10/22": 1,
-      "2026/10/15": 1
+      "2024/3/29": 1
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 11
+        "count": 10
       },
       {
         "keyword": "Google",
-        "count": 7
+        "count": 5
       },
       {
         "keyword": "OpenAI",
@@ -105,8 +98,8 @@
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 60.666666666666664,
-      "sourceDiversity": 3
+      "averageTitleLength": 60,
+      "sourceDiversity": 2
     }
   }
 }
