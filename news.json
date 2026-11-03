@@ -1,12 +1,12 @@
 [
   {
-    "title": "Community safety report and new protections for teens",
-    "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "publishedAt": "Fri, 30 Oct 2026 09:00:00 GMT",
+    "title": "Scaling Git at OpenAI",
+    "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "publishedAt": "Mon, 02 Nov 2026 15:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -20,20 +20,20 @@
     "type": "rss"
   },
   {
-    "title": "Making it easier for websites to express AI training preferences",
-    "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "publishedAt": "Fri, 30 Oct 2026 09:30:00 GMT",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "publishedAt": "Mon, 02 Nov 2026 18:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
     "type": "rss"
   },
   {
-    "title": "Fair use benefits everyone",
-    "description": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "url": "https://openai.com/index/fair-use-benefits-everyone",
-    "publishedAt": "Fri, 30 Oct 2026 00:00:00 GMT",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "publishedAt": "Mon, 02 Nov 2026 18:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -97,56 +97,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Speeding up planning decisions with AI",
-    "description": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "publishedAt": "Fri, 30 Oct 2026 14:18:30 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Carbon: Our next frontier model",
-    "description": "",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Genie 4: A new generation of world simulation",
-    "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "publishedAt": "Tue, 27 Oct 2026 16:01:38 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "publishedAt": "Thu, 22 Oct 2026 14:30:24 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "publishedAt": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
     "type": "rss"
   }
 ]
