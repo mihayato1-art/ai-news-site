@@ -1,5 +1,15 @@
 [
   {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "url": "https://openai.com/index/heimstaden",
+    "publishedAt": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 10,
+    "type": "rss"
+  },
+  {
     "title": "Scaling Git at OpenAI",
     "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
     "url": "https://openai.com/index/scaling-git-at-openai",
@@ -20,9 +30,9 @@
     "type": "rss"
   },
   {
-    "title": "Rewarding defenders with bigger bug bounties",
-    "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "publishedAt": "Mon, 02 Nov 2026 18:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -30,9 +40,9 @@
     "type": "rss"
   },
   {
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "publishedAt": "Mon, 02 Nov 2026 18:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
@@ -67,16 +77,6 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
-    "type": "rss"
-  },
-  {
-    "title": "LifeVal",
-    "description": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-    "url": "https://openai.com/index/lifeval",
-    "publishedAt": "Mon, 02 Nov 2026 09:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 6,
     "type": "rss"
   },
   {
