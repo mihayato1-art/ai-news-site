@@ -10,30 +10,20 @@
     "type": "rss"
   },
   {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "publishedAt": "Wed, 04 Nov 2026 14:30:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "How Cisco defends at machine speed with OpenAI",
     "description": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
     "url": "https://openai.com/index/cisco-cyber",
     "publishedAt": "Tue, 03 Nov 2026 08:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-    "description": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-    "publishedAt": "Tue, 03 Nov 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Scaling Git at OpenAI",
-    "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-    "url": "https://openai.com/index/scaling-git-at-openai",
-    "publishedAt": "Mon, 02 Nov 2026 15:30:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -77,6 +67,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 7,
+    "type": "rss"
+  },
+  {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "publishedAt": "Wed, 04 Nov 2026 07:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
     "type": "rss"
   },
   {
