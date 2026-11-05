@@ -1,5 +1,15 @@
 [
   {
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "publishedAt": "Thu, 05 Nov 2026 02:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
     "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
     "url": "https://openai.com/index/openai-to-acquire-pierre",
@@ -90,11 +100,51 @@
     "type": "rss"
   },
   {
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "url": "https://openai.com/index/devrev-enterprise-self-service",
-    "publishedAt": "Wed, 04 Nov 2026 00:00:00 GMT",
-    "source": "OpenAI News",
+    "title": "Speeding up planning decisions with AI",
+    "description": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "publishedAt": "Fri, 30 Oct 2026 14:18:30 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "publishedAt": "Tue, 03 Nov 2026 17:01:49 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "description": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Genie 4: A new generation of world simulation",
+    "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "publishedAt": "Tue, 27 Oct 2026 16:01:38 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "publishedAt": "Thu, 22 Oct 2026 14:30:24 +0000",
+    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
