@@ -90,11 +90,61 @@
     "type": "rss"
   },
   {
+    "title": "Speeding up planning decisions with AI",
+    "description": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "publishedAt": "Fri, 30 Oct 2026 14:18:30 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Cult.fit builds operational muscle with Codex",
     "description": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
     "url": "https://openai.com/index/cultfit-builds-with-codex",
     "publishedAt": "Thu, 05 Nov 2026 20:00:00 GMT",
     "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "description": "",
+    "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "publishedAt": "Thu, 05 Nov 2026 17:05:16 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "publishedAt": "Tue, 03 Nov 2026 17:01:49 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "description": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Genie 4: A new generation of world simulation",
+    "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "publishedAt": "Tue, 27 Oct 2026 16:01:38 +0000",
+    "source": "Google DeepMind News",
     "category": "AI News",
     "importance": 5,
     "type": "rss"
