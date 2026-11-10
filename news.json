@@ -10,6 +10,26 @@
     "type": "rss"
   },
   {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "url": "https://openai.com/index/control-room",
+    "publishedAt": "Mon, 09 Nov 2026 13:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "publishedAt": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "Kuken Industries searches 70 years of drawings in minutes",
     "description": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
     "url": "https://openai.com/index/kuken",
@@ -24,26 +44,6 @@
     "description": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
     "url": "https://openai.com/index/partnering-with-hacktron",
     "publishedAt": "Fri, 06 Nov 2026 08:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "description": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "publishedAt": "Fri, 06 Nov 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Australian universities are creating AI-native graduates",
-    "description": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "publishedAt": "Thu, 05 Nov 2026 17:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
@@ -97,6 +97,56 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Speeding up planning decisions with AI",
+    "description": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "publishedAt": "Fri, 30 Oct 2026 14:18:30 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "description": "",
+    "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "publishedAt": "Thu, 05 Nov 2026 17:05:16 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "publishedAt": "Tue, 03 Nov 2026 17:01:49 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "description": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "publishedAt": "Wed, 28 Oct 2026 17:00:58 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
+    "type": "rss"
+  },
+  {
+    "title": "Genie 4: A new generation of world simulation",
+    "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "publishedAt": "Tue, 27 Oct 2026 16:01:38 +0000",
+    "source": "Google DeepMind News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   }
 ]
