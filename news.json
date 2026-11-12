@@ -1,12 +1,12 @@
 [
   {
-    "title": "Helping caregivers use AI in everyday life",
-    "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "publishedAt": "Tue, 10 Nov 2026 12:00:00 GMT",
+    "title": "Supporting research on AI and children’s safety",
+    "description": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "url": "https://openai.com/index/children-first-declaration",
+    "publishedAt": "Thu, 12 Nov 2026 00:00:00 GMT",
     "source": "OpenAI News",
     "category": "AI News",
-    "importance": 10,
+    "importance": 8,
     "type": "rss"
   },
   {
@@ -17,16 +17,6 @@
     "source": "OpenAI News",
     "category": "AI News",
     "importance": 8,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Businesses in ChatGPT",
-    "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "url": "https://openai.com/index/introducing-businesses-chatgpt",
-    "publishedAt": "Tue, 10 Nov 2026 10:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 7,
     "type": "rss"
   },
   {
@@ -97,6 +87,16 @@
     "source": "Google Research Blog",
     "category": "AI News",
     "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "description": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "publishedAt": "Thu, 12 Nov 2026 09:30:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 5,
     "type": "rss"
   }
 ]
