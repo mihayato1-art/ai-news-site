@@ -2,9 +2,9 @@
   "totalArticles": 10,
   "todayArticles": 0,
   "highImportanceCount": 3,
-  "mediumImportanceCount": 6,
-  "lowImportanceCount": 1,
-  "averageImportance": "6.9",
+  "mediumImportanceCount": 7,
+  "lowImportanceCount": 0,
+  "averageImportance": "7.0",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -25,11 +25,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/11/9",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2026/11/10",
       "articleCount": 0,
       "highImportanceCount": 0
@@ -41,8 +36,8 @@
     },
     {
       "date": "2026/11/12",
-      "articleCount": 3,
-      "highImportanceCount": 2
+      "articleCount": 1,
+      "highImportanceCount": 1
     },
     {
       "date": "2026/11/13",
@@ -56,12 +51,17 @@
     },
     {
       "date": "2026/11/15",
+      "articleCount": 2,
+      "highImportanceCount": 1
+    },
+    {
+      "date": "2026/11/16",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-11-15T16:00:17.673Z",
-  "updateTime": "2026/11/15 16:00:17",
+  "lastUpdated": "2026-11-16T05:59:27.479Z",
+  "updateTime": "2026/11/16 5:59:27",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -70,8 +70,9 @@
   },
   "detailed": {
     "articlesPerDay": {
+      "2026/11/15": 2,
       "2026/11/13": 2,
-      "2026/11/12": 3,
+      "2026/11/12": 1,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -80,7 +81,7 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 8
+        "count": 9
       },
       {
         "keyword": "Google",
@@ -88,17 +89,17 @@
       },
       {
         "keyword": "OpenAI",
-        "count": 2
+        "count": 3
       },
       {
         "keyword": "ChatGPT",
-        "count": 2
+        "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 59.2,
+      "averageTitleLength": 55.5,
       "sourceDiversity": 2
     }
   }
