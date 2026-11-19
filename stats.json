@@ -1,13 +1,13 @@
 {
   "totalArticles": 35,
-  "todayArticles": 0,
+  "todayArticles": 1,
   "highImportanceCount": 3,
-  "mediumImportanceCount": 20,
-  "lowImportanceCount": 12,
-  "averageImportance": "6.0",
+  "mediumImportanceCount": 24,
+  "lowImportanceCount": 8,
+  "averageImportance": "6.1",
   "sourceStats": [
     {
-      "source": "Prtimes.jp",
+      "source": "Machicon.jp",
       "count": 6
     },
     {
@@ -23,27 +23,27 @@
       "count": 5
     },
     {
-      "source": "CNET",
+      "source": "Ryukoku.ac.jp",
       "count": 3
     },
     {
-      "source": "Itmedia.co.jp",
+      "source": "Prtimes.jp",
+      "count": 2
+    },
+    {
+      "source": "Livedoor.com",
+      "count": 2
+    },
+    {
+      "source": "Impress.co.jp",
+      "count": 2
+    },
+    {
+      "source": "Kindou.info",
       "count": 1
     },
     {
-      "source": "Machicon.jp",
-      "count": 1
-    },
-    {
-      "source": "Classmethod.jp",
-      "count": 1
-    },
-    {
-      "source": "Appbank.net",
-      "count": 1
-    },
-    {
-      "source": "ZDNet",
+      "source": "Danshihack.com",
       "count": 1
     }
   ],
@@ -83,17 +83,17 @@
     },
     {
       "date": "2026/11/18",
-      "articleCount": 27,
-      "highImportanceCount": 3
+      "articleCount": 26,
+      "highImportanceCount": 2
     },
     {
       "date": "2026/11/19",
-      "articleCount": 0,
-      "highImportanceCount": 0
+      "articleCount": 1,
+      "highImportanceCount": 1
     }
   ],
-  "lastUpdated": "2026-11-19T06:59:51.225Z",
-  "updateTime": "2026/11/19 6:59:51",
+  "lastUpdated": "2026-11-19T17:54:13.382Z",
+  "updateTime": "2026/11/19 17:54:13",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -102,7 +102,8 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/11/18": 27,
+      "2026/11/19": 1,
+      "2026/11/18": 26,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
@@ -114,7 +115,7 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 22
+        "count": 26
       },
       {
         "keyword": "Google",
@@ -126,23 +127,18 @@
       },
       {
         "keyword": "ChatGPT",
-        "count": 1
+        "count": 2
       },
       {
-        "keyword": "人工知能",
+        "keyword": "Meta",
         "count": 1
       }
     ],
-    "trendingTopics": [
-      {
-        "topic": "ロボット",
-        "mentions": 1
-      }
-    ],
+    "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 52.542857142857144,
-      "sourceDiversity": 16
+      "averageTitleLength": 56.714285714285715,
+      "sourceDiversity": 13
     }
   }
 }
