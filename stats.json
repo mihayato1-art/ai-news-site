@@ -1,15 +1,11 @@
 {
   "totalArticles": 35,
   "todayArticles": 0,
-  "highImportanceCount": 3,
-  "mediumImportanceCount": 20,
-  "lowImportanceCount": 12,
-  "averageImportance": "6.0",
+  "highImportanceCount": 1,
+  "mediumImportanceCount": 19,
+  "lowImportanceCount": 15,
+  "averageImportance": "5.8",
   "sourceStats": [
-    {
-      "source": "Prtimes.jp",
-      "count": 12
-    },
     {
       "source": "OpenAI News",
       "count": 5
@@ -23,23 +19,31 @@
       "count": 5
     },
     {
-      "source": "ZDNet",
+      "source": "Prtimes.jp",
+      "count": 5
+    },
+    {
+      "source": "Macotakara.jp",
       "count": 3
     },
     {
-      "source": "Itmedia.co.jp",
-      "count": 2
-    },
-    {
-      "source": "Matometanews.com",
-      "count": 1
-    },
-    {
       "source": "Impress.co.jp",
+      "count": 3
+    },
+    {
+      "source": "Esuteru.com",
       "count": 1
     },
     {
-      "source": "Ascii.jp",
+      "source": "Livedoor.jp",
+      "count": 1
+    },
+    {
+      "source": "Qiita.com",
+      "count": 1
+    },
+    {
+      "source": "Jetbrains.com",
       "count": 1
     }
   ],
@@ -80,7 +84,7 @@
     {
       "date": "2026/11/19",
       "articleCount": 25,
-      "highImportanceCount": 3
+      "highImportanceCount": 1
     },
     {
       "date": "2026/11/20",
@@ -88,8 +92,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-11-20T06:52:45.536Z",
-  "updateTime": "2026/11/20 6:52:45",
+  "lastUpdated": "2026-11-20T17:27:34.864Z",
+  "updateTime": "2026/11/20 17:27:34",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -111,34 +115,38 @@
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 23
+        "count": 19
       },
       {
         "keyword": "Google",
         "count": 5
       },
       {
-        "keyword": "OpenAI",
-        "count": 2
-      },
-      {
-        "keyword": "Microsoft",
-        "count": 2
-      },
-      {
         "keyword": "ChatGPT",
         "count": 1
       },
       {
+        "keyword": "OpenAI",
+        "count": 1
+      },
+      {
+        "keyword": "Microsoft",
+        "count": 1
+      },
+      {
         "keyword": "人工知能",
+        "count": 1
+      },
+      {
+        "keyword": "Meta",
         "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 47.65714285714286,
-      "sourceDiversity": 9
+      "averageTitleLength": 51.17142857142857,
+      "sourceDiversity": 15
     }
   }
 }
