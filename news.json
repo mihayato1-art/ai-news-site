@@ -10,6 +10,16 @@
     "type": "rss"
   },
   {
+    "title": "Combatting adversarial distillation",
+    "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "publishedAt": "Fri, 20 Nov 2026 10:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 8,
+    "type": "rss"
+  },
+  {
     "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
     "description": "Posted by Urs Köster, Software Engineer, Google Research\n\n\n\n\nTime series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new time series data), and continuously updating that assumption to form a posterior probability distribution. Traditional Bayesian approaches like Gaussian processes (GPs) and Structural Time Series are extensively used for modeling time series data, e.g., the commonly used Mauna Loa CO2 dataset. However, they often rely on domain experts to painstakingly select appropriate model components and may be computationally expensive. Alternatives such as neural networks lack interpretability, making it difficult to understand how they generate forecasts, and don't produce reliable confidence intervals. \n\n\n\nTo that end, we introduce AutoBNN, a new open-source package written in JAX. AutoBNN automates the discovery of interpretable time series forecasting models, provides high-quality uncertainty estimates, and scales effectively for use on large datasets. We describe how AutoBNN combines the interpretability of traditional probabilistic approaches with the scalability and flexibility of neural networks.\n\n\n\n    \nAutoBNN\nline of research that over the past decade has yielded improved predictive accuracy by modeling time series using GPs with learned kernel structures. The kernel function of a GP encodes assumptions about the function being modeled, such as the presence of trends, periodicity or noise.  With learned GP kernels, the kernel function is defined compositionally: it is either a base kernel (such as Linear, Quadratic, Periodic, Matérn or ExponentiatedQuadratic) or a composite that combines two or more kernel functions using operators such as Addition, Multiplication, or ChangePoint. This compositional kernel structure serves two related purposes. First, it is simple enough that a user who is an expert about their data, but not necessarily about GPs, can construct a reasonable prior for their time series. Second, techniques like Sequential Monte Carlo can be used for discrete searches over small structures and can output interpretable results.\nBayesian neural networks (BNNs) while retaining the compositional kernel structure. A BNN is a neural network with a probability distribution over weights rather than a fixed set of weights. This induces a distribution over outputs, capturing uncertainty in the predictions. BNNs bring the following advantages over GPs: First, training large GPs is computationally expensive, and traditional training algorithms scale as the cube of the number of data points in the time series. In contrast, for a fixed width, training a BNN will often be approximately linear in the number of data points. Second, BNNs lend themselves better to GPU and TPU hardware acceleration than GP training operations. Third, compositional BNNs can be easily combined with traditional deep BNNs, which have the ability to do feature discovery. One could imagine \"hybrid\" architectures, in which users specify a top-level structure of Add(Linear, Periodic, Deep), and the deep BNN is left to learn the contributions from potentially high-dimensional covariate information.\n\n\n\nHow might one translate a GP with compositional kernels into a BNN then? A single layer neural network will typically converge to a GP as the number of neurons (or \"width\") goes to infinity. More recently, researchers have discovered a correspondence in the other direction — many popular GP kernels (such as Matern, ExponentiatedQuadratic, Polynomial or Periodic) can be obtained as infinite-width BNNs with appropriately chosen activation functions and weight distributions. Furthermore, these BNNs remain close to the corresponding GP even when the width is very much less than infinite. For example, the figures below show the difference in the covariance between pairs of observations, and regression results of the true GPs and their corresponding width-10 neural network versions.\n\n\n\n\nComparison of Gram matrices between true GP kernels (top row) and their width 10 neural network approximations (bottom row).\n\n\n\nComparison of regression results between true GP kernels (top row) and their width 10 neural network approximations (bottom row).\n\nBNN analogues of the Addition and Multiplication operators over GPs, and input warping to produce periodic kernels. BNN addition is straightforwardly given by adding the outputs of the component BNNs. BNN multiplication is achieved by multiplying the activations of the hidden layers of the BNNs and then applying a shared dense layer. We are therefore limited to only multiplying BNNs with the same hidden width.\n\n\n\n    \nUsing AutoBNN\npackage is available within Tensorflow Probability. It is implemented in JAX and uses the flax.linen neural network library. It implements all of the base kernels and operators discussed so far (Linear, Quadratic, Matern, ExponentiatedQuadratic, Periodic, Addition, Multiplication) plus one new kernel and three new operators:  \n\n\n\n\na OneLayer kernel, a single hidden layer ReLU BNN,\n\n\na ChangePoint operator that allows smoothly switching between two kernels,\n\n\na LearnableChangePoint operator which is the same as ChangePoint except position and slope are given prior distributions and can be learnt from the data, and\n\n\na WeightedSum operator.\n\n\n\n\n\nWeightedSum combines two or more BNNs with learnable mixing weights, where the learnable weights follow a Dirichlet prior. By default, a flat Dirichlet distribution with concentration 1.0 is used.\n\n\n\nWeightedSums allow a \"soft\" version of structure discovery, i.e., training a linear combination of many possible models at once. In contrast to structure discovery with discrete structures, such as in AutoGP, this allows us to use standard gradient methods to learn structures, rather than using expensive discrete optimization. Instead of evaluating potential combinatorial structures in series, WeightedSum allows us to evaluate them in parallel. \n\n\n\nTo easily enable exploration, AutoBNN defines a number of model structures that contain either top-level or internal WeightedSums. The names of these models can be used as the first parameter in any of the estimator constructors, and include things like sum_of_stumps (the WeightedSum over all the base kernels) and sum_of_shallow (which adds all possible combinations of base kernels with all operators).\n\n\nIllustration of the sum_of_stumps model. The bars in the top row show the amount by which each base kernel contributes, and the bottom row shows the function represented by the base kernel. The resulting weighted sum is shown on the right.\n\nM3 dataset. The six base structures were ExponentiatedQuadratic (which is the same as the Radial Basis Function kernel, or RBF for short), Matern, Linear, Quadratic, OneLayer and Periodic kernels. The figure shows the MAP estimates of their weights over an ensemble of 32 particles. All of the high likelihood particles gave a large weight to the Periodic component, low weights to Linear, Quadratic and OneLayer, and a large weight to either RBF or Matern.\n\n\n\n\n\n\nParallel coordinates plot of the MAP estimates of the base kernel weights over 32 particles. The sum_of_stumps model was trained on the N374 series from the M3 dataset (insert in blue). Darker lines correspond to particles with higher likelihoods.\n\nWeightedSums as the inputs to other operators, it is possible to express rich combinatorial structures, while keeping models compact and the number of learnable weights small. As an example, we include the sum_of_products model (illustrated in the figure below) which first creates a pairwise product of two WeightedSums, and then a sum of the two products. By setting some of the weights to zero, we can create many different discrete structures. The total number of possible structures in this model is 216, since there are 16 base kernels that can be turned on or off. All these structures are explored implicitly by training just this one model.\n\n\n\n\n\nIllustration of the \"sum_of_products\" model. Each of the four WeightedSums have the same structure as the \"sum_of_stumps\" model.\n\nPeriodic and either the Matern or ExponentiatedQuadratic) lead to overfitting on many datasets. To prevent this, we have defined model classes like sum_of_safe_shallow that exclude such products when performing structure discovery with WeightedSums.\n\n\n\nFor training, AutoBNN provides AutoBnnMapEstimator and AutoBnnMCMCEstimator to perform MAP and MCMC inference, respectively. Either estimator can be combined with any of the six likelihood functions, including four based on normal distributions with different noise characteristics for continuous data and two based on the negative binomial distribution for count data.  \n\n\n\n\n\n\nResult from running AutoBNN on the Mauna Loa CO2 dataset in our example colab. The model captures the trend and seasonal component in the data. Extrapolating into the future, the mean prediction slightly underestimates the actual trend, while the 95% confidence interval gradually increases.\n\nscikit-learn–inspired estimator interface:\nimport autobnn as ab\n\nmodel = ab.operators.Add(\n    bnns=(ab.kernels.PeriodicBNN(width=50),\n          ab.kernels.LinearBNN(width=50),\n          ab.kernels.MaternBNN(width=50)))\n\nestimator = ab.estimators.AutoBnnMapEstimator(\n    model, 'normal_likelihood_logistic_noise', jax.random.PRNGKey(42),\n    periods=[12])\n\nestimator.fit(my_training_data_xs, my_training_data_ys)\nlow, mid, high = estimator.predict_quantiles(my_training_data_xs)\n\n\n\n\n\n    \nConclusion\nAutoBNN provides a powerful and flexible framework for building sophisticated time series prediction models. By combining the strengths of BNNs and GPs with compositional kernels, AutoBNN opens a world of possibilities for understanding and forecasting complex data. We invite the community to try the colab, and leverage this library to innovate and solve real-world challenges. \n\n\n\n    \nAcknowledgements\nAutoBNN was written by Colin Carroll, Thomas Colthurst, Urs Köster and Srinivas Vasudevan. We would like to thank Kevin Murphy, Brian Patton and Feras Saad for their advice and feedback.",
     "url": "https://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
@@ -40,6 +50,46 @@
     "type": "rss"
   },
   {
+    "title": "【株価】日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず",
+    "description": "20日の東京株式市場で日経平均株価は3日ぶりに反落し、終値は前日比3007円56銭(5.06%)安の5万6436円65銭だった。世界の投資家が望みをかけた人工知能(AI)開発の米アンソロピックの上場は順調な滑り出しとなった一方...https://asahi.5ch.io/test/read.cgi/newsplus/1795157143/",
+    "url": "https://www.2nn.jp/newsplus/1795157143/",
+    "publishedAt": "2026-11-20T06:45:43Z",
+    "source": "Www.2nn.jp",
+    "category": "AI News",
+    "importance": 7,
+    "type": "newsapi"
+  },
+  {
+    "title": "米国でAI反対デモ「人類がAI制御不能になる懸念、データセンター建設」アンソロピック上場初値111ドルから急落し90ドル台前半",
+    "description": "アンソロピック上場　初値は公開価格3割高　NY市場は急落　周辺でAI反対デモも\nアメリカのAI(人工知能)開発企業・アンソロピックが19日、ナスダック市場に上場し、初値は1株あたり111ドル50セントと公開価格の83ドル...https://asahi.5ch.io/test/read.cgi/newsplus/1795155891/",
+    "url": "https://www.2nn.jp/newsplus/1795155891/",
+    "publishedAt": "2026-11-20T06:24:51Z",
+    "source": "Www.2nn.jp",
+    "category": "AI News",
+    "importance": 7,
+    "type": "newsapi"
+  },
+  {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "publishedAt": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "publishedAt": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI News",
+    "category": "AI News",
+    "importance": 6,
+    "type": "rss"
+  },
+  {
     "title": "Generative AI to quantify uncertainty in weather forecasting",
     "description": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research\n\n\n\n\nAccurate weather forecasts can have a direct impact on people’s lives, from helping make routine decisions, like what to pack for a day’s activities, to informing urgent actions, for example, protecting people in the face of hazardous weather conditions. The importance of accurate and timely weather forecasts will only increase as the climate changes. Recognizing this, we at Google have been investing in weather and climate research to help ensure that the forecasting technology of tomorrow can meet the demand for reliable weather information. Some of our recent innovations include MetNet-3, Google's high-resolution forecasts up to 24-hours into the future, and GraphCast, a weather model that can predict weather up to 10 days ahead.\n\n \n\n\nWeather is inherently stochastic. To quantify the uncertainty, traditional methods rely on physics-based simulation to generate an ensemble of forecasts. However, it is computationally costly to generate a large ensemble so that rare and extreme weather events can be discerned and characterized accurately.  \n\n\nWith that in mind, we are excited to announce our latest innovation designed to accelerate progress in weather forecasting, Scalable Ensemble Envelope Diffusion Sampler (SEEDS), recently published in Science Advances. SEEDS is a generative AI model that can efficiently generate ensembles of weather forecasts at scale at a small fraction of the cost of traditional physics-based forecasting models. This technology opens up novel opportunities for weather and climate science, and it represents one of the first applications to weather and climate forecasting of probabilistic diffusion models, a generative AI technology behind recent advances in media generation.\n\n \n\nThe need for probabilistic forecasts: the butterfly effect\nAmerican Association for the Advancement of Science meeting in Washington, D.C., MIT meteorology professor Ed Lorenz gave a talk entitled, “Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado in Texas?” which contributed to the term “butterfly effect”. He was building on his earlier, landmark 1963 paper where he examined the feasibility of “very-long-range weather prediction” and described how errors in initial conditions grow exponentially when integrated in time with numerical weather prediction models. This exponential error growth, known as chaos, results in a deterministic predictability limit that restricts the use of individual forecasts in decision making, because they do not quantify the inherent uncertainty of weather conditions. This is particularly problematic when forecasting extreme weather events, such as hurricanes, heatwaves, or floods.\n\n\nRecognizing the limitations of deterministic forecasts, weather agencies around the world issue probabilistic forecasts. Such forecasts are based on ensembles of deterministic forecasts, each of which is generated by including synthetic noise in the initial conditions and stochasticity in the physical processes. Leveraging the fast error growth rate in weather models, the forecasts in an ensemble are purposefully different: the initial uncertainties are tuned to generate runs that are as different as possible and the stochastic processes in the weather model introduce additional differences during the model run. The error growth is mitigated by averaging all the forecasts in the ensemble and the variability in the ensemble of forecasts quantifies the uncertainty of the weather conditions.\n\n\nWhile effective, generating these probabilistic forecasts is computationally costly. They require running highly complex numerical weather models on massive supercomputers multiple times. Consequently, many operational weather forecasts can only afford to generate ~10–50 ensemble members for each forecast cycle. This is a problem for users concerned with the likelihood of rare but high-impact weather events, which typically require much larger ensembles to assess beyond a few days. For instance, one would need a 10,000-member ensemble to forecast the likelihood of events with 1% probability of occurrence with a relative error less than 10%. Quantifying the probability of such extreme events could be useful, for example, for emergency management preparation or for energy traders.\n\n \n\nSEEDS: AI-enabled advances\npaper, we present the Scalable Ensemble Envelope Diffusion Sampler (SEEDS), a generative AI technology for weather forecast ensemble generation. SEEDS is based on denoising diffusion probabilistic models, a state-of-the-art generative AI method pioneered in part by Google Research.\n\n\nSEEDS can generate a large ensemble conditioned on as few as one or two forecasts from an operational numerical weather prediction system. The generated ensembles not only yield plausible real-weather–like forecasts but also match or exceed physics-based ensembles in skill metrics such as the rank histogram, the root-mean-squared error (RMSE), and the continuous ranked probability score (CRPS). In particular, the generated ensembles assign more accurate likelihoods to the tail of the forecast distribution, such as ±2σ and ±3σ weather events. Most importantly, the computational cost of the model is negligible when compared to the hours of computational time needed by supercomputers to make a forecast. It has a throughput of 256 ensemble members (at 2° resolution) per 3 minutes on Google Cloud TPUv3-32 instances and can easily scale to higher throughput by deploying more accelerators. \n\n\n\n\nSEEDS generates an order-of-magnitude more samples to in-fill distributions of weather patterns.\n\nGenerating plausible weather forecasts\nGlobal Ensemble Forecast System, GEFS) for a particular date during the 2022 European heat waves. We also compare the results to the forecasts from a Gaussian model that predicts the univariate mean and standard deviation of each atmospheric field at each location, a common and computationally efficient but less sophisticated data-driven approach. This Gaussian model is meant to characterize the output of pointwise post-processing, which ignores correlations and treats each grid point as an independent random variable. In contrast, a real weather map would have detailed correlational structures. \n\n\nBecause SEEDS directly models the joint distribution of the atmospheric state, it realistically captures both the spatial covariance and the correlation between mid-tropospheric geopotential and mean sea level pressure, both of which are closely related and are commonly used by weather forecasters for evaluation and verification of forecasts. Gradients in the mean sea level pressure are what drive winds at the surface, while gradients in mid-tropospheric geopotential create upper-level winds that move large-scale weather patterns. \n\n\nThe generated samples from SEEDS shown in the figure below (frames Ca–Ch) display a geopotential trough west of Portugal with spatial structure similar to that found in the operational U.S. forecasts or the reanalysis based on observations. Although the Gaussian model predicts the marginal univariate distributions adequately, it fails to capture cross-field or spatial correlations. This hinders the assessment of the effects that these anomalies may have on hot air intrusions from North Africa, which can exacerbate heat waves over Europe.\n\n\n\n\nStamp maps over Europe on 2022/07/14 at 0:00 UTC. The contours are for the mean sea level pressure (dashed lines mark isobars below 1010 hPa) while the heatmap depicts the geopotential height at the 500 hPa pressure level. (A) The ERA5 reanalysis, a proxy for real observations. (Ba-Bb) 2 members from the 7-day U.S. operational forecasts used as seeds to our model. (Ca-Ch) 8 samples drawn from SEEDS. (Da-Dh) 8 non-seeding members from the 7-day U.S. operational ensemble forecast. (Ea-Ed) 4 samples from a pointwise Gaussian model parameterized by the mean and variance of the entire U.S. operational ensemble.\n\nCovering extreme events more accurately  \n\n\nSEEDS provides better statistical coverage of the 2022/07/14 European extreme heat event, denoted by the brown star . Each plot shows the values of the total column-integrated water vapor (TCVW) vs. temperature over a grid point near Lisbon, Portugal from 16,384 samples generated by our models, shown as green dots, conditioned on 2 seeds (blue squares) taken from the 7-day U.S. operational ensemble forecasts (denoted by the sparser brown triangles). The valid forecast time is 1:00 local time. The solid contour levels correspond to iso-proportions of the kernel density of SEEDS, with the outermost one encircling 95% of the mass and 11.875% between each level.\n\n \n\nConclusion and future outlook\n \n\nAcknowledgements\nAll SEEDS authors, Lizao Li, Rob Carver, Ignacio Lopez-Gomez, Fei Sha and John Anderson, co-authored this blog post, with Carla Bromberg as Program Lead. We also thank Tom Small who designed the animation. Our colleagues at Google Research have provided invaluable advice to the SEEDS work. Among them, we thank Leonardo Zepeda-Núñez, Zhong Yi Wan, Stephan Rasp, Stephan Hoyer, and Tapio Schneider for their inputs and useful discussion. We thank Tyler Russell for additional technical program management, as well as Alex Merose for data coordination and support. We also thank Cenk Gazen, Shreya Agrawal, and Jason Hickey for discussions in the early stage of the SEEDS work.",
     "url": "https://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
@@ -60,164 +110,114 @@
     "type": "rss"
   },
   {
-    "title": "Genie 4 is now available",
-    "description": "",
-    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-    "publishedAt": "Wed, 18 Nov 2026 18:13:42 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "Gemini 4 Carbon is now available",
-    "description": "",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "publishedAt": "Tue, 10 Nov 2026 16:03:47 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 6,
-    "type": "rss"
-  },
-  {
-    "title": "【12/3 無料開催】AI活用企業6社による合同カンファレンス「人とAIの役割をどう設計するか」にYOMELが登壇",
-    "description": "[株式会社PKSHA Infinity]\n[画像1: https://prcdn.freetls.fastly.net/release_image/66814/51/66814-51-7562f89e522ad39ecbb31bfce45685d9-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-    "url": "https://prtimes.jp/main/html/rd/p/000000051.000066814.html",
-    "publishedAt": "2026-11-19T17:10:02Z",
+    "title": "【共同会見】JV設立を見据えたデータセンター構想を発表― AI inside の技術力と橋本ホールディングスの建設力で日本のAIインフラをつくる",
+    "description": "[AI inside 株式会社（AI inside Inc.）]\n[画像1: https://prcdn.freetls.fastly.net/release_image/24457/237/24457-237-0220e7eed4bd2a39bf37e185eef13f56-2400x1260.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000024457.html",
+    "publishedAt": "2026-11-20T06:42:21Z",
     "source": "Prtimes.jp",
     "category": "AI News",
     "importance": 6,
     "type": "newsapi"
   },
   {
-    "title": "漫画家のAIの使い方が理想的すぎると話題に！「クリエイターがAIに求めてたのはこれ」「まさしくAIアシスタント」",
-    "description": "漫画家のAIの使い方が理想的すぎると話題に！「クリエイターがAIに求めてたのはこれ」「まさしくAIアシスタント」の記事ページ",
-    "url": "http://blog.esuteru.com/archives/10587452.html",
-    "publishedAt": "2026-11-19T17:00:43Z",
-    "source": "Esuteru.com",
-    "category": "AI News",
-    "importance": 6,
-    "type": "newsapi"
-  },
-  {
-    "title": "Anthropic研究者「もうすぐ全人類が永久に失業します」",
-    "description": "1：名無し\n：2026/11/19(木) 15:01:44.728 ID:.NZU6Qoz7\n\n「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来を予測（アスキー） - Yahoo!ニュース　Anthropicの研究者Tao Lin氏が、人間の雇用の将来について厳しい見通しを示した。非営利団体Palisade Researchが...",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5728894.html",
-    "publishedAt": "2026-11-19T17:00:06Z",
-    "source": "Livedoor.jp",
-    "category": "AI News",
-    "importance": 6,
-    "type": "newsapi"
-  },
-  {
-    "title": "AI音楽生成｜オリジナル楽曲を作成してAI MV制作【PR】",
-    "description": "HitPaw Edimakor：AI音楽生成\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAI技術を活用した動画・音声制作ソフト「HitPaw Edimakor」では、AI音楽生成機能を利用して、テキストや参考音源からオリジナル楽曲を手軽に作成できます。\n\n専門的な音楽制作の知識がなくても、歌詞や楽曲のイメージを入力するだけで、AIがメロディや伴奏を自動生成する。動画のBGMやオリジナルソングなど、さまざまな用途に活用できます。",
-    "url": "https://www.macotakara.jp/promotion/entry-52400.html",
-    "publishedAt": "2026-11-19T16:54:17Z",
-    "source": "Macotakara.jp",
-    "category": "AI News",
-    "importance": 6,
-    "type": "newsapi"
-  },
-  {
-    "title": "Edimakor、AI動画生成モデル「Kling 4.0」に対応！より高品質な動画制作を実現【PR】",
-    "description": "‎HitPaw Edimakor：Kling 4.0\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAI技術の進化により、テキストや画像から動画を生成できるAI動画生成機能が注目されています。AI動画編集ソフト「‎HitPaw Edimakor」では、最新のAI動画生成モデル「Kling 4.0」を活用した動画制作が可能です。\n\nKling 4.0は、映像のリアリティや動きの滑らかさ、シーンの一貫性を強化したAIモデルです。より自…",
-    "url": "https://www.macotakara.jp/promotion/entry-52399.html",
-    "publishedAt": "2026-11-19T16:44:35Z",
-    "source": "Macotakara.jp",
-    "category": "AI News",
-    "importance": 6,
-    "type": "newsapi"
-  },
-  {
-    "title": "スタディポケット、声で練習する面接アプリ「AI面接対策」を iOS・Android版で公開",
-    "description": "[スタディポケット株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/49664/107/49664-107-ba8e63276cf79fe32ba5117661a37cc0-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-    "url": "https://prtimes.jp/main/html/rd/p/000000107.000049664.html",
-    "publishedAt": "2026-11-19T16:10:03Z",
+    "title": "軽量フルカラーAIスマートグラス向け「Ultralite Color」OEMプラットフォームを発表",
+    "description": "[ビュージックスジャパン株式会社]\nビュージックスジャパン株式会社（本社：岡山県岡山市、代表取締役：藤井 慶一郎）は、Vuzix(R) Corporation（NASDAQ: VUZI）が、アイウェアブランドやテクノロジーパートナーが独自のフルカラーAIスマートグラス...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000195091.html",
+    "publishedAt": "2026-11-20T06:40:28Z",
     "source": "Prtimes.jp",
     "category": "AI News",
     "importance": 6,
     "type": "newsapi"
   },
   {
-    "title": "Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita",
-    "description": "生成AIと人間が協働して記事を書くシリーズです。 パーソナルAIエージェントのMuseとの対話が大分慣れてきたので、github repoの引用？の仕方と画像を置くのとこのInfo以外はMuseに書いてもらってます。 Museに聞いたら、タグってちゃんと効果あるみたいですね。 0. 前提 この記事の環境は、私が日常的に使っている Muse...",
-    "url": "https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44",
-    "publishedAt": "2026-11-19T15:25:02Z",
-    "source": "Qiita.com",
+    "title": "DXC Technology CompanyDXCがCiscoと協業、AIを活用したネットワークの知見をDXC OASISで具体的な対応につなげる",
+    "description": "・DXCは、CiscoのAIを活用したネットワークインテリジェンスとDXC OASISを組み合わせ、企業全体のオーケストレーションと人による監督を通じてインシデント解決を迅速化・今回の協業では、当初、Cisco Meraki環境における職場のWi-Fiのパフォーマンスに重点を置き、AIを活用した運用のさらなる拡大に向けた基盤を構築 &n...",
+    "url": "https://japan.cnet.com/release/31225871/",
+    "publishedAt": "2026-11-20T06:32:00Z",
+    "source": "CNET",
     "category": "AI News",
     "importance": 6,
     "type": "newsapi"
   },
   {
-    "title": "DataGrip 2026.3: JetBrains Air を利用したエージェント型開発、クロスデータベースクエリ、DuckDB のサポート、および主な UX の改善",
-    "description": "今年 3 番目のメジャーアップデートである DataGrip 2026.3 がリリースされました！では、その内容を見てみましょう。 AI DataGrip 内で JetBrains Air がデフォルトで提供されるようになりました。AI エージェントとのチャット内で直接 SQL の実行、データの探索、データベースオブジェクトの参照を行えます。SQL スニペットには IDE の構文ハイライトと書式設定が適用されます。チャット内で Run Query（クエリの実行）ボタンを使用することで、選択したデータソースに対して…",
-    "url": "https://blog.jetbrains.com/ja/datagrip/2026/11/19/datagrip-2026-3-agentic-development-with-jetbrains-air-cross-database-queries-duckdb-support-and-major-ux-improvements/",
-    "publishedAt": "2026-11-19T15:23:52Z",
-    "source": "Jetbrains.com",
-    "category": "AI News",
-    "importance": 6,
-    "type": "newsapi"
-  },
-  {
-    "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
-    "description": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...",
-    "url": "https://www.publickey1.jp/blog/26/database_hubai.html",
-    "publishedAt": "2026-11-19T15:19:21Z",
-    "source": "Publickey1.jp",
-    "category": "AI News",
-    "importance": 6,
-    "type": "newsapi"
-  },
-  {
-    "title": "『AIパワーランキング』が「ダウンロードが多い国産AIモデルランキング」を発表　公式アカウント30件・1,360モデルの直近30日を集計",
-    "description": "[ポップコーン株式会社]\n企業のマーケティング組織に入り込み、AIで施策を実装する「フォワードデプロイド・マーケター（FDM）」事業を展開するポップコーン株式会社（本社：東京都渋谷区千駄ケ谷5-21-5 ミサワビル601、代表取締役：大澤...",
-    "url": "https://prtimes.jp/main/html/rd/p/000000175.000033900.html",
-    "publishedAt": "2026-11-19T15:10:00Z",
-    "source": "Prtimes.jp",
-    "category": "AI News",
-    "importance": 6,
-    "type": "newsapi"
-  },
-  {
-    "title": "賢くなったSiri AIと、漏れ続ける個人情報にユーザーが取るべき行動はあるのか[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
-    "description": "通信業界を中心に活躍するライター4人と編集長の関口による「スマホ会議（仮）」。今回はPHPの脆弱性や新しいAIサービス、JR東日本のteppay、楽天モバイルのKDDIローミング終了について話し合っていきます。",
-    "url": "https://k-tai.watch.impress.co.jp/docs/column/congress/2157604.html",
-    "publishedAt": "2026-11-19T15:00:00Z",
+    "title": "Mac版Geminiに「Computer use」　PC作業をAIが代行",
+    "description": "Googleは19日(米国時間)、Mac版Geminiアプリに、AIがPCを操作して作業を自動実行する「Computer use」機能を追加した。米国で提供を順次開始し、日本での提供は未定。",
+    "url": "https://www.watch.impress.co.jp/docs/news/2158164.html",
+    "publishedAt": "2026-11-20T06:21:55Z",
     "source": "Impress.co.jp",
     "category": "AI News",
     "importance": 6,
     "type": "newsapi"
   },
   {
-    "title": "米アンソロピックが上場　ナスダックに、史上最大規模",
-    "description": "【シリコンバレー時事】米人工知能（ＡＩ）企業アンソロピックが１９日、ハイテク銘柄が中心のナスダック市場に上場した。新規株式公開（ＩＰＯ）での公開価格は１株８３ドルで、調達額は約８１３億ドル（約１３兆円）に上る。上場時点の調達額は、今年６月に上場した米宇宙・ＡＩ企業スペースＸの約７５０億ドルを上回り、史上最大規模となる。",
-    "url": "https://www.jiji.com/jc/article?k=2026111900897&g=int",
-    "publishedAt": "2026-11-19T14:59:00Z",
-    "source": "Jiji.com",
+    "title": "Amazon SES の SMTP 認証情報に使っている IAM ユーザーのアクセスキーをなくす",
+    "description": "Amazon SES の SMTP 認証情報の実体は IAM ユーザーのアクセスキーです。送信を SES API と IAM ロールに変える方法と、SMTP しか話せないアプリケーションを Mail Manager に切り替える方法のいずれかで、アクセスキーをなくす手順を紹介します。",
+    "url": "https://dev.classmethod.jp/articles/ses-smtp-credentials-without-access-keys/",
+    "publishedAt": "2026-11-20T06:21:16Z",
+    "source": "Classmethod.jp",
     "category": "AI News",
     "importance": 6,
     "type": "newsapi"
   },
   {
-    "title": "Deploying Daybreak Red",
-    "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-    "url": "https://openai.com/business/learn/deploying-daybreak-red",
-    "publishedAt": "Thu, 19 Nov 2026 00:00:00 GMT",
-    "source": "OpenAI News",
+    "title": "ドンキのAI社員「近藤あい」が正式デビュー　販促POPや動画で活躍へ　運営元「すでに裏に20人ぐらいいる」",
+    "description": "ドン・キホーテのAI社員「近藤あい」が11月23日に正式デビューする。実は裏には約20人のAIキャラクターが控えているという。開発に約1年半を費やした舞台裏や、AI社員を導入した狙いを担当者に聞いた。",
+    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
+    "publishedAt": "2026-11-20T06:11:05Z",
+    "source": "Itmedia.co.jp",
     "category": "AI News",
-    "importance": 5,
-    "type": "rss"
+    "importance": 6,
+    "type": "newsapi"
   },
   {
-    "title": "See PR scans in action",
-    "description": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-    "url": "https://openai.com/business/learn/pr-scans-demo",
-    "publishedAt": "Thu, 19 Nov 2026 00:00:00 GMT",
-    "source": "OpenAI News",
+    "title": "Appleの会話要約AI「Siri Recap」を2週間使った結果「自分が救急搬送された」という架空の記録が生成される",
+    "description": "IT系ニュースサイトのThe VergeがApple Watchで周囲の会話を自動的に要約する新機能「Siri Recap」を2週間にわたって試した体験談を公開しました。I let Apple’s always-listening AI summarize my life for two weeks | The Vergehttps://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-onAppleの「Siri Rec…",
+    "url": "https://news.livedoor.com/article/detail/32862253/",
+    "publishedAt": "2026-11-20T06:10:00Z",
+    "source": "Livedoor.com",
     "category": "AI News",
-    "importance": 5,
-    "type": "rss"
+    "importance": 6,
+    "type": "newsapi"
+  },
+  {
+    "title": "福島県双葉町の分散型AIデータセンターが2026年12月16日竣工（予定）",
+    "description": "[デジタルダイナミック株式会社]\nAIデータセンターおよびGPUインフラ事業を展開するデジタルダイナミック株式会社（本社：東京都港区、代表取締役：根来 実、以下「当社」）は、日本アジア投資株式会社との合弁会社であるJAICデータダイナミクス...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000160865.html",
+    "publishedAt": "2026-11-20T06:06:28Z",
+    "source": "Prtimes.jp",
+    "category": "AI News",
+    "importance": 6,
+    "type": "newsapi"
+  },
+  {
+    "title": "Yahooが参画した AIライセンス の収益分配ルール、音楽のSpotifyを記事にも応用",
+    "description": "AI向けコンテンツのライセンス契約は、これまでパブリッシャーとテック企業による個別の単発契約が中心だった。これに対し、RSLは「インターネット・ライセンシング・コレクティブ（The Internet Licensing Collective、以下ILC）」へと名称を変更し、共同ライセンスモデルの構築を進めている。最初のライセンス取得企業はYahooだ。\nこの契約によって、規模を問わずあらゆるパブリッシャーが、YahooのAI搭載検索エンジン「スカウト（Scout）」で利用するために自社コンテンツをライセンス提供し…",
+    "url": "https://digiday.jp/publishers/yahoo-becomes-first-licensee-of-spotify-like-collective-ai-content-licensing-model/",
+    "publishedAt": "2026-11-20T06:00:56Z",
+    "source": "Digiday.jp",
+    "category": "AI News",
+    "importance": 6,
+    "type": "newsapi"
+  },
+  {
+    "title": "アカツキAIテクノロジーズ代表・大國領剣が、サニーサイドアップの「AI Dialogue & Relations Team」に参画",
+    "description": "[株式会社アカツキAIテクノロジーズ]\n[画像: https://prcdn.freetls.fastly.net/release_image/153999/19/153999-19-40fc70417a098c42960d8578aa5d91b2-1348x985.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000019.000153999.html",
+    "publishedAt": "2026-11-20T06:00:00Z",
+    "source": "Prtimes.jp",
+    "category": "AI News",
+    "importance": 6,
+    "type": "newsapi"
+  },
+  {
+    "title": "TikTok、AI生成コンテンツに関する透明性と管理を高める新たな機能を発表",
+    "description": "[TikTok Japan]\nショートムービープラットフォーム「TikTok（ティックトック）」は、AI生成コンテンツに関する透明性と管理を高める新たな機能を発表します。\nTikTokでは、AI技術によって、クリエイターがアイデアを形にする方法...",
+    "url": "https://prtimes.jp/main/html/rd/p/000001380.000030435.html",
+    "publishedAt": "2026-11-20T06:00:00Z",
+    "source": "Prtimes.jp",
+    "category": "AI News",
+    "importance": 6,
+    "type": "newsapi"
   },
   {
     "title": "Explore the Codex Security Plugin",
@@ -230,121 +230,71 @@
     "type": "rss"
   },
   {
-    "title": "Get started with Daybreak Blue",
-    "description": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-    "publishedAt": "Thu, 19 Nov 2026 00:00:00 GMT",
-    "source": "OpenAI News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Gemini 4 Neon",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-    "publishedAt": "Wed, 18 Nov 2026 21:35:43 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "Introducing Gemini 4 Hydrogen",
-    "description": "",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "publishedAt": "Thu, 12 Nov 2026 18:00:50 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "publishedAt": "Wed, 11 Nov 2026 15:00:15 +0000",
-    "source": "Google DeepMind News",
-    "category": "AI News",
-    "importance": 5,
-    "type": "rss"
-  },
-  {
-    "title": "[アップデート] Amazon Bedrock AgentCore Runtime で S3 バケットを直接マウントできるようになったので AWS CLI で確認してみた",
-    "description": "S3 Files なしで直接マウントできた",
-    "url": "https://dev.classmethod.jp/articles/agentcore-runtime-s3mount/",
-    "publishedAt": "2026-11-19T17:16:56Z",
-    "source": "Classmethod.jp",
-    "category": "AI News",
-    "importance": 5,
-    "type": "newsapi"
-  },
-  {
-    "title": "発表はMacで、資料は来場者のiPhoneへ。「UPDF」のQRコード共有をイベントで活用【PR】",
-    "description": "<!-- テキスト -->\n\n「今日の資料はこちらからどうぞ」。勉強会の最後に、登壇者がスクリーンにQRコードを映します。客席では、資料が欲しい人がiPhoneを向けています。その間にも、会場では次の質問が始まります。\n\nこのとき、登壇者のMacで資料を映しているのも、配布用のコードを作るのも、PDF編集ソフト「UPDF」です。一つのPDFから共有リンクとQRコードを用意できるので、数十人が参加するイベントでも、希望者のメールアドレスを集めたり、会期後に一人ずつ添付ファイルを送ったりする必要がありません。\n\nUP…",
-    "url": "https://www.macotakara.jp/promotion/entry-52397.html",
-    "publishedAt": "2026-11-19T16:16:31Z",
-    "source": "Macotakara.jp",
-    "category": "AI News",
-    "importance": 5,
-    "type": "newsapi"
-  },
-  {
-    "title": "シャトルロックジャパン、Meta 商品メディア付き広告（カタログ広告）の「ベストプラクティス・リーチ 40%増 含む成功事例 6選・制作ポイント・制作自動化で量産する方法」などをまとめた資料を無料公開",
-    "description": "[シャトルロックジャパン株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/17404/259/17404-259-80f613bc168b4c80757473cb456baf48-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-    "url": "https://prtimes.jp/main/html/rd/p/000000259.000017404.html",
-    "publishedAt": "2026-11-19T15:40:03Z",
+    "title": "第三者割当増資及びセカンダリーを実施し、経営基盤を強化",
+    "description": "[株式会社アワバリュー]\n高級動産の2次流通事業を展開する株式会社アワバリュー(本社:東京都中央区、代表取締役:荒津友生、以下「当社」)は、i-nest1号投資事業有限責任組合(運営会社:i-nest capital株式会社、以下「i-nest capital」)を...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000101094.html",
+    "publishedAt": "2026-11-20T06:45:47Z",
     "source": "Prtimes.jp",
     "category": "AI News",
     "importance": 5,
     "type": "newsapi"
   },
   {
-    "title": "11月に修正されたPHPの脆弱性についてまとめてみた",
-    "description": "2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)にセキュリティリリースを行うと予告(出典: 2)。最高の深刻度の CRITICAL は「既定ではない設定または一般的ではないセットア…",
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/20/003148",
-    "publishedAt": "2026-11-19T15:31:48Z",
-    "source": "Hatenadiary.jp",
-    "category": "AI News",
-    "importance": 5,
-    "type": "newsapi"
-  },
-  {
-    "title": "ポータブルゲーミングPCやAndroidゲーム機が最大43%オフ！天空ブラックフライデー",
-    "description": "天空は、ポータブルゲーミングPCやAndroidゲーム機、UMPCが最大43%オフとなる「BLACK FRIDAY 2026」を開催する。",
-    "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2157994.html",
-    "publishedAt": "2026-11-19T15:05:00Z",
-    "source": "Impress.co.jp",
-    "category": "AI News",
-    "importance": 5,
-    "type": "newsapi"
-  },
-  {
-    "title": "[石川温の「スマホ業界 Watch」]「Premiere」モバイル版、アドビがAndroid版の開発に本腰を入れる理由",
-    "description": "11月10日から3日間、アメリカ・マイアミで開催された「Adobe MAX」を取材した。基調講演では全く触れられなかった編集アプリ「Premiereモバイル版」がかなり興味深かった。",
-    "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2158013.html",
-    "publishedAt": "2026-11-19T15:00:00Z",
-    "source": "Impress.co.jp",
-    "category": "AI News",
-    "importance": 5,
-    "type": "newsapi"
-  },
-  {
-    "title": "AmazonでiPhone 16 PlusとiPhone 17 Pro Maxが初セールへ！ブラックフライデーは11月30日から8日間実施",
-    "description": "アマゾンジャパンは11月19日、年末の大型セール「Amazonブラックフライデー」の記者会見を開きました。期間は11月30日（月）0時から12月7日（月）23時59分までの8日間。11月27日（金）0時からは先行セールを実施します。\n\n先行セールは11月27日から\n\n　登壇したのは、アマゾンジャパン プライム・マーケティング事業統括本部長の鈴木浩司氏です。本番のセールが始まるのは11月30日の日付が変わった直後。その3日前の11月27日0時から、例年どおり先行セールを開きます。\n\n　セールの対象は過去最大の400…",
-    "url": "https://smhn.info/202611-amazon-black-friday-2026-iphone-sale",
-    "publishedAt": "2026-11-19T14:43:17Z",
-    "source": "Smhn.info",
-    "category": "AI News",
-    "importance": 5,
-    "type": "newsapi"
-  },
-  {
-    "title": "全国の小中高生を対象とした旅行企画コンテスト 「観光コンテスト」のエントリー受付を開始【立志舎 SUKI-1 GRAND PRIX(R)︎】",
-    "description": "[学校法人立志舎]\n[画像1: https://prcdn.freetls.fastly.net/release_image/109076/52/109076-52-664e7c4c2d40f5a588f8861882d55ccc-2048x1152.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-    "url": "https://prtimes.jp/main/html/rd/p/000000052.000109076.html",
-    "publishedAt": "2026-11-19T14:40:56Z",
+    "title": "学校法人東洋学園創立100周年の節目に誕生　2027年4月に「国際共創学部」を開設",
+    "description": "[東洋学園大学]\n東洋学園大学（学校法人東洋学園　本部：文京区本郷　理事長：愛知太郎）は、2027年4月、「国際共創学部 現代コミュニケーション学科」を開設します。コンセプトは「違いを超えて、人をつなぎ、共に創る力を。」...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000191.000033013.html",
+    "publishedAt": "2026-11-20T06:42:21Z",
     "source": "Prtimes.jp",
+    "category": "AI News",
+    "importance": 5,
+    "type": "newsapi"
+  },
+  {
+    "title": "【12/15,18開催｜日韓スタートアップエコシステム連携事業】韓国・全羅南道のスタートアップ12社と日本のCVC・VCとの招待制ピッチを開催",
+    "description": "[株式会社UNERI]\n[画像1: https://prcdn.freetls.fastly.net/release_image/62589/71/62589-71-a47ea7f8083093091972ea5022e11c68-1280x720.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000071.000062589.html",
+    "publishedAt": "2026-11-20T06:42:21Z",
+    "source": "Prtimes.jp",
+    "category": "AI News",
+    "importance": 5,
+    "type": "newsapi"
+  },
+  {
+    "title": "【新製品】Anker、手のひらサイズのソーラー防犯カメラ「Eufy eufyCam C33」を発売〜初回100台は25%還元で実質9,742円",
+    "description": "Anker Japanが11月20日、電源工事なしで屋外に設置できるソーラー給電の防犯カメラ「Eufy eufyCam C33」を発売しました。 夜もカラーで記録する2Kカメラ 解像度は2K(約300万画素)で、画角は1 […]©2019 \"Touch Lab - タッチ ラボ\".",
+    "url": "https://touchlab.jp/2026/11/anker-eufycam-c33/",
+    "publishedAt": "2026-11-20T06:41:56Z",
+    "source": "Touchlab.jp",
+    "category": "AI News",
+    "importance": 5,
+    "type": "newsapi"
+  },
+  {
+    "title": "スパコン「富岳」不正アクセス、第2報　住所や電話番号も漏えいの恐れ　秘密鍵430件にも影響",
+    "description": "理化学研究所は11月20日、スーパーコンピュータ「富岳」への不正アクセスを巡り、住所や電話番号などの利用者情報も漏えいした可能性があると発表した。影響を受けた利用者は4222人。侵入者が利用者情報にアクセスした痕跡を確認しており、漏えいを前提に緊急対応を進める。",
+    "url": "https://japan.cnet.com/article/35255228/",
+    "publishedAt": "2026-11-20T06:34:00Z",
+    "source": "CNET",
+    "category": "AI News",
+    "importance": 5,
+    "type": "newsapi"
+  },
+  {
+    "title": "GeminiがMacを代わりに操作可能に　アプリやファイルをまたぐ作業も自動化",
+    "description": "グーグルはMac版「Gemini」に、ユーザーの指示に従ってアプリやウェブを操作する機能を追加した。米国の有料プラン加入者から提供する。",
+    "url": "https://japan.cnet.com/article/35255218/",
+    "publishedAt": "2026-11-20T06:08:00Z",
+    "source": "CNET",
+    "category": "AI News",
+    "importance": 5,
+    "type": "newsapi"
+  },
+  {
+    "title": "LenovoのビジネスノートPCやタブレットが最大20%ポイント還元！楽天ブラックフライデー",
+    "description": "楽天市場では、11月25日(水)1:59までの期間限定で「楽天市場のブラックフライデー」が開催中。",
+    "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2157672.html",
+    "publishedAt": "2026-11-20T06:05:00Z",
+    "source": "Impress.co.jp",
     "category": "AI News",
     "importance": 5,
     "type": "newsapi"
