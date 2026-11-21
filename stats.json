@@ -1,15 +1,11 @@
 {
   "totalArticles": 30,
   "todayArticles": 0,
-  "highImportanceCount": 2,
-  "mediumImportanceCount": 20,
+  "highImportanceCount": 3,
+  "mediumImportanceCount": 19,
   "lowImportanceCount": 8,
   "averageImportance": "6.1",
   "sourceStats": [
-    {
-      "source": "Prtimes.jp",
-      "count": 8
-    },
     {
       "source": "OpenAI News",
       "count": 5
@@ -19,31 +15,35 @@
       "count": 5
     },
     {
-      "source": "CNET",
+      "source": "Smhn.info",
       "count": 3
     },
     {
-      "source": "Www.2nn.jp",
+      "source": "Livedoor.biz",
       "count": 2
+    },
+    {
+      "source": "Getnews.jp",
+      "count": 2
+    },
+    {
+      "source": "Note.com",
+      "count": 1
+    },
+    {
+      "source": "Jetbrains.com",
+      "count": 1
     },
     {
       "source": "Impress.co.jp",
-      "count": 2
-    },
-    {
-      "source": "Classmethod.jp",
       "count": 1
     },
     {
-      "source": "Itmedia.co.jp",
+      "source": "Ldblog.jp",
       "count": 1
     },
     {
-      "source": "Livedoor.com",
-      "count": 1
-    },
-    {
-      "source": "Digiday.jp",
+      "source": "Gizmodo.jp",
       "count": 1
     }
   ],
@@ -84,7 +84,7 @@
     {
       "date": "2026/11/20",
       "articleCount": 23,
-      "highImportanceCount": 1
+      "highImportanceCount": 2
     },
     {
       "date": "2026/11/21",
@@ -92,8 +92,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-11-21T06:47:26.635Z",
-  "updateTime": "2026/11/21 6:47:26",
+  "lastUpdated": "2026-11-21T16:32:15.441Z",
+  "updateTime": "2026/11/21 16:32:15",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -116,7 +116,11 @@
       },
       {
         "keyword": "Google",
-        "count": 6
+        "count": 8
+      },
+      {
+        "keyword": "ChatGPT",
+        "count": 2
       },
       {
         "keyword": "OpenAI",
@@ -124,18 +128,14 @@
       },
       {
         "keyword": "人工知能",
-        "count": 2
-      },
-      {
-        "keyword": "ChatGPT",
         "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 52.7,
-      "sourceDiversity": 11
+      "averageTitleLength": 47.93333333333333,
+      "sourceDiversity": 18
     }
   }
 }
