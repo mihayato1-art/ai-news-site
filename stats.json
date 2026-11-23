@@ -2,9 +2,9 @@
   "totalArticles": 30,
   "todayArticles": 0,
   "highImportanceCount": 2,
-  "mediumImportanceCount": 20,
-  "lowImportanceCount": 8,
-  "averageImportance": "6.0",
+  "mediumImportanceCount": 25,
+  "lowImportanceCount": 3,
+  "averageImportance": "6.2",
   "sourceStats": [
     {
       "source": "OpenAI News",
@@ -15,35 +15,35 @@
       "count": 5
     },
     {
-      "source": "Appbank.net",
-      "count": 2
+      "source": "Prtimes.jp",
+      "count": 3
     },
     {
-      "source": "Livedoor.com",
-      "count": 2
-    },
-    {
-      "source": "Esuteru.com",
-      "count": 2
-    },
-    {
-      "source": "Ryukoku.ac.jp",
+      "source": "Livedoor.jp",
       "count": 2
     },
     {
       "source": "CNET",
+      "count": 2
+    },
+    {
+      "source": "Diamond.jp",
+      "count": 2
+    },
+    {
+      "source": "World-fusigi.net",
       "count": 1
     },
     {
-      "source": "Danshihack.com",
+      "source": "Itainews.com",
       "count": 1
     },
     {
-      "source": "Itsoku.org",
+      "source": "Note.com",
       "count": 1
     },
     {
-      "source": "Hatenablog.com",
+      "source": "Appbank.net",
       "count": 1
     }
   ],
@@ -57,11 +57,6 @@
   "averageToolRating": "8.8",
   "weeklyStats": [
     {
-      "date": "2026/11/16",
-      "articleCount": 0,
-      "highImportanceCount": 0
-    },
-    {
       "date": "2026/11/17",
       "articleCount": 0,
       "highImportanceCount": 0
@@ -73,7 +68,7 @@
     },
     {
       "date": "2026/11/19",
-      "articleCount": 2,
+      "articleCount": 1,
       "highImportanceCount": 1
     },
     {
@@ -83,17 +78,22 @@
     },
     {
       "date": "2026/11/21",
-      "articleCount": 20,
+      "articleCount": 0,
       "highImportanceCount": 0
     },
     {
       "date": "2026/11/22",
+      "articleCount": 21,
+      "highImportanceCount": 0
+    },
+    {
+      "date": "2026/11/23",
       "articleCount": 0,
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-11-22T16:49:37.990Z",
-  "updateTime": "2026/11/22 16:49:37",
+  "lastUpdated": "2026-11-23T07:09:56.498Z",
+  "updateTime": "2026/11/23 7:09:56",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -102,18 +102,18 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/11/19": 2,
+      "2026/11/19": 1,
       "2026/11/20": 3,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
-      "2024/3/29": 1,
-      "2026/11/21": 20
+      "2026/11/22": 21,
+      "2024/3/29": 1
     },
     "topKeywords": [
       {
         "keyword": "AI",
-        "count": 22
+        "count": 27
       },
       {
         "keyword": "Google",
@@ -126,13 +126,17 @@
       {
         "keyword": "ChatGPT",
         "count": 1
+      },
+      {
+        "keyword": "Meta",
+        "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 49.03333333333333,
-      "sourceDiversity": 18
+      "averageTitleLength": 50.96666666666667,
+      "sourceDiversity": 17
     }
   }
 }
