@@ -1,15 +1,11 @@
 {
   "totalArticles": 35,
   "todayArticles": 0,
-  "highImportanceCount": 3,
-  "mediumImportanceCount": 18,
-  "lowImportanceCount": 14,
-  "averageImportance": "6.0",
+  "highImportanceCount": 0,
+  "mediumImportanceCount": 20,
+  "lowImportanceCount": 15,
+  "averageImportance": "5.7",
   "sourceStats": [
-    {
-      "source": "Prtimes.jp",
-      "count": 13
-    },
     {
       "source": "OpenAI News",
       "count": 5
@@ -23,27 +19,31 @@
       "count": 5
     },
     {
-      "source": "Itmedia.co.jp",
+      "source": "Prtimes.jp",
+      "count": 5
+    },
+    {
+      "source": "Machicon.jp",
+      "count": 3
+    },
+    {
+      "source": "Touchlab.jp",
       "count": 2
     },
     {
-      "source": "Ascii.jp",
-      "count": 1
-    },
-    {
-      "source": "Agora-web.jp",
-      "count": 1
-    },
-    {
-      "source": "S-max.jp",
-      "count": 1
-    },
-    {
       "source": "Impress.co.jp",
+      "count": 2
+    },
+    {
+      "source": "Matometanews.com",
+      "count": 2
+    },
+    {
+      "source": "Livedoor.blog",
       "count": 1
     },
     {
-      "source": "Phileweb.com",
+      "source": "Vippers.jp",
       "count": 1
     }
   ],
@@ -84,7 +84,7 @@
     {
       "date": "2026/11/26",
       "articleCount": 20,
-      "highImportanceCount": 3
+      "highImportanceCount": 0
     },
     {
       "date": "2026/11/27",
@@ -92,8 +92,8 @@
       "highImportanceCount": 0
     }
   ],
-  "lastUpdated": "2026-11-27T07:56:30.246Z",
-  "updateTime": "2026/11/27 7:56:30",
+  "lastUpdated": "2026-11-27T18:38:08.301Z",
+  "updateTime": "2026/11/27 18:38:08",
   "systemInfo": {
     "version": "1.0.0",
     "autoUpdate": true,
@@ -102,13 +102,13 @@
   },
   "detailed": {
     "articlesPerDay": {
-      "2026/11/26": 20,
       "2026/11/24": 6,
       "2024/3/28": 1,
       "2024/3/20": 2,
       "2024/3/18": 1,
       "2024/3/29": 1,
       "2026/11/18": 2,
+      "2026/11/26": 20,
       "2026/11/23": 1,
       "2026/11/12": 1
     },
@@ -119,26 +119,18 @@
       },
       {
         "keyword": "Google",
-        "count": 7
-      },
-      {
-        "keyword": "OpenAI",
-        "count": 3
+        "count": 6
       },
       {
         "keyword": "ChatGPT",
-        "count": 2
-      },
-      {
-        "keyword": "人工知能",
         "count": 1
       }
     ],
     "trendingTopics": [],
     "qualityMetrics": {
       "articlesWithSummary": 0,
-      "averageTitleLength": 57.77142857142857,
-      "sourceDiversity": 10
+      "averageTitleLength": 57.94285714285714,
+      "sourceDiversity": 14
     }
   }
 }
